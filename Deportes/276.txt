@@ -1,0 +1,93 @@
+﻿
+La tecnología y el big data llegan al rescate del atletismo.
+Una frase lamento que todo aquel que se acercara a escribir del atletismo español oía repetida mil
+veces era aquella de que a cada atleta juvenil muy bueno (o muy buena) que saliera había que
+cuidarlo como oro en paño, que no se rompa, porque era único, tan pocos salían.
+Esa frase no se oye para nada en el discurso de Mateu Cañellas y Miguel Vélez, los responsables de las
+áreas de desarrollo y análisis de la federación española. Más bien como maoístas de libro rojo su lema
+será “que cien flores florezcan”. Para ello, para que los talentos del atletismo español no sean como
+boletus que crecen espontáneamente, y se multipliquen, y no sean solo producto de la fortuna, entre
+ambos han creado una herramienta de detección y desarrollo tan espectacular que cuando se la
+presentaron, la semana pasada, a los técnicos del Consejo Superior de Deportes (CSD) estos
+simplemente les dijeron que por qué no se la ofrecían a todas las federaciones. Un big data nacional
+que revolucionará la forma de trabajar del atletismo español.
+“Que nazca un Yago Lamela no es una variable que podamos controlar”, explica Ramon Cid, el
+exdirector técnico del atletismo español que dio entrada a Vélez y Cañellas en el equipo, recordando al
+mejor saltador de longitud de la historia en España. “Pero que haya un Juanjo Azpeitia, un entrenador
+de longitud, en la pista el día que Yago va a la pista sí que es una premisa que nosotros podemos
+controlar. No que nazca Yago”.
+Para ello está el método y la herramienta. El método servirá para sistematizar todo el trabajo de
+concentraciones, monitorizaciones, reuniones de entrenadores, congresos, que se hacen hasta ahora
+de una manera desestructurada. “Somos como el conejo de Alicia, que corremos y vamos siempre
+correcto porque no tenemos un sitio al que queramos ir”, dice Cañellas. “Así a veces a algún
+entrenador le cae un talento y lo hace brillar. Pero este sistema anárquico depende más del factor
+suerte, de que el talento tenga al lado un entrenador. Parece la sopa del inicio de la vida. También
+pasa al contrario, que salga un talento y alguien se lo cargue”.
+Con la herramienta y la filosofía en la que se sustenta, que todas las semillas de talento encuentren
+suelo donde germinar, todo debería cambiar. “La herramienta es como un GPS: le dices donde estás y
+a donde quieres llegar y te guía”, dice Vélez. “Y queremos crecer”.
+Resumen de Prensa
+18/12/2018 16:57
+página 260/284
+“Para sacar tres o cuatro medallas hay que llegar con 10 posibilidades. El sistema de captación y
+seguimiento enfocado a la alta competición debe hacer que el mayor número de potenciales
+medallistas llegue a la alta competición”, dice Cañellas, que no duda en usar terminología empresarial
+y en citar los cursos de la escuela de negocios del IESE como inspiración para desarrollar su método, y
+también habla del valor compartido de Porter y de marketing directo. “Del método de enseñanza
+empresarial he cogido la parte de cómo estructurar el modelo deportivo que Vélez lleva años
+aplicando a los saltos”.
+La herramienta es una hoja Excel con datos antropométricos y resultados de test de velocidad, salto,
+lanzamiento, flexibilidad, abdominales y carrera de cientos de atletas de entre 10 y 16 años. Al mismo
+tiempo que se descubre a talentos se controla su crecimiento longitudinal, y se establece su
+seguimiento, se analiza en qué debe trabajar más para crecer mejor, sin quemar etapas, y se hace
+crecer simultáneamente a su entrenador con él, y se le condiciona para que le entrene en lo que más
+deficitario esté. “También sirve para detectar entrenadores con talento a los que no controlábamos
+porque no tenían grandes talentos”, dice Cid. “Y todos entrenarán mejor”. Y transversalmente se
+comparará a cada atleta con la media de atletas de su edad.
+“Saldremos de la comodidad de antes, de que solo se valoraba a los primeros clasificados en los
+campeonatos, sin pararnos a pensar en la influencia de la diferencia entre edad biológica y edad
+cronológica, que para un chaval de 13 años cronológicos puede ser de ocho años: biológicamente los
+hay de nueve y de 17 a los 13, con lo que el mayor biológicamente siempre gana, y quizás el talento es
+precisamente el de desarrollo tardío”, dice Cañellas. “Y gracias a las pruebas fijadas por Vélez,
+sabremos en todo momento la edad biológica de todos para no equivocarnos”.
+“El entorno es básico”, dice Vélez. “Por eso, cuando vamos a las autonomías a hacer los test
+convocamos también a los padres para que psicólogos, nutricionistas y otros especialistas les enseñen
+cómo hay que decirles las cosas a los niños, cómo comportarse ante el éxito y el fracaso, para que no
+focalicen todo el interés en el resultado, y no lo pueden procesar, y es un desastre...”.
+Trabajando con la base de datos construida con el Excel, con las matrices que les permiten observar
+las deficiencias en la formación de los deportistas, con las informaciones que proporcionan los atletas,
+Mateu Cañellas y Miguel Vélez observan satisfechos cómo llegados a los 17 nadie planea a los atletas el
+dilema que sí deben afrontar otros deportistas: o dejas de estudiar o no llegas a la elite mundial.
+“Gran parte de los mejores son universitarios”, dice Vélez. “Y eso está muy bien, porque si solo eligen
+atletismo si llega un momento en el que no rinden como esperaban y no tiene otra forma de ganarse
+la vida es más fácil que caigan en la tentación del dopaje, por ejemplo”.
+Pero tan buena es la herramienta que también les ha hecho descubrir algo que no les gusta tanto,
+pero que necesitaban saber para ponerle remedio. “Algo raro descubrimos”, explica Cañellas. “En
+mujeres solo seleccionamos a atletas tardías, las que llegan tarde al atletismo, y que las que han
+empezado antes se van del atletismo cuando alcanzan los 15 años de edad biológica, y da igual que
+sean júniors o que sean promesa”.
+Explica más detalladamente el responsable de desarrollo de la federación que las júniors controladas
+tienen dos años menos de edad biológica, las juveniles, uno, y los cadetes están en ella. “Tendemos a
+seleccionar solo a las que tienen 15 años. Discriminamos a todas las demás, las echamos del atletismo
+cuando su cuerpo empieza a cambiar”.
+Cañellas añade que solo se selecciona a aquellas que gozan del beneficio hormonal de la DHEA, la
+sustancia que dispara la respuesta anabólica, como la testosterona, del cuerpo, y que florece entre los
+11 y los 15 años. “Pero a los 15, cuando entran los estrógenos en acción y las mujeres cogen peso y se
+ensanchan las caderas, discriminamos a las chicas. No las seleccionamos. Cuando llegan a los 15 años
+Resumen de Prensa
+18/12/2018 16:57
+página 261/284
+les decimos que ya no nos sirven para atletismo. Y no nos damos cuenta de que las estamos echando.
+Premias a las que solo tienen cuerpo de niña y fomentas, indirectamente problemas como la
+anorexia”.
+“No nos habíamos dado cuenta hasta establecer esta tecnología”, acepta Ramón Cid, responsable
+técnico del atletismo español hasta hace una semana. “Ahora vamos a seguir invitando a todas porque
+sabemos que es un problema pasajero, que dura unos años, y lo hablamos con los padres. A los 15
+años, las jóvenes que antes destacaban y eran las mejores empiezan a ver que no funcionan como
+atletas y lo achacan a que han cogido cinco kilos, por ejemplo, y muchas dejan de comer... Si saben
+que eso es normal, y que pasará, cambiarían. Tenemos pensado hacer una campaña fuerte. Si hay un
+vídeo de Ruth Beitia, donde cuenta que ella pasó cuatro años horrorosos, pero luego fue campeona
+olímpica, y lo ve todo el mundo, salvaremos a chicas y no destrozaremos a personas”.
+Medio: RTVE Noticias - España Fecha: 19/11/2018 (16:52:00)
+Términos: deportes
+
