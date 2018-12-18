@@ -1,0 +1,131 @@
+﻿
+Los partidos quieren ser el Gran Hermano.
+La nueva ley orgánica de Protección de Datos (LOPD) que desarrolla en España el Reglamento General
+de Protección de Datos de la UE (RGPD) –que ya ha sido aprobada por unanimidad en el Congreso, y
+que se debatió ayer en el pleno del Senado– permitirá a los partidos no sólo mandar propaganda
+electoral mediante cualquier medio de comunicación directa –como mensajes de WhatsApp o correo
+electrónico–, sino además rastrear datos personales y opiniones políticas –por ejemplo en las redes
+sociales– sin necesidad de obtener el consentimiento del afectado. Eso les permitirá hacer perfiles
+ideológicos y personalizar su propaganda en las campañas electorales.
+Y todo gracias a la disposición adicional tercera de dicha ley –introducida por el PSOE–, que incorpora
+un nuevo artículo en la ley orgánica del Régimen Electoral General (Loreg), el 58 bis, que cambia la
+regulación de la propaganda electoral.
+El fantasma de Facebook y Cambridge Analytica sobrevuela sobre todos los partidos españoles, ya que
+la LOPD en trámite goza del consenso de todas las fuerzas parlamentarias, hecho extraordinario en los
+tiempos que corren. Y, en el horizonte, una posible jornada electoral en mayo, en la que en un único
+día se pueden celebrar elecciones ge nerales, europeas, locales y autonómicas.
+Ninguna formación política ha presentado enmiendas a la controvertida norma.
+Lo curioso es que desde el propio PSOE se asegura que “hay un gran equívoco” y que con la inclusión
+de este apartado se pretendía el efecto contrario: “Introducir garantías ante varios riesgos que
+producen las nuevas tecnologías en los procesos electorales” y evitar casos de usos ilícitos de
+información personal para fines electorales, como el de Cambridge Analytica.
+Si se lee el texto original de dicho artículo, efectivamente, parece que esa era la intención: “Quedan
+prohibidas las actividades de propaganda electoral basadas en la elaboración de perfiles electorales
+en redes sociales o equivalentes cuando no se informe a sus destinatarios sobre su finalidad, la
+identidad del responsable o la entidad contratada para su realización y los criterios de selección”. Que
+se haya llegado a un redactado que permite todo lo contrario y que se salta el RGPD ha sido calificado
+desde el mundo jurídico como “muy grave” y de “chapuza técnica”.
+Según Jorge García, abogado y delegado de protección de datos, la ley “abre la veda para que los
+partidos puedan contratar los servicios de empresas que están como locas para darse a conocer y
+explicar que han ayudado a ganar unas elecciones”. Ya no es sólo que los partidos puedan mandar
+mensajes a sus simpatizantes, sino que ahora pueden “montar auténticas campañas de
+desinformación dirigidas a simpatizantes de otros partidos”.
+Varios juristas califican la ley de “chapuza técnica” y sus efectos como “muy graves”.
+Por su parte, Víctor Domingo, presidente de la Asociación de Internautas, opina que “la ley se ha hecho
+Resumen de Prensa
+18/12/2018 18:01
+página 280/315
+con muy poca transparencia, a escondidas, y sin consultar con nadie. Por eso las críticas han aparecido
+cuando ha llegado al Senado, que es cuando hemos podido conocer su auténtico alcance”.
+Para el presidente de los internautas españoles, lo que la LOPD permite a los políticos “es la
+manipulación de la información y el seguimiento de tendencias de los ciudadanos. Espiarnos”.
+Pero esta no es la única crítica que Domingo hace a la nueva LOPD. De hecho, el nombre completo de
+la norma es ley orgánica de Protección de Datos y Derechos Digitales, por lo que “no es una ley
+exclusiva de protección de datos, sino una ley de internet encubierta, en la que se han incorporado
+muchas otras cosas –que merecen una ley aparte– que no tienen nada que ver con la privacidad y
+además tratadas de forma muy general”, asegura Domingo. Entre otros aspectos, establece garantías
+para la investigación biomédica más allá de la protección personal e incorpora derechos digitales
+como la desconexión virtual laboral o el testamento digital.
+El RGPD “considera las opiniones políticas datos de categoría especial” –dice García–, y por tanto está
+prohibido tratarlos, salvo si concurre en alguna de las excepciones recogidas en el propio reglamento:
+interés público, datos hechos manifiestamente públicos por el interesado –que en ningún caso se
+puede interpretar como aquello que las personas manifiestan en sus redes sociales–, consentimiento,
+contrato, obligación legal, interés vital e interés legítimo. “El interés legítimo es el que ampara a las
+empresas a recabar datos sin nuestro consentimiento, y que se concreta, por ejemplo, en poner
+cámaras de videovigilancia en las tiendas para evitar robos, pero con algunos requisitos como por
+ejemplo no ponerlas en los probadores”, asegura este abogado.
+Los internautas acusan a los diputados de haber legislado sin escuchar a nadie.
+Para García los partidos políticos no tienen esta legitimación, ya que si la LOPD que se está tramitando
+entra finalmente en vigor, podrán “recopilar datos personales relativos a las opiniones políticas de las
+personas –amparándose en el interés público–, utilizar datos personales obtenidos en páginas web y
+otras fuentes –léase las redes sociales o empresas tipo Cambridge Ana lytica– para la realización de
+actividades políticas durante el periodo electoral”, algo que va mucho más allá de lo que se entiende
+como interés legítimo, explica García.
+Otra cuestión clave es la del interés público. “La LOPD utiliza esta vía, que permite el RGPD, pero como
+el legislador europeo desconfiaba de los estados miembros, introdujo la obligación de hacerlo sólo
+cuando sea necesario, y siempre con las garantías y la proporcionalidad adecuadas. El artículo 58 bis
+de la LOPD apela al interés público, pero sin las salvaguardas, ya que se mencionan pero no se
+identifica cuáles son”, dice.
+Además –prosigue este experto– “la LOPD recupera la categoría derogada por el RGPD de las fuentes
+accesibles al público. Y no sólo la recupera, sino que la amplía al incluir las páginas web, que no
+estaban en la LOPD de 1999, que las limitaba al censo promocional, la edición más actualizada de los
+repertorios telefónicos y los listados de colegiados, boletines oficiales y medios de comunicación”.
+Se podrá dar a los datos un uso distinto de aquel para el que se dio el consentimiento.
+Además, es obvio que existen en internet bases de datos de personas y empresas que los
+comercializan, como también existen maneras de recopilar listados de personas que manifiestan
+determinadas preferencias u opiniones políticas, “pero una cosa es que existan y otra muy distinta es
+que los datos se puedan reutili- zar para cualquier fin”, concluye García.
+Por último, el apartado 3 del artículo “ofrece a los partidos políticos la posibilidad de saltar se los
+requisitos de la ley de Servicios de la Sociedad de la Infor mación y del Comercio Electrónico relativos al
+envío de comunicaciones comerciales, al sacar la propaganda electoral de la categoría de
+comunicación comercial, aspecto que es muy discutible”.
+Resumen de Prensa
+18/12/2018 18:01
+página 281/315
+¿Y qué es lo que pueden hacer los usuarios para protegerse? Según la Asociación de Expertos en
+Ciberseguridad, Auditores y el Control de los Sistemas de Información, uno de los problemas es que,
+“al no considerarse el envío de propaganda electoral como comunicación comercial, no es posible
+pedir que nos incluyan en la lista Robinson para no recibir propaganda electoral”. Por eso no quedará
+más remedio, cada vez que llegue uno de estos mensajes, que hacer clic en el enlace para ejercer el
+derecho a oposición, tal y como establece el punto 5 del artículo 58 bis. Otra opción –comenta García–
+es “dirigirse a la Junta Electoral Central y pedir que no nos manden más propaganda electoral. Claro
+que también tendríamos que pedir que los partidos borraran nuestros datos, ya que estamos ante dos
+derechos distintos”.
+Por su parte, Domingo también lamenta que “la Agencia Española de Protección de Datos no haya
+hecho oír su voz, ya que en definitiva es a quien le tocará ejecutar la ley”.
+Artículo 58 bis.
+Utilización de medios tecnológicos y datos personales en las actividades electorales.
+1 La recopilación de datos personales relativos a las opiniones políticas de las personas que lleven a
+cabo los partidos políticos en el marco de sus actividades electorales se encontrará amparada en el
+interés público únicamente cuando se ofrezcan garantías adecuadas.
+2 Los partidos políticos, coaliciones y agrupaciones electorales podrán utilizar datos personales
+obtenidos en páginas web y otras fuentes de acceso público para la realización de actividades políticas
+durante el periodo electoral.
+3 El envío de propaganda electoral por medios electrónicos o sistemas de mensajería y la contratación
+de propaganda electoral en redes sociales o medios equivalentes no tendrán la consideración de
+actividad o comunicación comercial.
+4 Las actividades divulgativas anteriormente referidas identificarán de modo destacado su naturaleza
+electoral.
+5 Se facilitará al destinatario un modo sencillo y gratuito de ejercicio del derecho de oposición.
+ITALIA.
+En marzo de 2014, la Autoridad Italiana reguló el tratamiento de datos personales por parte de los
+partidos políticos, y estableció la prohibición general de utilizar los datos personales publicados en
+internet con finalidades políticas si los mismos habían sido captados con otras finalidades.
+FRANCIA.
+En noviembre del 2016, la Autoridad Francesa (CNIL) emitió unas directrices en las que subrayaba que
+el tratamiento de datos personales de los votantes para su perfilado y selección en redes sociales sólo
+podía ser lícito con base al consentimiento explícito.
+REINO UNIDO.
+La autoridad británica (ICO) también emitió sus propias disposiciones en abril del 2017 y estableció
+que si un partido político recoge datos de una página web o de cualquier otra fuente, tiene que
+informar al interesado directamente sobre lo que se propone hacer con dichos datos. Aunque la
+información esté “aparentemente accesible al público”, como ocurre en internet y en las redes
+sociales, ello no significa que se pueda reutilizar para cualquier fin. Y si así sucede, el partido se
+convierte en el responsable del tratamiento y tiene que cumplir con toda la normativa de protección
+de datos.
+Resumen de Prensa
+18/12/2018 18:01
+página 282/315
+Medio: La Vanguardia - Política Fecha: 20/11/2018 (18:59:35)
+Términos: política
+

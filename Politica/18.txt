@@ -1,0 +1,115 @@
+﻿
+Las prácticas más oscuras para ganar influencia política en las redes
+sociales.
+Todo el mundo quiere tener influencia en las redes sociales: artistas, deportistas, emprendedores y
+ciudadanos. Los políticos, también. Algunos incluso pagan para apropiarse de cuentas con influencia
+social, compran seguidores o generan conversaciones falsas. El objetivo es marcar la agenda mediática
+y condicionar la opinión pública. Ahora que las redes sociales tienen un papel relevante en los
+procesos electorales, tal y como ha quedado demostrado en las elecciones estadounidenses de 2016
+que encumbraron , el Brexit o el procés , analizamos con investigadores y consultores en marketing
+cómo se genera parte de la influencia en Internet.
+La cuenta de Twitter que dice representar a Anonymous en España, @anonymus_ES, ha empezado a
+emitir mensajes de extrema derecha. La investigadora de la Universidad Carlos III de Madrid, Mariluz
+Congosto, reparó en ello mientras analizaba la conversación generada en Twitter alrededor del
+programa de Salvados sobre el referéndum del 1-O. Se trata, según sus palabras, de “una cuenta
+mercenaria, es decir, un perfil falso que presenta una identidad engañosa y que ahora, haciéndose
+pasar por Anonymous, quiere colocar mensajes de ideología de extrema derecha”.
+Detrás de la suplantación de este perfil está la voluntad de inflar el mensaje de la extrema derecha
+mediante la utilización de una cuenta vinculada al movimiento hacktivista que tiene 28.000 seguidores.
+La nueva identidad emite mensajes en sintonía con el partido de extrema derecha VOX, defiende
+ataques a partidos políticos de izquierda y vitorea a líderes xenófobos como Trump, Bolsonaro o
+Salvini.
+Para un usuario cualquiera, sin embargo, resulta casi imposible detectar una cuenta mercenaria.
+Algunos indicios que señalan el uso fraudulento de este perfil son el error en el nombre de usuario (en
+el que falta una “o” antes de la “u”, @anonymus_ES), su escaso número de mensajes para ser una
+cuenta con muchos seguidores abierta en 2013 (los tuits de la cuenta anteriores a 2017 han sido
+borrados) y el gran número de retuits que acumula cada uno de los mensajes.
+Camuflar la propaganda de apoyo a un candidato o a un partido político como si se tratara de un
+movimiento espontáneo, proveniente en este caso del perfil hacktivista de Anonymous, es una
+práctica habitual en marketing digital que se conoce como astroturfing . En 2014, Podemos puso en
+Resumen de Prensa
+18/12/2018 18:01
+página 61/315
+marcha una práctica similar: a través de la cuenta @podemosrecicla pidió a los usuarios con cuentas
+inactivas que las cediera al partido para crear mensajes en favor del reciclaje. Los propietarios debían
+enviar las contraseñas mediante mensaje directo y ceder el control de esta.
+Además de generar sensación de respaldo popular, el astroturfing también persigue impulsar
+conversaciones para favorecer a un cliente, atacar a rivales o magnificar algunos temas para
+colocarlos en la agenda mediática. En el mercado negro de la influencia social operan bots (cuentas
+automáticas, máquinas), trols y cuentas mercenarias. Se calcula que aproximadamente el 15% de las
+cuentas activas en Twitter son bots, según publicaba recientemente The New York Times en una
+extensa investigación sobre el tema.
+Un 85% de los internautas españoles de entre 16 y 65 años utilizan las redes sociales, lo que
+representa 25,5 millones de usuarios, según el último informe de IAB Spain (2018). El uso de estas
+plataformas, además de transformar la manera en la que nos comunicamos y compramos, y traer
+nuevas caras a la lista Fortune 500, ha creado un nuevo indicador económico: la cantidad de personas
+que te siguen, hacen “me gusta” en las publicaciones o dejan comentarios.
+Para algunos artistas y emprendedores, pero también para los políticos, este estado virtual sirve como
+moneda de cambio en el mundo real. En el caso de los artistas, los seguidores en redes sociales
+ayudan a determinar quién los contratará, cuánto se les pagará. En el de los políticos, influye a la hora
+de marcar la agenda mediática e influir en la toma de decisiones políticas.
+En los últimos años hemos conocido algunos casos de políticos que han comprado seguidores para
+incrementar fraudulentamente su influencia social. El caso más sonado fue el de Mariano Rajoy, cuya
+cuenta de Twitter ganó 60.000 seguidores en un solo día en 2014. Al año siguiente, Pedro Sánchez fue
+acusado de recibir en Twitter el apoyo de 80 cuentas falsas que lanzaban spam político. La cuenta
+@BotsPoliticosNo ha analizado los perfiles sociales de políticos y partidos y ha detectado este
+comportamiento en formaciones y líderes de toda índole.
+Además de las cuentas mercenarias y los perfiles falsos, hay mecanismos para generar
+conversaciones. Los investigadores Massimo Stella, Emilio Ferrara y Manlio De Domenico detectaron
+que uno de cada tres usuarios que emitieron mensajes en Twitter durante la celebración del
+referéndum del 1 de octubre de 2017 eran bots que emitían mensajes tóxicos para polarizar la
+conversación digital. “Mostramos que los robots actúan desde áreas periféricas del sistema social para
+atacar a cuentas influyentes de ambos grupos, bombardeando a los independentistas con contenido
+violento, aumentando su exposición a narrativas negativas e inflamatorias y exacerbando el conflicto
+social en línea”, apuntan en un artículo publicado recientemente en la revista científica PNAS,
+publicación de la Academia Nacional de Ciencias de Estados Unidos.
+Comprar seguidores falsos, “me gusta” o comentarios es fácil y tiene un precio bajo. Una simple
+búsqueda en Google nos remite a páginas como compraseguidores.com que ofrece packs que oscilan
+entre los 50 dólares por 1.000 seguidores en Twitter hasta 3.000 dólares por 100.000. Para Facebook
+tienen tarifas más bajas: 22 dólares por 1.000 fans y 999, por 100.000.
+comprarmuchosseguidores.com vende 1.000 seguidores en Instagram por 5,99 euros. En foros como
+Black Hat World , gestores de redes sociales de todo el mundo se dan consejos sobre qué
+herramientas funcionan mejor y cómo sortear las normas de uso de las redes sociales.
+En el sector profesional todo el mundo conoce estas prácticas, pero las consideran residuales y a la
+baja. “Todavía hay políticos o partidos que nos hacen estas demandas”, explica el director de la
+agencia de marketing digital Imagina, Arnau Sanz. “A menudo hay mucho desconocimiento acerca de
+lo qué hay que hacer en el terreno digital y los clientes están obsesionados con el número de
+seguidores. Nosotros no recomendamos esta métrica e insistimos que hay otras mejores como el
+número de veces que tu mensaje aparece en la pantalla de los usuarios, para eso funciona el
+Resumen de Prensa
+18/12/2018 18:01
+página 62/315
+retargeting, o poner el foco en grupos de influencers de determinada temática y establecer
+conversaciones con ellos”.
+“Hay partidos y políticos que utilizan bots en la estrategia comunicativa, sin duda”, dice Bernat Castro,
+asesor de marketing digital de partidos y políticos catalanes. “Lo veo más en partidos viejos, que
+necesitan crear cosas artificiales en el terreno digital. En los partidos nuevos, como Podemos o
+Ciudadanos, sin embargo, las bases están muy movilizadas y no se perciben tantos comportamientos
+extraños”.
+Julio Lleonart, ex responsable de redes sociales de UPyD y exdiputado, explica que la automatización
+de mensajes cada vez se da menos porque políticos y partidos están muy vigilados. “He visto políticos
+que han comprado seguidores porque se sentían amenazados por la competencia. Pero es una táctica
+cortoplacista. El trabajo en redes hay que hacerlo con grupos de ciberactivistas dispuestos a ceder sus
+espacios digitales para emitir mensajes políticos. Hay tres tipos de cuentas en estos grupos: las de
+personas convencidas e implicadas con el partido o el político de turno, las de personas que ceden sus
+cuentas al partido y los bots”.
+Bots: Son cuentas automatizadas, máquinas. En Twitter, las de poco valor acostumbran a tener un
+huevo en la foto de perfil y una serie de números en el nombre de usuario. Y no acostumbran a emitir
+mensajes porque se crean sólo para engordar el número de seguidores de otras cuentas. Las de
+mayor valor, sin embargo, tienen foto de usuario y emiten contenido como si de un usuario normal se
+tratase. Comprar este tipo de seguidores es más caro.
+Trols: En Internet, un trol describe a una persona o un bot que publica mensajes provocadores con la
+intención de molestar o provocar sentimientos negativos en la comunidad.
+Cuentas mercenarias: Perfiles de redes sociales que cambian de identidad y emiten mensajes en
+función del cliente que los gestione.
+Astroturfing: Camuflar la propaganda de apoyo a un candidato o a un partido político como si se
+tratara de un movimiento espontáneo. Además de generar sensación de respaldo popular, también
+persigue impulsar conversaciones para favorecer a un cliente, atacar a rivales o magnificar algunos
+temas para colocarlos en la agenda mediática.
+Newsjacking: Utilizar las etiquetas que son trending topic para colar mensajes que no tienen que ver
+con el tema ques es tendencia con el objetivo conseguir que un mensaje alcance mayor notoriedad.
+Black Hat SEO: Técnicas para engañar a los buscadores y conseguir mejor posicionamiento de una
+página web. Algunas de estas técnicas se utilizan también dentro de las redes sociales.
+Medio: La Vanguardia - Política Fecha: 15/12/2018 (18:26:29)
+Términos: política
+
