@@ -2,6 +2,7 @@
 from nltk.tokenize import wordpunct_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
+from nltk.stem import SnowballStemmer
 import warnings
 warnings.filterwarnings(action='ignore', category=FutureWarning, module='gensim')
 
@@ -38,7 +39,7 @@ sample_test_deportes = 'Marcelo compareció en sala de prensa en la previa del d
 
 def preprocess_document(doc):
 	stopset = set(stopwords.words('spanish'))
-	stemmer = PorterStemmer()
+	stemmer = SnowballStemmer('spanish')
 	tokens = wordpunct_tokenize(doc)
 	clean = [token.lower() for token in tokens if token.lower() not in stopset and len(token) > 2]
 	final = [stemmer.stem(word) for word in clean]
@@ -110,17 +111,22 @@ def train(corpus, glossary):
     qtfidf = tfidf[vq]
     print("TEXTO TEST TFIDF", qtfidf)
     sim = index[qtfidf]
+    ranking = sorted(enumerate(sim), key=itemgetter(1), reverse=True)
+    for doc, score in ranking[:10]:
+        print ("[ Score = " + "%.3f" % round(score,3) + "] " + corpus[doc]); 
     
     #vq = [[0,1,1,0,0,0,0,0,1]]
-    print("GLOSARIO EJEMPLO: ", glossary, "\n")
-    print("DOCS TRAIN: ", sample_corpus, "\n")
-    print("DOC TEST: ",sample_test_deportes , "\n")
-    print("SIMILARIDAD CON CADA DOC:", sim, "\n")
+    #print("GLOSARIO EJEMPLO: ", glossary, "\n")
+    #print("DOCS TRAIN: ", sample_corpus, "\n")
+    #print("DOC TEST: ",sample_test_deportes , "\n")
+    #print("SIMILARIDAD CON CADA DOC:", sim, "\n")
     #print("SIM CON VEC DEPORTES ", cosine_similarity(vq,sports_vector))
     #print("SIM CON VEC POLITICA ", cosine_similarity(vq,politics_vector))
     #print("SIM CON VEC SALUD ", cosine_similarity(vq,health_vector))
 
 glossary = read_glossary('./Glosario/')
-corpus = read_corpus('./Deportes/')
-train(corpus, glossary)
+corpus_deportes = read_corpus('./Deportes/')
+corpus_politica = read_corpus('./Politica/')
+corpus_salud = read_corpus('./Salud/')
+train(corpus_deportes, glossary)
 
