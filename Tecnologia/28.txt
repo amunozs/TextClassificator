@@ -1,0 +1,89 @@
+﻿
+Nokia intensifica su apuesta por la Industria 4.0.
+Nokia ha presentado recientemente “Future X for industries”, una estrategia y arquitectura de red
+desarrollada por Bell Labspara impulsar mejoras drásticas en la productividad de una amplia gama de
+sectores industriales. El objetivo es catalizar la productividad y el crecimiento económico en la era de
+la Industria 4.0., sacando provecho de las tecnologías como el Internet industrial de las cosas (IIoT), la
+nube distribuida, la inteligencia aumentada, la realidad aumentada y virtual, y las redes de alto
+rendimiento que incluyen LTE avanzado y 5G, protegidas con soluciones de seguridad avanzadas. La
+idea es hacer que todas ellas sean una realidad que mejore los negocios, acelerando radicalmente la
+transformación digital de industrias como las manufactureras, logística, transporte y energía, así como
+las administraciones y las ciudades.
+Para ello, y como muestra del compromiso de la compañía con los mercados industriales, la compañía
+Resumen de Prensa
+20/12/2018 18:12
+página 45/151
+ha creado un Enterprise Business Group dedicado y un portafolio de software y redes a medida con
+estos objetivos. Todo ello complementado con un sólido ecosistema de proveedores de servicios,
+tecnología y socios de canal para garantizar las mejores soluciones.
+Cuando las tecnologías como IIoT; Edge cloud que soporta inteligencia aumentada y analítica
+avanzada de seguridad; y las redes de 5G de extremo a extremo se conviertan en una realidad,
+acelerarán radicalmente la transformación digital de industrias como fabricación, logística, transporte y
+energía, así como los gobiernos y las ciudades. El enfoque holístico de Nokia promete ayudar a
+impulsar una nueva era de productividad e interacción hombre-máquina que aportará billones de
+dólares de valor económico en la próxima década.
+Hasta la fecha, la digitalización y la automatización de las empresas ha generado beneficios de
+productividad, principalmente al cambiar las funciones de soporte empresarial de las operaciones
+físicas a las digitales. Si bien estas ganancias han sido notables, solo alrededor del 30% de las
+empresas, en su mayoría en industrias centradas en TI, han podido darse cuenta de la "oportunidad
+digital". Es importante destacar que las industrias tradicionales de uso intensivo de activos, que
+comprenden más de dos tercios del PIB en los Estados Unidos, aún tienen que experimentar los
+beneficios completos de esta transformación digital, conocida como Industria 4.0.
+Las industrias físicas dependen de una variedad de aplicaciones empresariales y de misión crítica
+emergentes que, cuando se digitalizan y automatizan, ofrecen el potencial para hacer que las redes
+eléctricas sean más inteligentes, las fábricas más productivas, la Internet de las Cosas Médicas (IoMT)
+sensible y confiable, las ciudades más seguras y más habitable y mucho, mucho más.
+Las aplicaciones emergentes de la Industria 4.0 requerirán sistemas interconectados a la perfección
+que puedan detectar, analizar, optimizar y controlar atributos y acciones clave en una amplia gama de
+activos que incluyen maquinaria, herramientas y dispositivos. La arquitectura Future X de Nokia
+proporciona un marco para sistemas abiertos y conectados para cada industria que puede acelerar la
+digitalización y automatización de estos activos físicos, con precisión milimétrica e inteligencia
+aumentada, sin importar dónde se encuentren.
+Para lograr esto, las redes deben ser capaces de conectar todo simultáneamente, con una calidad de
+servicio garantizada, incluso a medida que crece el número, la diversidad y la distribución de los
+activos. Para que las compañías analicen la información sobre el estado de esos activos y optimicen
+sus operaciones, las redes deben tener la flexibilidad de conectar las aplicaciones de la industria para
+computar los recursos de una manera que cumpla con los estrictos requisitos de latencia, capacidad,
+fiabilidad y seguridad. Deben poder adaptarse dinámicamente para transportar cantidades de datos
+que varían enormemente entre una multitud de dispositivos, sensores, máquinas y plataformas para
+recopilar y aplicar información más profunda que, en última instancia, respalde la ejecución precisa,
+maximice la productividad y mejore la seguridad.
+La arquitectura que presenta la compañía incorpora distintas capas de tecnología diseñadas para
+cumplir con los requisitos clave de redes industriales, que incluyen:
+• La capa de aplicaciones empresariales, que abarca las aplicaciones específicas para cada segmento
+de la industria, incluidas áreas clave como el mantenimiento predictivo, la eficiencia y la seguridad de
+la fuerza laboral y la optimización de activos• La capa Digital Value Platforms que admite la
+automatización industrial, el análisis cognitivo y las operaciones digitales, y habilita las plataformas de
+red y dispositivos.• La capa Multi-cloud que proporciona proximidad y elasticidad de cómputo para
+garantizar que se cumplan los estrictos requisitos de rendimiento de las aplicaciones críticas para el
+negocio utilizando los modelos de nube más apropiados (desde nubes locales a nubes Edge y
+híbridas)• La capa de redes de alto rendimiento que ofrece una conectividad profunda y ultra confiable
+dedicada (tanto cableada como inalámbrica) para vincular todo: fuerza de trabajo, dispositivos,
+Resumen de Prensa
+20/12/2018 18:12
+página 46/151
+máquinas y herramientas, nubes, socios y clientes de manera flexible y sin problemas.
+Estas capas se combinan con un enfoque de seguridad cibernética de "defensa en profundidad" que
+abarca tanto los procesos de negocios como las intervenciones basadas en tecnología para proteger
+los datos y la infraestructura de extremo a extremo, con la red como una capa clave de detección y
+mediación.
+Cuando se combinan con interfaces hombre-máquina (HMI) más ricas, estas capacidades ofrecerán un
+control intuitivo, aumentado y preciso de sistemas autónomos y operaciones digitales mucho más
+eficientes.
+Y la demanda de tales redes es enorme. Algunas estimaciones indican que los sites LTE solo para uso
+industrial y comercial podrían ser más del doble que los despliegues de red de área extensa
+orientados al consumidor existentes.
+Nokia ha realizado importantes inversiones para respaldar su enfoque industrial, específicamente en
+tecnologías emergentes que incluyen redes definidas por software (SDN) para el centro de datos y las
+aplicaciones SD-WAN, orquestación en la nube distribuida, transmisión avanzada de datos y análisis
+(incluida la reciente adquisición de SpaceTime Insight), automatización de redes y tecnologías de redes
+LTE privadas.
+La compañía también ha ampliado su esfuerzo para abordar las oportunidades de alto crecimiento y
+alto margen con un conjunto de empresas y clientes de la industria que necesitan redes de
+telecomunicaciones. Con este fin, han establecido un nuevo Enterprise Business Group que consolida
+un rango de actividades existentes de rápido crecimiento en una organización enfocada que reporta
+directamente al presidente y al director ejecutivo, bajo el liderazgo de Kathrin Buvac, actualmente
+directora de Estrategia de Nokia.
+Medio: ABC - Conocer Tecnología Fecha: 11/12/2018 (13:53:57)
+Términos: tecnología
+

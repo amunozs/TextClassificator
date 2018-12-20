@@ -1,0 +1,66 @@
+﻿
+¿Cómo asegurar las redes?.
+A principios de octubre, Google anunció el cierre de la versión de consumo de Google+, su plata forma
+social. El motivo oficial de este cese de actividad (poca, dicho sea de paso) fue un fallo de seguridad
+que expuso los datos personales de, al menos, 500.000 usuarios. Esta violación, que se inició en 2015,
+Resumen de Prensa
+20/12/2018 18:12
+página 114/151
+fue lo calizada por la compañía en marzo de este año y la solucionó a través de un proyecto interno
+denominado Strobe que le permi tió descubrir el error de una API llamada “People”. Sin embargo, el
+mal estaba hecho y de nuevo volvía a ponerse sobre la mesa la preocupación acerca de la protección
+de nuestros datos en la Red de redes. Internet, esa carretera sobre la que fluye, con mayor o menor
+intensidad de tráfico, la infor mación. Y sobre la que, a día de hoy, no tenemos un control completo, ¿o
+sí?.
+Ya hablemos de fija o móvil, cableada o inalámbrica, la incertidumbre acerca de que nuestra conexión
+sea segura crece. Las ciberamenazas son cada vez más frecuentes y conocidas. Conviene, pues, estar
+alerta. Pero, sin afán de ser pesimista, por muy protegidos que estemos se van a producir ataques, así
+que tendremos que convivir con ello, dicen siempre los expertos del sector. La clave estará en cómo
+podemos mitigarlos y, en la medida de lo posible, prevenirlos.
+Lo bueno es que existen herramientas disponibles y tecnología capaz de hacer frente a amenazas
+complicadas y sofisticadas, pero de nada sirven si no se utilizan por un usuario concienciado.
+Reflexionemos. En el mercado podemos encontrar antivirus para dispositivos móviles, ¿cuántas
+personas tienen el programa instalado en su smartphone? Profundicemos más en el tema, ¿al
+descargar una aplicación leemos las condiciones de privacidad?, o ¿reseteamos el router regularmente
+o sólo cuando el VPN Filter de turno se cuela por las noticias tomamos cartas en el asunto? En nuestra
+mano está aportar nuestro granito de arena. Bien es cierto que no todo el mundo posee una alarma
+en su casa, rejas en las ventanas, triple cerrojo, y un largo etcétera, pero raro es aquél que deja la
+puerta abierta conscientemente.
+Los fabricantes de seguridad lanzan conti-nuamente versiones de sus últimas solucio-nes para
+proteger equipos e infraestructu-ras y no se cansan de repetir una y otra vez que tiene que ser el
+ciudadano / empleado de a pie el que asuma también la responsa-bilidad de sus actos pues está
+comprobado que el DISPOSITIVO (con mayúsculas), se ha convertido en la puerta de entrada de los
+ataques actuales. Parece ser que el mensaje está empezando a calar en nuestro país. Según el Cyber
+Ready Barometer de Vodafone que la operadora presentó a principios de octubre, prácticamente la
+mitad de los usuarios españoles consultados (55%) no sabe cómo protegerse frente a ciberataques,
+una cifra 11 puntos por encima de la media global (44%). Sin embargo, el desconocimiento de qué
+medidas tomar no está alineado con la preocupación por las amenazas, ya que el 92% de los
+españoles se declara preocupado por el phishing o ataques de ingeniería social, frente al 81% de los
+encuestados a nivel global. Además, el 88% afirma estar preocupado por la pérdida de datos
+personales.
+El barómetro asimismo se centra en el ámbito laboral y, en virtud de las respuestas de los
+trabajadores, el 72% reconoce haber recibido algún curso sobre cibersegu ridad en el trabajo,
+orientado a ampliar co nocimientos y mejorar las capacidades de los empleados frente a las
+ciberamenazas. En la misma proporción, un 72% también confía en la estrategia de ciberseguridad de
+su empresa y en su capacidad para respon der ante estas amenazas. Pero sólo el 45% cree que las
+políticas corporativas de segu ridad se cumplen por todos los empleados, lo que indica que la teoría se
+conoce, pero no siempre se pone en práctica.
+Por último, el documento destaca a España como un país muy sensibilizado sobre las posibles
+consecuencias que un ciberataque o una pérdida de información confidencial puede suponer para su
+imagen de marca y su reputación. En este sentido, el 67% de los directivos españoles consulta dos está
+preocupado por el efecto que estos incidentes pueden tener en su organiza ción, una cifra por encima
+de la media global, que se sitúa en el 60%.
+Pincha aquí para leer el artículo completo. En él se analizan otros aspectos como:
+-Criptografía para comunicaciones seguras.
+Resumen de Prensa
+20/12/2018 18:12
+página 115/151
+-Protección sin cables.
+-IoT: el gran desafío.
+-Herramientas para proteger una red.
+-Real Decreto de seguridad de las redes y sistemas de información.
+-Proyecto FENTEC: compartir datos de forma segura a través de redes no seguras.
+-Mantener la privacidad: 5G y GDPR, aliados de los ciberdelincuentes.
+Medio: Redes Telecom Fecha: 26/11/2018 (00:00:00)
+Términos: tecnología
+

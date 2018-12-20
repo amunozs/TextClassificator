@@ -1,0 +1,97 @@
+﻿
+Oportunidades de la Quinta Generación para la industria móvil.
+En el marco de la novena edición de ‘Global Mobile Broadband Forum’ (MBBF), organizado de manera
+conjunta por Huawei, GSMA y GTI, Ryan Ding, director del Consejo Ejecutivo de Huawei y presidente de
+la Unidad de Negocio de Operadores (en la foto), ha anunciado que la compañía ha firmado 22
+contratos comerciales de 5G. Estos acuerdos son el reflejo del reconocimiento que los clientes de
+Huawei han mostrado sobre las capacidades de extremo a extremo 5G y los productos y soluciones
+innovadores.
+Durante su discurso, Ding ha asegurado que el 5G está iniciando una nueva era para las TIC y tiene
+potencial para aumentar diez veces las capacidades de conexión. De este modo, las redes 5G
+ofrecerán oportunidades sin precedentes a la industria móvil. La release 15, el estándar de 5G
+mundial que utilizará las bandas de frecuencia sub-6 GHz y ondas milimétricas, se centra en la banda
+ancha móvil mejorada (eMBB, por sus siglas en inglés) y anima a los usuarios a consumir más datos,
+ya que pueden hacer más cosas con sus conexiones. El 5G proporcionará un gran ancho de banda
+para los hogares y permitirá que las conexiones WTTx sean la primera opción para la banda ancha.
+Además, ofrecerá nuevas capacidades, incluidas conexiones masivas, velocidades ultrarrápidas y
+latencia ultra baja, que cambiarán los modelos de negocio y crearán un valor comercial enorme para
+los operadores.
+Los principales operadores se están moviendo rápidamente hacia el despliegue comercial del 5G, y el
+desarrollo de la red 5G se está acelerando gracias a dos factores. En primer lugar, los principales
+países del mundo se encuentran entre los primeros en adoptar esta tecnología, y juntos representan
+un tercio de la población mundial - una escala de adopción que es mayor que las primeras olas de
+comercialización observadas en 3G y 4G-.
+El segundo factor que influye es la industria de los dispositivos. Se estima que en 2019 los teléfonos
+5G estén disponibles, incluyendo los teléfonos plegables, para crear nuevas experiencias en los
+usuarios. Además, los principales fabricantes van a lanzar, poco después del despliegue comercial de
+las redes 5G, teléfonos de bajo coste (con un precio de alrededor de 100 dólares) lo que supondrá un
+impulso para la industria 5G.
+En este sentido, Ding ha continuado: "Cada nueva generación de red viene con nuevos desafíos, y esto
+se aplica también a la implementación comercial del 5G. Tomamos la complejidad y entregamos
+simplicidad. Esto significa que vamos a proporcionar soluciones innovadoras para abordar los
+desafíos de la comercialización del 5G. Nuestra estrecha colaboración con los operadores les ayudará
+a encontrar el camino hacia el 5G".
+Para finalizar, el directivo ha concluido: "Las acciones dicen más que las palabras. Hasta el momento,
+hemos firmado 22 contratos comerciales de 5G, y estamos trabajando con más de 50 operadores en
+pruebas comerciales de 5G. A través de una gran inversión e innovación continuada, estamos
+comprometidos con ayudar a los operadores a desplegar redes 5G de manera fácil, rápida y rentable.
+Asimismo, estamos listos para trabajar con todas las partes interesadas con el fin de impulsar un
+desarrollo sólido de la industria 5G".
+Asimismo, la compañía ha reafirmado que en la era de la Inteligencia Artificial (IA, por sus siglas), la
+industria de las telecomunicaciones debe estar preparada para tomar la iniciativa para impulsar el
+Resumen de Prensa
+20/12/2018 18:12
+página 129/151
+desarrollo de las redes de conducción autónomas.
+Durante su discurso, David Wang, director del Consejo Ejecutivo de Huawei (en la foto), ha destacado:
+“Huawei espera trabajar con todos los players de la industria para aplicar la IA a las redes móviles y
+desarrollar métodos innovadores para la gestión de las mismas. Con el objetivo de lograr mayor
+eficiencia, mejor rendimiento y servicios más ágiles, la compañía se compromete a tomar las medidas
+necesarias para crear simplicidad a nuestros clientes. Juntos, haremos realidad las redes de
+conducción autónoma en la era 5G".
+Wang ha comenzado revisando la estrategia de IA que la compañía lanzó en octubre. Asimismo, ha
+asegurado que el 5G ya es una realidad a pesar de la creciente complejidad de la red puesto que
+presenta tres desafíos principales para la implementación de redes móviles. En primer lugar, porque
+en una era en la que coexisten redes 2G, 3G, 4G y 5G, la complejidad de la administración de la red no
+puede abordarse manualmente. En segundo lugar, porque las nuevas tecnologías y la arquitectura,
+como Massive MIMO y las redes heterogéneas, hacen que sea más difícil maximizar el potencial de la
+red. Y, por último, porque las redes 5G permiten un incremento en la diversidad de servicios y, como
+consecuencia, la gestión de la experiencia del usuario se vuelve cada vez más complicada. Para hacer
+frente a estos desafíos, ha señalado Wang, “debemos integrar profundamente la IA con las redes
+móviles para poder así ofrecer una experiencia de usuario superior, aumentar la eficiencia operativa y,
+en última instancia, hacer realidad las redes de conducción autónoma”.
+Las redes de conducción autónoma van mucho más allá de la innovación de un solo producto, y
+cubren la arquitectura innovadora de sistemas y modelos de negocio. En este sentido, Huawei insta a
+la industria a trabajar conjuntamente para definir claramente los estándares y guiar la innovación
+tecnológica, así como su implementación. Con el objetivo de mejorar la experiencia de servicio y la
+eficiencia operativa, la compañía ha propuesto construir redes móviles de conducción autónoma paso
+a paso, desde la planificación y el despliegue de la red, hasta la optimización de la operación y el
+mantenimiento (O&M, por sus siglas en inglés) y el aprovisionamiento de servicios. Teniendo en
+cuenta esto, ha definido cinco niveles de redes móviles de conducción autónoma y ha establecido 12
+objetivos para los mismos.
+Además, David Wang, ha dado a conocer el Libro Blanco “Key Scenarios of Autonomous Driving Mobile
+Network”. Un documento que reúne los resultados de una investigación donde Huawei identifica los
+siete escenarios clave en redes móviles desde tres dimensiones: ciclo de vida de operación y
+mantenimiento de la red, digitalización y contribución de TCO específica para cada escenario. Los siete
+escenarios incluyen: despliegue de la estación base, despliegue de funciones, monitorización del
+rendimiento de la red, análisis y gestión de fallos, mejora del rendimiento de la red, aprovisionamiento
+de servicios domésticos y ahorro de energía de la red.
+Los operadores de telecomunicaciones pueden promover la automatización de la red basada en los
+puntos débiles del servicio y reducir gradualmente los gastos operativos (OPEX, por sus siglas en
+inglés), originados por el fuerte aumento de la complejidad de la red.
+Adicionalmente, el documento también revela cinco capacidades básicas clave (modelo POBSI) para la
+automatización de redes: Programable, Online, Bridging, Sensibilidad e Inteligencia. Así mismo, el
+documento señala que los operadores de telecomunicaciones necesitan crear diferentes capacidades
+para diferentes escenarios.
+Wang ha clausurado su discurso afirmando que “necesitamos innovar la arquitectura y las tecnologías
+clave para lograr un avance continuo en la automatización. Necesitamos introducir capacidades de IA
+en Cloud, Network y Site que permitan además la conducción autónoma en redes móviles". Y ha
+añadido: "La compañía está comprometida con el desarrollo de soluciones tecnológicas y, a través de
+la innovación continua, promoveremos la conducción autónoma en redes móviles y adoptaremos un
+Resumen de Prensa
+20/12/2018 18:12
+página 130/151
+mundo inteligente y plenamente conectado" ha concluido Wang.
+Medio: Redes Telecom Fecha: 23/11/2018 (00:00:00)
+Términos: tecnología
+

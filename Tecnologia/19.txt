@@ -1,0 +1,19 @@
+﻿
+Primera videollamada 5G NR en Europa a través de ondas milimétricas.
+Qualcomm Technologies, TIM y Ericsson han completado la primera videollamada 5G NR europea en
+Roma, realizada en la banda de frecuencia de onda milimitadora (mmWave). Este importante hito se
+ha llevado a cabo junto a la presentación del primer centro de innovación dedicado a 5G y el primer
+smartphone compatible con 5G NR, que estará disponible a nivel comercial en los próximos meses,
+junto con las soluciones y servicios proporcionados por la nueva red móvil ultrarrápida.
+La videollamada 5G se realizó gracias a un dispositivo de prueba equipado con un módem Qualcomm
+Snapdragon X50 5G, mientras que los componentes de la infraestructura de red han sido
+proporcionados por Ericsson. Este hito conduce al próximo uso comercial de la tecnología 5G
+mmWave en Europa.
+Durante el evento, además del primer smartphone compatible con 5G, se han presentado las
+primeras soluciones y servicios de la nueva red móvil ultrarrápida de TIM. Estos incluyen un coche de
+control remoto; una visita remota a museos y obras de arte (gracias a la realidad virtual); un control
+remoto de robots industriales; y un sistema de control táctil remoto y videojuegos interactivos
+multijugador en realidad aumentada.
+Medio: ABC - Conocer Tecnología Fecha: 12/12/2018 (18:56:19)
+Términos: tecnología
+

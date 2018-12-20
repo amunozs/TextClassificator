@@ -1,0 +1,47 @@
+﻿
+Ixom contrata la SD-WAN y ciberseguridad de BT.
+BT ha anunciado la firma de un contrato para desplegar una nueva generación de tecnología de red
+para Ixom, un líder del mercado en la fabricación y distribución de productos químicos en Australia y
+Nueva Zelanda. Así IXOM logrará beneficiarse de servicios WAN definidos por software (SD-WAN) y
+servicios gestionados de ciberseguridad de última generación de BT, mientras afronta la transferencia
+de sus aplicaciones y datos a la nube con el fin de impulsar la agilidad, eficiencia e innovación.
+La nueva red de Ixom conectará a más de 1.000 empleados en 55 puntos en 14 países. Apoyará la
+transformación digital de la compañía al ofrecer un ancho de banda siete veces superior a la de la
+infraestructura existente y ofrecerá un cambio gradual en la capacidad de recuperación con
+conectividad dual a 35 localizaciones principales.
+Construida alrededor de BT Agile Connect, un servicio gestionado de la compañía basado en una
+solución SD-WAN 2.0 de Nuage Networks de Nokia. Esto ofrece un control y comprensión de la
+Resumen de Prensa
+20/12/2018 18:12
+página 43/151
+infraestructura de red y los flujos de tráfico mejorados, una forma mucho más rápida, simple y segura
+de configurar nuevos puntos, reduciendo la complejidad y los costes.
+También ofrecerá un servicio global de detección, investigación y respuesta frente a
+ciberamenazas24x7. Gestionado desde el Australian Cyber Security Operation Centre de BT e
+interactuando directamente con el equipo interno de Ixom, se basará en una plataforma de gestión de
+eventos e información de seguridad (SIEM) líder en el mercado, combinada con los servicios
+especializados de analistas de ciberseguridad. Esto ayudará a proteger a Ixom de amenazas en rápida
+evolución.
+Rowan Start, responsable de TI en Ixom, dijo: “Estamos creando un entorno de tecnología ágil y
+resistente para soportar nuestras aplicaciones y servicios en la nube. Llegará con capacidad de
+detectar y responder a las amenazas de ciberseguridad casi en tiempo real. Elegimos a BT debido a su
+amplia experiencia en redes, a su comprensión de nuestro entorno operativo único y a su capacidad
+para integrar de modo transparente los servicios de seguridad con nuestro propio equipo para crear
+un verdadero modelo de asociación".
+Por otro lado, Bernadette Wightman, managing director, resources, manufacturing y logistics de BT
+apuntó: “La gestión del riesgo es una consideración clave para cualquier programa de transformación
+digital. Es por eso que compañías como Ixom buscan socios de confianza como BT que pueden
+ayudarles a introducir de manera segura las últimas tecnologías de red optimizadas para la nube.
+Ixom se beneficiará no solo de la mejor agilidad y control que ofrecen nuestros servicios gestionados
+SD-WAN, sino también de la seguridad de que están trabajando con una de las principales prácticas de
+ciberseguridad del mundo. Es un magnífico ejemplo de cómo nuestro programa Dynamic Network
+Services está ayudando a los clientes a alcanzar su transformación digital".
+El programa Dynamic Network Services de BT está diseñado para brindar a los clientes más opciones,
+seguridad, resiliencia, servicio y agilidad en el despliegue de futuras redes que soportan la
+transformación digital. El programa ayuda a los clientes a eliminar las barreras para la adopción de
+SD-WAN y NFV, respondiendo a preguntas sobre qué tecnologías usar, así como cuándo y cómo
+implementarlas, configurarlas e integrarlas con las redes existentes para crear una infraestructura
+híbrida apta para la era digital.
+Medio: Redes Telecom Fecha: 12/12/2018 (00:00:00)
+Términos: tecnología
+

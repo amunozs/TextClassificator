@@ -1,0 +1,89 @@
+﻿
+Equinix desvela las tendencias del futuro digital que se impondrán en
+las empresas.
+La evolución de tecnologías y tendencias de datos como el 5G, la inteligencia artificial (IA), el
+blockchain, la privacidad de los datos y la nube está allanando el camino para la aparición de grandes
+cambios en las arquitecturas IT y de la red en el año 2019, según Equinix. La compañía global de
+interconexión y data centers ha publicado hoy un listado con sus cinco principales predicciones
+tecnológicas para 2019. Con una presencia geográfica inigualable en 52 mercados globales y cerca de
+10.000 clientes, Equinix ha desarrollado una visión única sobre los factores clave que impulsan el éxito
+de las empresas en la economía digital. La compañía cuenta con este punto de vista especial gracias a
+su plataforma que conecta ecosistemas establecidos y emergentes de empresas y proveedores de
+servicios de nube y de red.
+1) Preparando el camino para la promesa del 5G: las redes inalámbricas de alta velocidad del mañana
+acelerarán la transformación de la red actual.
+Equinix anticipa que el 5G abrirá un sinfín de posibilidades de transformación digital, especialmente
+en un mundo conectado al Internet de las Cosas y a la Inteligencia Artificial. Para alcanzar la alta
+densidad de radio requerida para el 5G, los operadores buscan optimizar los costes mediante el uso
+de hardware de red de código abierto y la virtualización de pilas de redes inalámbricas. Estos
+esfuerzos allanarán el camino para que una arquitectura basada en el Edge resuelva el problema de
+Resumen de Prensa
+20/12/2018 18:12
+página 147/151
+las redes de radio en nube que alimentarán varias radios a través de grupos de software de red
+virtualizado. Equinix prevé un aumento de las inversiones en 2019 en la renovación de las
+infraestructuras móviles ya existentes y la construcción de nuevas infraestructuras de vanguardia, así
+como la innovación en hardware y pilas de redes inalámbricas virtuales para la optimización del
+rendimiento y de los costes.
+2) Aprovechando el auge de las arquitecturas distribuidas de inteligencia artificial: las arquitecturas de
+nueva generación se liberarán de las ubicaciones centralizadas.
+Equinix predice que el uso creciente de la IA en los negocios y la sociedad aumentará
+exponencialmente el uso de datos. Mientras que las arquitecturas de IA de primera generación han
+sido centralizadas históricamente, Equinix predice que en 2019 las empresas entrarán en el reino de
+las arquitecturas de IA distribuidas, donde la construcción de modelos de IA y la inferencia de modelos
+tendrá lugar en el edge local, físicamente más cerca de la fuente de origen de los datos. Para acceder
+a más fuentes de datos externas para obtener predicciones precisas, las empresas recurrirán a
+mercados seguros de transacciones de datos. También se esforzarán por aprovechar la innovación de
+la IA en múltiples nubes públicas sin quedar atrapados en una sola nube, descentralizando aún más la
+arquitectura de la IA.
+3) "Desbloqueo" de la Cadena - Una red de redes hará madurar la tecnología blockchain para obtener
+una mayor seguridad y monetización del negocio.
+Las inversiones en blockchain están creciendo a una tasa compuesta de crecimiento (CAGR) del 73%,
+con un gasto total proyectado de 11.700 millones de dólares para 2022, según IDC. Equinix predice
+que:
+• Las empresas comenzarán a participar en múltiples redes de blockchain (por ejemplo, seguridad
+alimentaria, servicios financieros, envío global de contenedores), creando así una red de redes, algo
+que les permite interactuar simultáneamente con múltiples ecosistemas de blockchain.
+• El rendimiento de blockchain se convertirá en un requisito más importante dentro del espacio
+empresarial, impulsado por la necesidad de acomodar más que simples datos de transacciones o
+como un elemento en aplicaciones donde el rendimiento en tiempo real y la vinculación con otras
+fuentes de datos son importantes. Algunos ejemplos de aplicaciones de blockchain sensibles al
+rendimiento son el seguimiento y rastreo (cadena de suministro), la comunicación/intercambio
+máquina a máquina (IoT) y la liquidación de divisas transfronteriza, por nombrar sólo algunos. .
+• La integración se convertirá en un gran desafío a medida que las empresas combinen sus
+aplicaciones heredadas con múltiples redes de blockchain, lo que requerirá el despliegue de puntos de
+intercambio para que los participantes en las cadenas de bloques se conecten y colaboren
+directamente.
+4) Gestionar el laberinto de la Privacidad de Datos - Cambiar las leyes de protección de datos y
+aumentar la preocupación por la privacidad inspirará procesos de seguridad más progresivos y
+distribuidos.
+Muchas empresas y proveedores de SaaS están implementando mini-clouds en múltiples regiones
+para cumplir con los requisitos de cumplimiento y residencia de datos locales. También están
+estudiando arquitecturas de gestión de datos distribuidos que requieren redes globales y tejidos de
+datos para gestionar de forma coherente estas mini-nubes distribuidas.
+Equinix predice que para prevenir brechas de datos y mantener el control sobre sus datos, las
+empresas considerarán:
+Resumen de Prensa
+20/12/2018 18:12
+página 148/151
+• Nuevas técnicas de gestión de datos que funcionan a la perfección con datos cifrados (por ejemplo,
+formas limitadas de consulta sobre datos cifrados homomórficamente).
+• Nuevas tecnologías de virtualización basada en hardware que evitará que los proveedores de
+servicios supervisen los datos de sus clientes.
+5) Interconexión para dominar la complejidad de las nubes: los entornos híbridos de varias nubes
+aumentarán la relevancia de la interconexión.
+Las empresas están accediendo a soluciones SaaS, IaaS y PaaS de múltiples proveedores y Equinix
+anticipa que en 2019 veremos el siguiente nivel de desafíos asociados con los enfoques híbridos de
+cloud computing y multicloud. Equinix cree que las empresas tendrán dificultades para ampliar sus
+perímetros de seguridad, así como problemas de integración y gestión en su búsqueda de
+arquitecturas híbridas multicloud. Estas tendencias pronosticadas indican que, para lograr un flujo de
+datos transfronterizo sin fisuras, será necesario que capacidades como la seguridad, el análisis y el
+intercambio de datos estén en estrecha proximidad a la nube. En esto casos, la elección de un socio de
+interconexión adecuado puede ayudar a las organizaciones a sortear la complejidad de la nube. Según
+el Índice de Interconexión Global, un estudio de mercado publicado por Equinix, se prevé un
+crecimiento del ancho de banda de interconexión entre empresas y proveedores cloud e IT de un 98%
+anual hasta 2021. Este crecimiento apoyará a las empresas en la creación de nuevos servicios digitales
+y en la migración de las cargas de trabajo existentes a plataformas de cloud de terceros.
+Medio: Redes Telecom Fecha: 20/11/2018 (00:00:00)
+Términos: tecnología
+

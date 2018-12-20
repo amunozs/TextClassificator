@@ -1,0 +1,67 @@
+﻿
+Probamos el Xiaomi Mi Laptop Air, un portátil que rompe moldes en
+tecnología y precio.
+La empresa china lleva ya instalada varios meses en España y no sólo son con sus smartphones con
+los que están entrando en el mercado. Sus patinetes eléctricos e incluso sus pulseras inteligentes han
+alcanzado gran popularidad.
+Han empezado a comercializar ordenadores. Observamos por la forma en la que viene presentado el
+ordenador en la caja que la intención de Xiaomi es parecerse a los equipos de Apple. El precio oficial
+de este Xiaomi Mi Laptop Air es de 899 euros. Una buena cifra si tenemos en cuenta sus prestaciones.
+Es un equipo idóneo tanto para un uso tanto en ofimática como para tareas multimedia. Lo primero
+que comprobamos es que se trata de un PC muy fino. Pero al mismo tiempo nos transmite una
+sensación de robustez. Tiene un grosor de 14,8 mm y un peso de 1,3 kilos.
+La pantalla es de 13,3 pulgadas con una resolución Full HD y un panel IPS. Pero ésta no es uno de los
+fuertes de este ordenador, sobre todo por la iluminación en el exterior. Está fabricada con vidrio
+Corning Gorilla de tercera generación. El bisel del perfil sólo tiene 5,59 milímetros de ancho, lo que
+ofrece tener una relación de pantalla del 80,1 por ciento. El nivel de brillo es de 300 nits y la tasa para
+el contraste es de 800:1.
+El microprocesador es un Intel Core i5 de octava generación con cuatro núcleos físicos y trabaja a una
+velocidad máxima de 3,4 gigahercios. Es un chip con una arquitectura de 14 nanómetros, la cual le
+hace calentarse muy poco. Por lo que la refrigeración de este portátil es muy buena. El sistema
+operativo que viene instalado es el Windows 10 Home.
+Los ocho gigas de memoria RAM DDR4 le hacen estar preparado sin problemas para cargas
+moderadas o medias de trabajo. El disco duro es de estado sólido (SSD), y viene instalado en una
+ranura PCIe. Su una capacidad es de 256 gigas. Es suficiente como almacenamiento interno, aunque
+de todas formas se puede ampliar con un módulo de memoria hasta obtener un tera en total.
+La tarjeta gráfica que incorpora es dedicada, algo importante si queremos usarlo con algún
+videojuego, o simplemente como motor gráfico en otros procesos. El modelo de tarjeta es una NVIDIA
+GeForce MX150 de dos gigas de memoria GDDR5.
+En cuanto a la batería hemos comprobado que tiene una duración bastante aceptable, pero no
+Resumen de Prensa
+20/12/2018 18:12
+página 92/151
+espectacular. Ésta alcanza las seis horas y media con un uso medio. Incorpora un conector USB-C.
+Hemos comprobado que llegamos a completar medio ciclo de la carga total en tan sólo 30 minutos.
+Una buena noticia.
+El teclado es retroiluminado y está construido por unas teclas de 1,3 milímetros de profundidad muy
+ergonómicas y amplias. El detector de huellas lo han incorporado en la parte superior derecha del
+panel táctil (touchpad). Pensamos que hubiese estado mejor ubicarlo en otra parte, dada la confusión
+a la hora de tocarlo al desplazar el cursor.
+En cuanto a la conectividad trae dos puertos USB.3.0 y uno HDMI 1.4. Aunque sí aclaramos que el
+conector de carga USB-C también funciona como puerto de transferencia de datos y para enviar video
+a un monitor externo en 4K o a 1080p a 60 Hz. En total puede transferir simultáneamente a tres
+monitores distintos.
+El sistema de sonido está compuesto por dos altavoces AKG. Los cuales nos han sorprendido por la
+buena calidad que emiten, teniendo en cuenta lo fino que es este notebook. Además, dispone en el
+lateral de un conector jack de sonido de 3.5 mm.
+Pasemos a las pruebas realizadas para ver qué rendimiento han tenido en los componentes más
+importantes. Para edición de sonido se procesaron archivos con Ableton Live 9 con unos fantásticos
+resultados. En edición de vídeo las pruebas han sido aceptables con Adobe Premiere Pro. Gracias a la
+tarjeta gráfica dedicada se procesa el video más rápidamente.
+Con Cinebench R15 la velocidad de la CPU ha dado buenos datos. Para hacer un test de la memoria
+RAM se hizo con CrystalDiskMark 6. La velocidad de lectura está en torno a los 3420 megas por
+segundo. Una cifra muy buena.
+Y aunque no es un equipo pensado para videojuegos muy exigentes, con la aplicación PCMark 8
+hemos obtenido un rendimiento de gráficos aceptable. Uno de los juegosque hemos probado ha sido
+Assassin’s Creed Origins. El nivel de detalles y resolución tuvo que ser reducido a un perfil medio, pero
+en un ordenador tan ligero es una buena marca.
+Los puntos a favor son el diseño, la calidad de los materiales y el precio. Un detalle que destacamos es
+que con una sola mano podemos desplegar la pantalla gracias a lo fácil que resulta deslizar la pestaña
+inferior. En su contra el detector de huellas no está bien situado. La pantalla, sin ser mala, no nos
+convence del todo. Y en cuanto a las conexiones podrían haber dotado al ordenador con un puerto
+HDMI 2.0. Recomendamos sin duda este PC ultraligero por su buena relación entre calidad y precio.
+Un ultraportátil con estos componentes por menos de mil euros es un motivo para elegir este
+ordenador.
+Medio: ABC - Conocer Tecnología Fecha: 29/11/2018 (14:37:16)
+Términos: tecnología
+

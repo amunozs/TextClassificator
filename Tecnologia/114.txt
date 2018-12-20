@@ -1,0 +1,56 @@
+﻿
+¿Estarías dispuesto a integrar tu casa en Google Mapas?.
+Cuando las empresas que gestionan grandes cantidades de datos, como es el caso de Google, dan un
+pequeño paso en una dirección, no cabe más remedio que mirar hacia ese lugar para intentar analizar
+sus planes de futuro. La aplicación Encontrar mi dispositivo de los californianos acaba de añadir una
+Resumen de Prensa
+20/12/2018 18:12
+página 127/151
+función en principio muy útil: permite rastrear con precisión la ubicación de un teléfono, incluso en el
+interior de un edificio. Aunque, como pueden adivinar, esto plantea también algunos problemas sobre
+privacidad.
+El mapeo de espacio cerrados aún está muy verde. Es cierto que algunos grandes complejos, como
+aeropuertos, se han integrado en Google Mapas y en otras aplicaciones similares de diversas
+compañías. Pero estos suponen una pequeña porción de lo que es posible encontrar mapeado en
+estos servicios. Eso sí, que nadie piense que esta función añadida en la app para Android le va a
+permitir decir exactamente en que habitación está el teléfono en su casa. Al menos de momento.
+Android 9 está preparado para un protocolo de Wi-Fi que permite ubicar a alguien en un espacio
+interior.
+Esta actualización de la app, como explican en Ars Technica, pone de relieve una de las novedades que
+se han introducido en Android 9. Se trata de la compatibilidad con la tecnología Wi-Fi 802.11mc, AKA
+Wi-Fi Round Trip Time (RTT). Tras este nombre bastante técnico se encuentra un sistema que permite
+posicionar en interiores un teléfono, u otros dispositivos, con exactitud.
+Esto puede tener infinidad de aplicaciones prácticas positivas, como localizar a un niño perdido en un
+centro comercial, pero también podría servir para rastrear aún más nuestros movimientos y que, por
+ejemplo, Google o las empresas que adquieren sus datos, sepan en que tiendas de un centro
+comercial pasamos más tiempo o si nos solemos parar en algún escaparate concreto.
+Los límites de esta tecnología son tan lejanos que superan a nuestra imaginación. Es difícil también no
+preguntarse si estaríamos dispuestos, como con tantos otros servicios de Google y otras empresas, a
+vender una parte de nuestra privacidad para acceder a información práctica. Permitiendo por ejemplo
+que nuestra casa aparezca en una aplicación de mapas, aunque sólo este visible para los que habiten
+en ella. Google incluso presentó el denominado proyecto Tango, que permitiría con un smartphone
+mapear inteiores (como puede verse en el vídeo que acompaña a estas líneas).
+Para algunos algo así puede parecer descabellado, pero para otros una ventaja. Por la misma razón
+que algunos compran dispositivos Kindle con publicidad incluida en el sistema operativo para que
+sean más económicos. El problema está en que por muy celoso que sea Google, o cualquier otra
+empresa, con la privacidad de esa información geográfica tan personal puede haber fallos de
+seguridad que revelen esos datos.
+Ya hay espacios cerrados, como aeropuertos, integrados en las aplicaciones de mapas.
+Por otra parte, hay un problema de concienciación sobre la privacidad en el que ya incurrimos con
+frecuencia sin pensarlo apenas. Se trata de permitir que las cámaras de los teléfonos móviles accedan
+a información geográfica sobre el lugar en el que se ha hecho una foto. Si ese sitio es nuestro
+domicilio y compartimos esa foto en internet, determinadas webs pueden mostrar la dirección del
+lugar en el que se ha captado la imagen. Y además estaremos mostrando imágenes del interior de una
+vivienda.
+Aunque también debemos saber que es posible incluso borrar nuestra casas de las aplicaciones de
+mapas como Google Street View. Bien sea para que nadie pueda ver alguna indiscreción o incluso por
+motivos de seguridad. En cualquier caso al menos conviene pensar un poco si nuestra ubicación más
+persona merece ser o no revelada. No basta con poner una pegatina en la webcam.
+Las cámaras de nuestros móviles con frecuencia revelan al publicar las fotos en internet datos
+privados.
+Resumen de Prensa
+20/12/2018 18:12
+página 128/151
+Medio: Redes Telecom Fecha: 23/11/2018 (00:00:00)
+Términos: tecnología
+

@@ -1,0 +1,88 @@
+﻿
+Resumen de Prensa
+20/12/2018 18:12
+página 96/151
+Acaba la moda Blockchain: hora de sentarse a hablar.
+Estamos superando la moda del Blockchain. Según un reciente análisis de Axios, los ejecutivos del S&P
+500 (las principales empresas norteamericanas en capitalización bursátil) están reduciendo el uso del
+término. Han detectado un 80% menos de menciones desde su máximo, a principios de año,
+basándose en las transcripciones de los últimos discursos que se han dedicado a desmenuzar. Cada
+vez se abusa menos del vocablo en análisis de resultados, presentaciones y reuniones.
+No hay que equivocarse, el Blockchain ha venido para quedarse. Ha sido una de las palabras del 2018
+y está llamada a ser una de las tecnologías del futuro próximo. Pero sí que es cierto que ha alcanzado
+el nivel de madurez adecuado para dejar de ser una moda superficial y empezar a consolidar su
+desarrollo. Quizás porqué cada vez se entiende mejor su potencial real y pierde fuerza su capacidad
+embaucadora de oídos desconocedores.
+Es momento de analizar las aplicaciones prácticas del Blockchain, así como de su necesaria regulación.
+Los empresarios empiezan a entender que es hora de dejar de espolvorear sus iniciativas con
+menciones vacías al Blockchain que solo buscan despertar la atención de su audiencia. Se acaba la
+moda. Ahora toca sentarse a hablar de sus aplicaciones prácticas -indudablemente revolucionarias en
+los contextos adecuados- así como de su necesaria regulación.
+Este es precisamente el objetivo de la Comisión Europea, que el 20 de noviembre pasado celebró una
+mesa redonda orientada a impulsar la colaboración entre líderes de la industria y políticos para
+incentivar una estrategia europea conjunta de implementación del Blockchain. Europa está bien
+situada para “liderar los esfuerzos internacionales de estandarización y acelerar la investigación e
+innovación” sobre Blockchain, apunta la Comisión.
+Una cincuentena de ponentes expertos europeos de todos los sectores debatirán sobre Blockchain en
+Barcelona en esta primera Convención Europea.
+No perder el carro del Blockchain es un objetivo con el que la esfera pública europea coincide con la
+privada. El caso más reciente y cercano es la European Blockchain Convention, una iniciativa que este
+jueves reunirá en Barcelona una cincuentena de ponentes expertos entre los que se encuentran
+representantes europeos de todos los sectores que han empezando a integrar el Blockchain de forma
+efectiva. Se esperan más de 500 asistentes que debatirán durante toda la jornada sobre los los
+“dónde”, “cómo” y “cuándo” del Blockchain. Especialmente porque el “qué” ya ha quedado establecido…
+para casi todos.
+¿Qué es el Blockchain?.
+Este año, el mundo ha escuchado hablar de Blockchain hasta la saciedad, pero la confusión que rodea
+su definición sigue intacta. Por un lado, se ha visto afectada por su propia popularidad y el reiterado
+abuso. Por el otro, el concepto sigue igual de abstracto que el primer día porque, más allá de las
+criptomonedas, se conocen pocos casos prácticos de su uso. Es más, tampoco es que su aplicación
+más popular, el intercambio de divisas digitales, sea precisamente fácil de explicar, ni de comprender.
+Una forma sencilla de resumir el Blockchain, o Cadena de Bloques, es que se trata de un sistema de
+control de transacciones sin intermediarios. Un producto pasa digitalmente de un usuario A a un
+usuario B, de forma verificada. Quién lo verifica es toda la red de usuarios de esa misma cadena de
+bloques, por consenso, a la vez. Esta operación se convierte en un primer bloque.
+La siguiente operación se encadena a ese primer bloque de información, y así sucesivamente. Los
+bloques de cada transacción se incorporan como garantía del proceso siguiente. El histórico de
+transacciones se convierte entonces en la prueba de que las siguientes operaciones tienen validez. Esa
+Resumen de Prensa
+20/12/2018 18:12
+página 97/151
+interdependencia, junto al cifrado de cada operación, convierten el Blockchain en el libro de cuentas
+más seguro que se ha creado hasta la fecha.
+Barcelona, próximo epicentro del Blockchain.
+El concepto de lo que supone el Blockchain queda cada vez más claro. No obstante, sus futuras
+aplicaciones, que le darán un sentido más palpable, están por descubrir. Los fundadores de la
+European Blockchain Convention (EBC), Victoria Gago y Daniel Salmerón, insisten en que su potencial
+aún está por desvelarse: “la verdadera revolución que traerá el Blockchain vendrá de la mano de
+sistemas organizativos o modelos de negocio totalmente nuevos a día de hoy, que simplemente aún
+no existen”.
+Consideran que ese futuro requiere un debate riguroso, que contemple el optimismo que siempre se
+asocia a las tecnologías más revolucionarias, pero también sus posibles inconvenientes y limitaciones.
+Con Barcelona como referente europeo, la EBC quiere sumar sus esfuerzos a establecer esos
+fundamentos sólidos a la que es la próxima gran revolución digital.
+El EBC pretende analizar el estado actual de la tecnología Blockchain y vislumbrar su futuro próximo.
+Durante la convención de este jueves, los asistentes tendrán la oportunidad de conocer de primera
+mano el primer partido político europeo que basa su compromiso de transparencia en una cadena de
+Blockchain donde quedará registrada toda su actividad. Se analizará el estado actual de la tecnología y
+el surgimiento de las nuevas formas de financiación basadas en Blockchain, se debatirá s u potencial
+descentralizador y como herramienta de mejora democrática y se intentará vislumbrar su futuro
+próximo, a cinco años vista.
+Debatir, inspirar, compartir experiencias, aprender mutuamente y, ya que en este tipo de ambientes la
+oportunidad de negocio se puede sentir en el aire, también practicar el indispensable arte del
+networking entre ejecutivos de la banca, reguladores y autoridades políticas, empresarios, abogados y
+expertos del sector. Junto a todo aquél que quiera pagar su entrada y participar.
+“La revolución Blockchain la liderarán chicos y chicas que ahora están en edad de escolarización”.
+Según la co-fundadora de la EBC, Victoria Gago, recuerda que el futuro del Blockchain está por definir:
+“es muy probable que esta revolución la lideren chicos y chicas que ahora están en edad de
+escolarización”, con lo que añade “el (o la) Mark Zuckerberg del Blockchain todavía no ha terminado la
+ESO”. Toca esperar que se trate de un (o una) Zuckerberg que se empape bien de las preocupaciones
+que surjan de foros como el de esta semana y que evite los muchos errores del fundador de Facebook.
+Cabe mencionar que el esfuerzo de la EBC en incorporar mujeres en su repertorio de participantes en
+este debate se hace patente. Aunque no se ha alcanzado la paridad completa, se nota el esmero en
+buscar un equilibro en un sector donde siempre acaba primando la visión masculina. No puede ser de
+otra manera cuando se busca enriquecer la conversación entorno a una tecnología que está llamada a
+cambiar la misma base de internet: la forma en la que compartimos.
+Medio: La Información - Microsiervos Fecha: 27/11/2018 (23:19:21)
+Términos: tecnología
+

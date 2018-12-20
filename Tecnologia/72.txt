@@ -1,0 +1,63 @@
+﻿
+Los ciberataques serán más inteligentes en 2019.
+Los ciberdelincuentes van a seguir utilizando «malware» inteligente con capacidades de movimiento
+lateral, según predice Check Point de cara a 2019, un panorama que sigue a un 2018 en el que las
+compañías se han tenido que enfrentar a un aumento en el volumen de asaltos contra sus
+«endpoints» y sus redes.
+«La evolución de los ciberataques y de la ciberseguridad en los últimos 25 años ha sido rápida y sigue
+acelerándose», ha señalado el director general para España y Portugal, Mario García. Desarrollar
+formas de protección contra las amenazas ha sido «un desafío constante», si bien ha advertido que «la
+próxima generación de ataques será aún más inteligente».
+La industria del cibercrimen se estima en 1,5 billones de dólares. Y crece cada año, como indican
+desde Check Point. Se trata de intentar que las cosas no sucedan. No sólo hay que detectar los
+ataques, sino también prevenirlos, algo importante si se tiene en cuenta, como ha apuntado García,
+que en la actualidad «todo se ha vuelto digital».
+Desde Check Point, que cumple 25 años, aseguran que podemos protegernos, en tanto que existen las
+tecnologías para ello, pero advierten de que hay que aplicarlas correctamente. Es decir, hacer uso de
+tecnologías que se ajusten a la amenaza actual.
+«Malware» inteligente en 2019 El «ransomware» ha sido en 2018 una fuente de dinero fácil para los
+delincuentes, así como un camuflaje para ocultar propósitos más destructivos, como explican desde
+Check Point. Usuarios de todo tipo, desde particulares hasta grandes empresas, han sido víctimas de
+un ciberataque. Y en este sentido, la compañía advierte de que se puede esperar ver grandes ataques
+orquestados en todo el mundo similares a WannaCry.
+A medida que los sistemas operativos refuercen su seguridad, se verá una disminución en el uso de
+«exploits» para apuntar a vulnerabilidades, a favor de un aumento en el uso de técnicas básicas de
+«hacking» originadas por un error humano. Sin embargo, y como apuntan desde la compañía, están
+emergiendo ataques dirigidos muy avanzados y patrocinados por países, y es probable que en 2019
+sigan aumentando.
+Algunos informes cifran el negocio del cibercrimen (con estimaciones conservativas) en más de 1,5
+billones de dólares lo cual haría de esta actividad, si se considerase como un país, la decimotercera
+economía mundial, al nivel de, por ejemplo, Rusia.
+«Si observamos el nivel de industrialización y beneficios que mueve la industria del cibercrimen,
+podemos esperar que la progresión siga en aumento en cuanto a la complejidad y número de
+ataques», comenta el director técnico de Check Point para España y Portugal, Eusebio Nieva.
+En este sentido, los ataques de «phishing» dirigidos se volverán más frecuentes y una estrategia de
+ataque más popular. Asimismo, aumentarán los ataques a IoT, no sólo como objetivos directos, sino
+también como el principal punto de entrada debido a que estos dispositivos, a menudo, son menos
+seguros que las redes, los «endpoints» o los centros de datos locales.
+Otro punto de interés para los cibercriminales son los entornos de la nube («cloud»). La informática sin
+servidores y el almacenamiento de datos en la nube se ha generalizado en todos los sectores, hasta el
+punto de que, como señalan desde Check Point, el 70 por ciento de las empresas europeas ya cuentan
+con nubes híbridas.
+Resumen de Prensa
+20/12/2018 18:12
+página 89/151
+Sin embargo, desde la compañía recuerdan que la tecnología cloud y la infraestructura que la soporta
+es relativamente nueva, y aún existen vulnerabilidades que proporcionan puertas traseras que
+permiten a los ciberdelincuentes acceder a los archivos de las empresas y distribuir «malware».
+Durante 2018, más del 50 por ciento de los incidentes gestionados por el equipo de respuesta de
+Check Point estaban relacionados con el cloud, y más de la mitad de ellos estaban relacionados con la
+adquisición de aplicaciones SaaS o servidores alojados.
+Con el creciente uso de los servicios de uso compartido de archivos en la nube, las fugas de datos
+seguirán siendo una gran preocupación para las organizaciones que se mueven en este entorno
+durante el próximo año. No obstante, desde la compañía esperan que los cibercriminales se dirijan a
+departamentos y empleados específicos de la empresa, también conocidos como «spear phishing»,
+con el fin de conseguir recompensas más lucrativas, como por ejemplo el departamento financiero.
+La aparición de nuevas tecnologías y su uso implica nuevos peligros de manera casi inmediata. Se ha
+visto con las tecnologías de nube, la aparición de las criptomonedas y su popularización, que ha
+propiciado la aparición de nuevos tipos de «malware». De la misma manera, el auge de dispositivos
+personales e IoT podrá ser aprovechado para diferentes propósitos criminales, lo cual hará surgir una
+nueva generación de ataques caracterizados sobre todo por su volumen y alcance.
+Medio: ABC - Conocer Tecnología Fecha: 30/11/2018 (09:35:41)
+Términos: tecnología
+

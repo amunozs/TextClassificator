@@ -1,0 +1,110 @@
+﻿
+¿Hay explotación en la industria del videojuego?.
+Hay trabajos envidiados por casi todos. Oficios que no parecen ser tales y que, desde fuera, se
+asemejan más a un pasatiempo rentable que a la obligación que todos tenemos de ganarnos la vida.
+Estas profesiones cambian según la edad, el momento histórico, los países y los gustos. Hoy, para toda
+una generación, el trabajo de los sueños se encuentra en la industria de los videojuegos. Sin embargo,
+no todo lo que brilla es oro.
+Hace cosa un mes salió al mercado el que quizás sea el videojuego más importante del último lustro:
+Red Dead Redemption 2. Una aventura de ambientación oeste, que definir ‘juego’ sería muy
+restrictivo. Es una experiencia que va más allá del cine y la literatura, con un nivel de perfección
+técnica y narrativa sin comparación hasta hoy. Todo esto, sin embargo, tiene un precio, que no es solo
+el de venta.
+Esta joya es producida por Rockstar, una compañía estadounidense que representa el sueño de
+muchos profesionales del sector por la calidad de sus productos. Tras el lanzamiento del juego, el
+Resumen de Prensa
+20/12/2018 18:12
+página 119/151
+cofundador de la productora, Dan Houser, dijo que la elaboración del nuevo capítulo de la saga obligó
+al equipo a trabajar “100 horas a la semana”. Esta breve declaración hizo que se arrojara algo de
+sombra sobre un mundo aparentemente dorado, basado en la diversión, la pasión y el talento.
+Una industria enorme que en España tiene que profesionalizarse.
+Desde los pioneros de los años 50, hasta los primeros éxitos comerciales de los Setenta, el mercado de
+los videojuegos ha crecido mucho y hoy mueve alrededor de 109 mil millones de dólares en todo el
+mundo. Una cantidad de dinero superior a la generada por la industria del cine y de la música.
+Según el Libro Blanco sobre la industria del videojuego en España, elaborado por DEV, la asociación
+para el Desarrollo Español de los Videojuegos, el sector nacional facturó 713 millones de euros en
+2017, un 15,6% más que en 2016, y empleó directamente a 6.337 profesionales, con un aumento de la
+plantilla del 16,5%. En todo el país se estiman unos 16 millones de jugadores habituales.
+En España, la industria se compone de 455 empresas. De estas, el 81% se crearon en los últimos 10
+años. Casi todas son microempresas, ya que el 47% de los estudios españoles emplea a menos de 5
+trabajadores y el 13% de las compañías factura el 91% del total del sector. Esas pocas grandes
+realidades son casi todas filiales de multinacionales extranjeras.
+El informe anual de InfoJobs–ESADE 2017 sobre el Estado del Mercado Laboral en España, evidencia
+como los programadores informáticos cuenten con sueldos medios superiores a los 30 mil euros
+anuales. Aun así, y frente a un aumento de las vacantes, el número de inscritos a las ofertas queda
+muy por debajo del promedio general.
+“La explotación laboral es un tema muy estandardizado y ‘normal’ en esta industria”.
+El ‘crunch’, la explotación laboral en la industria del videojuego.
+Como se decía, en España la mayoría de las producciones son pequeñas y no son comparables a las
+extranjeras. Sin embargo, las condiciones de trabajo de estos profesionales no siempre son las
+mejores, incluso en nuestro país. Josep Maria Sempere, subdirector de Eurogamer España, considera
+que “la explotación laboral es un tema muy estandardizado y ‘normal’ en esta industria y del que se
+habla poco. Tiene hasta un nombre: el crunch”.
+Lucas González, diseñador de juegos de larga trayectoria, y con cuarenta años en este sector eres un
+veterano, relata su experiencia directa: “he trabajado como programador contratado en empresas de
+la industria y echar horas extras sin cobrarlas era lo normal. A mí me pasó cuando ya era bastante
+mayor y sabía qué hacer para que me toreasen menos. Pero el sector de los videojuegos es muy joven
+y muchos aún no valoran tanto su vida fuera del trabajo”.
+”El sector de los videojuegos es muy joven y muchos aún no valoran tanto su vida fuera del trabajo”.
+La International Games Developers Association (Igda), el año pasado realizó una encuesta entre sus
+miembros. El resultado fue que más del 51% se dijo afectado por el llamado crunch, es decir, unas
+exigencias de trabajo mucho más altas de las acordadas. Un cuarto de los entrevistados aseguró
+superar las 70 horas semanales, trabajando también sábado y domingo.
+Sin embargo, es difícil que un profesional del sector hable o se queje de esta situación. Las razones
+son diferentes. “Es un trabajo vocacional, por lo que a estos profesionales no les importa trabajar más
+horas y los jefes se aprovechan de ello”, avisa Sempere. Estos trabajadores están muy lejos de
+elaborar algo parecido a una conciencia colectiva que vele por sus derechos.
+“No tenemos un sindicato y tampoco parece que preocupe mucho. El otro día hablaba con unos
+compañeros del caso de crunch en Red Dead Redemption 2, a todos nos parecía mal, pero al final todo
+Resumen de Prensa
+20/12/2018 18:12
+página 120/151
+el mundo se lo había comprado”, anota Lucas González. Emanuele Carisio, secretario técnico de DEV,
+añade que “el programador de videojuegos es uno de los profesionales digitales más capacitados,
+porque tiene altos estándares de necesidad y debido a su pasión está dispuesto a soportar situaciones
+de trabajo más difíciles”.
+Sin embargo, González considera que en muchos caso es, sobre todo, un problema de inmadurez:
+“Muchas veces cuando un programador de videojuegos alcanza cierta experiencia, se da cuenta de
+que si cambia de sector puede salir ganando, tanto a nivel salarial, como de horarios, por mucha
+vocación que tenga”.
+“El programador de videojuegos es uno de los profesionales digitales más capacitados”.
+Un problema endémico de la industria.
+Por otro lado, las horas extras y la dificultad de programar adecuadamente el esfuerzo productivo son
+factores relacionados con la propia naturaleza de esta industria. Como detalla Sempere: “La primera
+fase es de planificación y es más tranquila, luego, conforme se va acercando la fecha de entrega,
+siempre surgen problemas que solucionar y elementos no planificados que añadir. Es un mal
+endémico de la industria”.
+Los modelos y la tecnología cambian muy rápido, por lo que puede ocurrir que se comience un
+proyecto y, después de un tiempo, se tenga que reformular porque la tecnología ha variado. Esto
+genera retrasos. Además, es difícil reemplazar o contratar nuevos profesionales sobre la marcha,
+porque cada proyecto acumula un ‘know-how’ específico, que es casi imposible adquirir en poco
+tiempo. De modo que lo único que queda es echarle más horas.
+Sin embargo, la explotación a gran escala ocurre en proyectos que tienen tiempos de entrega muy
+rígidos. Son producciones enormes, comparables a una película de Hollywood, y si el juego tiene que
+salir en Navidad, no puede salir en enero. “En España es poco frecuente, porque aquí hay sucursales
+de grandes estudios extranjeros que realizan solo partes de los juegos, mientras que el 81% de las
+microempresas españolas desarrolla patentes propias”, matiza Carisio.
+Hacer juegos ya no es un juego.
+En Estados Unidos, estas peculiares características de la industria determinan que se utilicen muchos
+los contratos a tiempo. Cuando caducan, los profesionales encuentran trabajo en otros estudios o se
+reubican en otros proyectos de la empresa. De hecho, es un ámbito donde el concepto de movilidad
+es muy aceptado, porque nunca falta el trabajo.
+En España, la situación es ligeramente diferente, como explica Carisio, “a menudo las empresas no
+encuentran a los profesionales que buscan. Las posibilidades de formación ya son muchas y de
+calidad, pero falta la práctica profesional. La mayoría se especializa por su cuenta, porque crear un
+pequeño videojuego es barato, pero el problema es saber venderlo y convertir la pasión y el talento en
+un negocio”.
+Los problemas de la industria de los videojuegos radican principalmente en su corta edad. Modelos
+industriales globales conviven con pequeños estudios artesanales. También por esta razón, las
+condiciones de trabajo de sus empleados son difíciles de tipificar y aglutinar en un sindicato.
+El entusiasmo y la pasión han favorecido el éxito de un sector, donde los esfuerzos y los avances se
+han centrado más en los aspectos técnicos y creativos que en los de gestión. Sin embargo, incluso en
+este ámbito, como en todos los afectados por la revolución digital, en el centro deben estar las
+personas y no la tecnología.
+Resumen de Prensa
+20/12/2018 18:12
+página 121/151
+Medio: 20 Minutos - Tecnología Fecha: 24/11/2018 (19:29:16)
+Términos: tecnología
+

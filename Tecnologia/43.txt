@@ -1,0 +1,9 @@
+﻿
+StorySign es una app que usa la IA de Huawei para enseñar a leer a los
+niños sordos.
+StorySign es una aplicación que aprovecha la tecnología de inteligencia artificial de Huawei para
+enseñar a leer a los niños sordos con ayuda de Star, un avatar virtual que traduce al lenguaje de signos
+los textos.
+Medio: La Información - Microsiervos Fecha: 05/12/2018 (22:00:00)
+Términos: tecnología
+

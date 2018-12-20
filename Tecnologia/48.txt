@@ -1,0 +1,43 @@
+﻿
+El nuevo objetivo para la inteligencia artificial: el sentido común.
+El sentido común se ha convertido en el objetivo prioritario de los investigadores, civiles y militares,
+que desarrollan su trabajo a partir de la inteligencia artificial. El denominado aprendizaje profundo
+(deep learning) parecía satisfacer muchas de las necesidades en este campo y, lo más importante,
+supuestamente abría numerosas posibilidades de cara al futuro. Sin embargo, numerosos expertos y
+profesionales están discrepando de esta interpretación y apuestan por llevar las máquinas y
+programas al área de la lógica y los conceptos.
+Los últimos cinco años han sido los del dominio del deep learning. Esta técnica estadística proporciona
+a los ordenadores de facultad de aprender procesando grandes cantidades de datos. Así, cuando la
+información sobre un asunto es abundante, esta fórmula funciona (casi) a la perfección y mejora sin
+Resumen de Prensa
+20/12/2018 18:12
+página 63/151
+descanso. Por ejemplo, es capaz de identificar caras o reconocer palabras con mayor rapidez y
+amplitud que las personas. Por esta razón, compañías multinacionales como Google, Facebook o
+Microsoft han invertido tanto en ello.
+No obstante, el deep learning también tiene sus detractores. Y algunos, como Gray Marcus (PDF) o
+Michel I. Jordan son muy tajantes. El primero, profesor de la Universidad de Nueva York (Estados
+Unidos), sostiene que, a menudo, los patrones que se extra de este modo son “más superficiales de lo
+que parecen a primera vista”. El segundo, docente de la Universidad de California en Berkeley (Estados
+Unidos), resume su posición brevemente: “No hay inteligencia real ahí”. Ellos y otros colegas subrayan
+que si se sigue gastando en esta tecnología solo se llegará a la “decepción”.
+Los críticos recuerdan que mezclando un puñado de píxeles, los programas pueden acabar
+confundiendo una señal de tráfico con una nevera. Si la herramienta fracasa se aplica a terrenos
+abiertos sobre los que no hay enormes volúmenes de datos y en los que las tareas no están muy bien
+definidas, como etiquetar imágenes o traducir textos. En síntesis, puede detectar al instante millones
+de vocablos, pero no entiende qué son la justifica y la democracia, o qué supone una intromisión.
+Para remediar este y otros problemas, el Instituto Allen, un laboratorio sin ánimo de lucro radicado en
+Seattle (Estados Unidos), invertirá unos cien millones de euros en los tres próximos años en una
+iniciativa llamada “Proyecto Alejandría” para que las máquinas generen conocimiento de “sentido
+común”. En esta misma línea, una empresa de Silicon Valley (Estados Unidos), Kyndi, emplea un código
+de programación de la década de los 70 (Prolog) pensado para el razonamiento y la representación de
+hechos y conceptos complejos.
+El propósito de Vicarious, una firma que cuenta con inversores de la talla de Mark Zuckerberg
+(Facebook), Jeff Bezos (Amazon) o Elon Musk (PayPal, Tesla, etc.), es crear robots que puedan cambiar
+rápidamente de una actividad a otra, como hacen los humanos. Desde el Pentágono, la agencia de
+proyectos de investigación avanzada de defensa norteamericana, ha empezado a colaborar con las
+universidades con un objetivo igualmente claro: ir más allá del aprendizaje profundo y emular
+artificialmente el razonamiento del sentido común.
+Medio: ABC - Conocer Tecnología Fecha: 05/12/2018 (03:36:14)
+Términos: tecnología
+

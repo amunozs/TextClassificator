@@ -1,0 +1,45 @@
+﻿
+Unidad Dual SanDisk USB Tipo C, un pendrive con dos conectores.
+Nos enviaron para probar una Unidad Dual USB Tipo C de 32 GB de SanDisk que básicamente un
+pendrive USB, de diseño sencillo y elegante aunque con algunas particularidades.
+El primero es que tiene dos conectores físicos: un USB Tipo A (el conector grande de toda la vida) y
+otra USB Tipo C (el más moderno tanto para ordenadores como para teléfonos y tabletas. Basta mover
+una palanquita para que el conector A o C salga por uno de los extremos y quede bloqueado (se pulsa
+para desbloquear); sólo se puede usar uno a la vez. La unidad en sí es pequeña y por su diseño no da
+problemas con otros cables o conectores al enchufarla en los puerto. La he probado con un MacBook
+Pro, un MacBook Air, un iMac de los antiguos y en varios hubs USB, sin mayores problemas.
+En cuanto a capacidad y velocidad está disponible en versiones de 16/32/64/128 y 256 GB y se indica
+que alcanza una velocidad máxima de 150 MB/s (megabytes por segundo). Este dato es siempre el
+«rendimiento teórico», que como se puede imaginar depende de varios factores:
+Esa tasa máxima es para lectura; en escritura es menor.
+Es necesario que el ordenador o dispositivo sea USB 3.0 o 3.1 (y los móviles requieren el OTG, On-The-
+Go), pero por suerte ya casi todos los equipos modernos lo son.
+También depende de qué se vaya a copiar: no es lo mismo un archivo de 16 GB que 150.000 archivos
+que sumen 16 GB.
+Ojo con los hubs USB si la unidad no se conecta directamente al equipo/dispositivo; los más viejos
+pueden ser sólo 2.0 (o peor) y esto disminuye mucho la velocidad.
+Y ojo también con el formato de la unidad; el rendimiento puede variar según sea MacOS Plus, FAT o
+Resumen de Prensa
+20/12/2018 18:12
+página 84/151
+ExFAT y si está encriptada o no. (La probé con MacOS Plus y con FAT, siempre sin encriptar).
+En mis pruebas por ejemplo puede hacer una copia/escritura de un fichero de 4 GB a la unidad en
+~150 segundos (que son unos ~27 MB/s), mientras que la lectura del mismo archivo para copiar a un
+disco duro fueron sólo ~30 segundos (~137 MB/s), mucho más cerca del máximo teórico. Del mismo
+modo mientras que grabar en la unidad 14.000 archivos totalizando 12 GB requirió 560 segundos (~22
+MB/s), para leerlos sólo se necesitaron 210 segundos (~60 MB/s).
+Algo que no llegué a probar es el SanDisk Memory Zone, que es un software que permite explorar y
+transferir archivos en teléfonos Android, algo que suele ser un poco complicado si no se sabe dónde
+están las cosas, si no se quiere instalar software en el ordenador o si la conexión wifi es tirando a
+lenta. Una de las sugerencias del fabricante es usar esta memoria como almacen «extra» para fotos o
+vídeos que se graban con el móvil.
+El detalle del «formato dual» de sus dos USB resolverá las necesidades concretas de algunas personas.
+A mi me ha resultado especialmente útil para copiar y leer de un ordenador que es sólo USB Tipo C
+(MacBook Pro) a otro USB A (MacBook Air), principalmente en esas interminables copias de unos pocos
+GB pero muchísimos archivos –del orden de 100.000 o 200.000– que a través de wifi se hacen eternas.
+No hay que olvidar que un pendrive no es un disco duro, pero que al menos cuente con la tecnología
+más moderna y rápida alivia bastante la situación para muchos usos.
+# Enlace Permanente
+Medio: Europa Press - Innovación C. Valenciana Fecha: 30/11/2018 (14:42:14)
+Términos: tecnología
+

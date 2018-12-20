@@ -1,0 +1,51 @@
+﻿
+Este es el robot Rassel, un asistente para mayores que recuerda la hora
+de la medicación y llama a emergencias.
+VALÈNCIA, 8 Dic. (EUROPA PRESS) -.
+Desarrollar un robot de bajo coste y que sea capaz de reconocer emociones para asistir a las personas
+mayores en tareas como recordar los horarios de comidas o de ingesta de la medicación o avisar a
+emergencias. Este el objetivo de Rassel, el proyecto en el que trabajan investigadores de la Universitat
+Politècnica de València (UPV) y de la Universidade do Minho, de Portugal.
+El incremento en la esperanza de vida, un fenómeno unido en algunos países a la baja tasa de
+natalidad, está originando un crecimiento acelerado en el porcentaje de personas mayores, que tiene
+como consecuencia un aumento del envejecimiento de la población. De hecho, la Organización
+Mundial de la Salud (OMS) estima que la cantidad de personas mayores de 60 años se duplicará entre
+2000 y 2050.
+En este contexto, los científicos saben que las nuevas tecnologías TIC y, en especial, la robótica, son un
+gran aliado para facilitar la vida a los más mayores. A ello quiere contribuir, precisamente, Rassel, el
+último robot en el que trabajan investigadores del Grupo de Tecnología Informática e Inteligencia
+Artificial de la Universitat Politècnica de València y del grupo Algotitmi de la Universidade do Minho, de
+Portugal.
+Se trata de un robot asistente de bajo coste, basado en nuevos dispositivos electrónicos como
+Raspberry Pi, Late-Panda o ESP32. Estos dispositivos facilitan la creación de robots que sean capaces
+de realizar tareas como el reconocimiento de personas o navegación en interiores, así como
+recomendar actividades o comunicarse con otros dispositivos de nuestros hogares.
+El robot ideado por los investigadores de la UPV incorpora técnicas de inteligencia artificial (IA), visión
+artificial y un rostro artificial que le permite expresar emociones. Es capaz de interactuar con la
+persona, recordarle los horarios para la ingesta de alimentos y medicación, recomendar actividades de
+acuerdo a sus gustos y reconocer el estado emocional de la persona.
+Las principales diferencias respecto a otros robots existentes ya en el mercado son la detección de
+emociones del usuario --y la toma de decisiones en consecuencia; el uso de dispositivos biométricos--
+como pulseras que miden constantes vitales- para la monitorización del usuario y la recomendación
+inteligente de actividades.
+Resumen de Prensa
+20/12/2018 18:12
+página 57/151
+Los investigadores de la UPV han diseñado Rassel principalmente para trabajar con personas que
+viven solas en sus hogares, si bien puede ser utilizado en centros de mayores.
+Rassel interactúa mediante una interfaz de voz y una cámara. En concreto, con la interfaz de voz es
+capaz de mantener conversaciones con el usuario, pudiendo darle órdenes para que llame a algún
+familiar o a emergencias, pedirle que le recomiende una actividad adecuada a sus gustos o expresar
+emociones para que Rassel actúe en consecuencia. Asimismo, la cámara es capaz de detectar
+emociones en el rostro del usuario, además de poder ser utilizada para videoconferencia.
+Además, Rassel incorpora un recomendador inteligente que es capaz de aprender de los gustos del
+usuario y recomendar de forma personalizada alimentos y actividades.
+Del mismo modo, puede ser utilizado como recordatorio para la toma de medicación, si se le ha
+programado previamente para ello Estado emocional Para el reconocimiento de emociones, el robot
+ideado por los investigadores de la Universitat Politècnica de València utiliza técnicas de Inteligencia
+Artificial --en concreto, Machine Learning-- que permiten analizar los micro-gestos de la cara y los
+clasifican según un conjunto de emociones humanas básicas (alegría, enfado, neutralidad o miedo,
+entre otras).
+Medio: ABC - Conocer Tecnología Fecha: 08/12/2018 (02:02:49)
+Términos: tecnología
+

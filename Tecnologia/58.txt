@@ -1,0 +1,86 @@
+﻿
+«Espero que mi hijo no sea ingeniero porque la IA, en unos 15 años, será
+capaz de programar».
+Prepárese porque dentro de unos años -no se crea que muchos- el mundo no será tal y como hoy lo
+conocemos. Si no se lo cree, lea «Inteligencia artificial: 101 cosas que debes saber hoy sobre nuestro
+futuro», de Lasse Rouhiainen. Sólo los que estén preparados sobrevivirán en un mundo dominado por
+los datos.
+Quienes aún anden despistados, han de saber que la inteligencia artificial (IA) es la capacidad de las
+máquinas para usar algoritmos, aprender de los datos y utilizar lo aprendido en la toma de decisiones,
+igual que lo que hace un humano. Pero la IA no necesita descansar, puede trabajar
+ininterrumpidamente y mucho más rápido (es capaz de obtener conocimientos y habilidades en los
+que el ser humano tardaría años) y, además, su margen de error es mínimo.
+Para afrontar los nuevos desafíos, el autor apuesta por tres líneas de trabajo: reeducación de millones
+de personas que se quedarán sin trabajo debido a la IA; tratar el uso ético y moral de las tecnologías y
+robótica y trabajar en la prevención de las posibles adicciones tecnológicas y demás trastornos a los
+que estaremos muy expuestos.
+Él, de momento, ya se ha puesto manos a la obra. De hecho, con respecto a su hijo, de cinco meses y a
+quien le dedica el libro, espera que no sea ingeniero «porque la IA, en unos 15 años, será capaz de
+programar», asegura Lasse Rouhiainen durante la entrevista con ABC. «Lo mejor es que se conozca a
+sí mismo, desarrolle su inteligencia emocional pero también la resiliencia, relaciones y capacidad de
+reflexión. Si además sigue las nuevas tendencias, podrá ser cualquier cosa», asegura. Un consejo que
+extiende a todos los jóvenes. Y es que en su libro analiza cómo será el mercado de trabajo del futuro.
+La realidad es que habrá empleos en los que los humanos serán reemplazados por los robots,
+principalmente aquellos que los que se hace poco uso de las cualidades humanas como la e mpatía, la
+comunicación compleja, el coching o la creatividad.
+Un estudio realizado por la Oxford Martin School agrupó, por categorías, los empleos menos
+probables de ser reemplazados por robots: los que requieren el uso de las manos (dentistas,
+bomberos); los que exigen creatividad (coreógrafos, directores de artes) y los que requieren
+percepción social (enfermeros, sacerdotes).
+El mercado laboral del futuro La inteligencia emocional, la empatía, la perseverancia o el entusiasmo
+serán, entre otras, las habilidades que el ser humano tendrá que desarrollar para el mercado laboral
+del futuro, donde las empresas exigirán empleados con capacidad para resolver problemas, creativos,
+capaces de detectar tendencias o con mentalidad empresarial. Es decir, características que los robots
+jamás desarrollarán. Por ello, en las ofertas de empleo empezaremos a ver cada vez más diseñador de
+chatsbots, coach en adicciones tecnológicas o asesor de estrategia de IA.
+Resumen de Prensa
+20/12/2018 18:12
+página 73/151
+Pero no será lo único que tengamos que hacer. «La única manera de sobrevivir es con el aprendizaje
+continuo. Y la IA nos puede ayudar mucho», asegura. Pero para ello hay que cambiar prácticamente el
+actual sistema. Objetivo complicado pero no imposible.
+En 2017, Emiratos Árabes Unidos se convirtió en el primer país del mundo en crear un puesto de
+ministro para la IA, tal y como recuerda el autor en su libro. Dinamarca, en 2017, se convirtió en el
+primer país en designar un embajador de tecnología. En España, no hay partido político que lleve en su
+programa electoral algo relacionado con la IA. «Es un error y una gran preocupación porque los
+políticos van a tener que tomar muy pronto, el año que viene o al siguiente, decisiones sobre IA muy
+importantes. El problema es que si no se han preparado en este aspecto, tomarán resoluciones de
+una manera rápida, sin pensar y eso no es bueno», apunta Lasse Rouhiainen. Por eso, insiste en la
+necesidad de formarnos ahora para que, cuando llegue el momento, seamos capaces de tomar
+buenas decisiones.
+Las empresas, por su parte, sí están avanzando más en este largo camino de la IA. Pero estas también
+cambiarán su forma: la nueva tecnología propiciará el nacimiento de pequeñas compañías en las que
+ya no hará falta contratar a varias personas, con el consiguiente ahorro. Los pequeños profesionales
+subcontratados por las grandes empresas tecnológicas son la clave. Estos pequeños «freelancers» son
+el futuro. «Cualquiera, desde su casa, puede crear una ‘app’ basada en IA que puede usar una gran
+compañía», ejemplifica el autor, que no duda en animar a los jóvenes a emprender gracias a la
+democratización de la tecnología. «Hay una tendencia que me gusta mucho y que es una realidad:
+cada vez más, todas estas tecnologías están propiciando que personas pequeñas puedan empezar a
+hacer grandes cosas».
+EE.UU. y China, líderes en IA Pero justo estamos viviendo un momento de desconfianza en cuanto al
+tratamiento de datos por parte de las grandes compañías tecnológicas. Y es que la IA no es nada si no
+tiene datos con los que trabajar. El experto entiende el hastío de los usuarios. «La gran parte de
+nuestros datos están en algún servidor de Facebook o Google y no es algo bueno.En Europa la gente
+está muy cansada mientras que en EE.UU. parece que dan la batalla por perdida. Es un asunto que
+hay que tomar muy en serio, que exige debate y ver qué soluciones tomar», apunta. De ahí, una vez
+más, la necesidad de formarnos antes de que nos «pille el toro». Solo así dispondremos de una
+regulación competente.
+«También hay que preguntar a los políticos que votamos qué decisiones van a tomar con respecto al
+tratamiento de las bases de datos», apunta Lasse Rouhiainen, que opta por tener una parte de los
+datos libres y disociados. «Gracias a eso se puede avanzar en la IA y todo el mundo, no unos pocos,
+como sucede ahora, podrán acceder en igualdad de condiciones para futuros desarrollos», apunta. Por
+ejemplo, una base de datos de salud pero sin nombre ni apellidos. «Una posible solución es el
+‘blockchain’», recuerda el experto.
+China y EE.UU. son los países que, en la actualidad, lideran la carrera de la IA, que es también un arma
+de doble filo. «Putin dijo que el país con mejor IA gobernará el mundo. China, de hecho, es el único
+país que ha elaborado un plan de futuro para los doce años siguientes. El problema es que ambas
+potencias, en vez de colaborar, están compitiendo por ver quién es el mejor». Y es que la IA puede
+convertirse en un arma. «Si los dos países sumaran sus esfuerzos para curar el cáncer, por ejemplo,
+sería genial. Pero están centrándose en el desarrollo de armamento militar. Eso hay que evitarlo. La IA
+no debería usarse para fines negativos», concluye.
+Medio: Redes Telecom Fecha: 03/12/2018 (00:00:00)
+Términos: tecnología
+Resumen de Prensa
+20/12/2018 18:12
+página 74/151
+

@@ -1,0 +1,89 @@
+﻿
+El GPS, la tecnología que revoluciona el fútbol.
+La irrupción de sistemas revolucionarios como el VAR o la tecnología de la línea de gol ha cambiado la
+forma de percibir el fútbol entre futbolistas y aficionados. Los últimos avances han llegado para
+quedarse, al igual que lo hizo la tecnología del seguimiento electrónico vinculado al rendimiento
+deportivo.
+Es una realidad. El chaleco negro que lucen los futbolistas a la altura del pecho en competiciones como
+LaLiga Santander ha dejado de ser visto con escepticismo para entenderse como una herramienta más
+del día a día y que resulta crucial para mejorar sus registros.
+La consolidación de dicha tecnología viene de lejos. Hay que remontarse dos décadas para detectar a
+las empresas pioneras. Su evolución es imparable. La compañía australiana Catapult Sports es un
+buen ejemplo. Tras desarrollar su primer prototipo experimental en el año 2000, actualmente puede
+presumir de nutrir a 1.800 atletas de 35 disciplinas, entre las que destacan fútbol americano o
+baloncesto y un gran alcance en el fútbol británico, donde trabajan con 70 clubes como Chelsea,
+Tottenham o Leicester City.
+Hay tres tipos de sistemas de seguimiento electrónico del rendimiento: los basados en cámaras con
+sensor óptico, los de posicionamiento local (LPS) y los de GPS/GNSS donde se encuentran wearables
+como los chalecos negros.
+Esta evolución se vio acelerada en marzo de 2015, cuando la International Football Association Board
+(IFAB) dio luz verde al uso de tecnoaccesorios durante los encuentros. El Mundial femenino de Canadá,
+celebrado ese mismo año, se convirtió en la primera competición oficial que aplicó dicha tecnología.
+Desde entonces, todo ha ido muy rápido. El pasado mes de marzo, apenas tres años después, la FIFA
+comunicó que los analistas técnicos tienen permiso para transmitir datos a los entrenadores durante
+los partidos. Una valiosa información que puede cambiar el devenir de un encuentro.
+En la actualidad convergen tres tipos de sistemas de seguimiento electrónico del rendimiento: los
+basados en cámaras con sensor óptico, los de posicionamiento local (LPS) y los de GPS/GNSS, donde
+Resumen de Prensa
+20/12/2018 18:12
+página 40/151
+se encuentran wearables como los chalecos negros. A diferencia de los otros dos sistemas, que
+dependen del vídeo y de una instalación más compleja, el GPS resulta mucho más independiente. Sus
+virtudes han convencido a gigantes de la talla del FC Barcelona.
+El club azulgrana, que en su día trabajó con la empresa norirlandesa StatSports, ya suma dos
+campañas apostando por la almeriense RealTrack Systems y su revolucionario Wimu Pro, tras trabajar
+previamente con las distintas secciones del club. Todo un referente mundial en el deporte de élite.
+El Wimu Pro, con el que los jugadores del primer equipo disputan los encuentros de LaLiga Santander,
+combina el GPS clásico con tecnología UWB de banda ultra ancha y ofrece hasta 20.000 datos por
+segundo. El chaleco, apoyado en un software y reforzado por unas antenas instaladas en el Camp Nou
+y en la Ciutat Esportiva Joan Gamper, también puede sincronizarse con dispositivos utilizados por los
+servicios médicos y ofrece datos en tiempo real y en modo grabación.
+El chaleco que llevan los jugadores del Barça, apoyado en un software y reforzado por unas antenas
+instaladas en el Camp Nou y en la Ciutat Esportiva Joan Gamper, ofrece a los servicios médicos miles
+de datos en tiempo real.
+La información recopilada se divide en tres segmentos: el fisiológico, que hace referencia a
+parámetros como frecuencia cardíaca, niveles de oxígeno o fatiga; el cinemático, donde se agrupan
+datos vinculados a velocidad, aceleración, desaceleración o distancia recorrida; y, por último, los
+parámetros de singularidad táctica, que muestran los característicos mapas de calor que han
+encumbrado a futbolistas omnipresentes sobre el césped como el francés N’Golo Kanté.
+La monitorización de los jugadores permite establecer un plan nutricional en función de su nivel de
+fatiga y desgaste energético y proporciona valiosa información al cuerpo técnico para planificar los
+encuentros, ante la necesidad de un jugador de perfil más explosivo o resistente. Existen casos
+específicos como el del brasileño Neymar Jr, con un high-speed running con un elevado factor de
+riesgo, que obliga a los médicos a asesorar al jugador para prevenir lesiones musculares, adaptando
+su preparación física y su alimentación.
+Dispositivos como el Wimu, con el que también trabajan otros clubes de LaLiga Santander –Sevilla,
+Betis, Celta, Getafe y Valladolid–, así como ocho entidades de la Liga 1|2|3, se han convertido en una
+herramienta de vital importancia. Además, la compañía firmó recientemente una alianza estratégica
+con LaLiga para permitir que todos los clubes de Primera y Segunda reciban un informe de
+rendimiento generado por su tecnología de la mano de la información recopilada por Mediacoach.
+Los datos ayudan a prevenir lesiones, establecer un plan nutricional y mejorar tácticamente
+conociendo los mapas de calor, que muestran el espacio del campo donde más se mueve el jugador.
+A los datos que ayudan a mejorar el rendimiento y la parcela táctica se une la capacidad para prevenir
+lesiones por sobrecarga. Diversos estudios avalan dicha virtud y también en clave azulgrana se ha
+comprobado como futbolistas explosivos y de largo recorrido como Jordi Alba o Ivan Rakitic han sido
+convenientemente dosificados en función de su nivel de fatiga o la carga de minutos. Las rotaciones
+están más fundamentadas que nunca.
+El alto grado de implantación del GPS a nivel profesional generará un desembarco paulatino en el
+sector amateur, mediante dispositivos más económicos. El gran público dispondrá de dicha tecnología,
+al tiempo que muestra interés por conocer detalles concretos sobre sus ídolos ante el amplio abanico
+estadístico que ofrecen el GPS y el big data.
+El fan engagement, de hecho, ya es una realidad de la mano de Wimu en la liga mexicana y un
+escenario ante el que deberán posicionarse clubes como el propio FC Barcelona, a la vanguardia del
+sector tecnológico deportivo con un centro de referencia mundial como el Barça Innovation Hub. El
+Resumen de Prensa
+20/12/2018 18:12
+página 41/151
+futuro, sin embargo, es todo un misterio. Pese a la consolidación del GPS como modelo de referencia,
+su futuro a medio plazo es una incógnita.
+Eminencias en la materia como Mounir Zok, exdirector de innovación y tecnología del Comité Olímpico
+de Estados Unidos actualmente afincado en Barcelona con su empresa N3XT Sports, han llegado a
+cuestionar el recorrido de los wearables ante la futura aparición de elementos menos invasivos para el
+futbolista como tiras adhesivas, que controlen más variables, y una mayor evolución del vídeo que
+permita registrar más datos con menor margen de error. Todo ello apoyado en la eclosión de
+tecnologías como el 5G, que obliga a las compañías a invertir en I+D. Ahí estará el futuro pero, de
+momento, el GPS es el líder indiscutible.
+Descubre aquí más historias que impulsan el futuro.
+Medio: Redes Telecom Fecha: 12/12/2018 (00:00:00)
+Términos: tecnología
+

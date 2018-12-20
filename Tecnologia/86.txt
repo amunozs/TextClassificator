@@ -1,0 +1,44 @@
+﻿
+La UA participa en el desarrollo de un nuevo mecanismo que mejora la
+calidad de las pantallas.
+ALICANTE, 27 Nov. (EUROPA PRESS) -.
+Investigadores de la Universidad de Alicante (UA) han participado en el desarrollo de un nuevo
+mecanismo para la generación de luz en dispositivos optoelectrónicos -tecnología que combina la
+óptica y la electrónica-, que podría convertirse en la nueva fuente de luz en OLED y terminar
+extendiéndose a todo tipo de aparatos electrónicos y pantallas. Con ello "se logra cerca de un 100% de
+eficacia en la calidad de las imágenes".
+El trabajo ha sido publicado en la revista científica 'The Journal of Physical Chemistry Letters', según ha
+informado la institución académica en un comunicado. Cada día teléfonos móviles, relojes inteligentes,
+televisiones o tabletas presentan pantallas más planas y ligeras, de mayor resolución y con menores
+consumos energéticos gracias a la tecnología OLED (Organic Light-Emitting Diodes), diodo orgánico de
+emisión de luz.
+El artículo, titulado 'Computational Design of Thermally Activated Delayed Fluorescence Materials: The
+Challenges Ahead', forma parte del trabajo desarrollado por el Grupo de Investigación de Química
+Cuántica de la Universidad de Alicante junto a las de Mons (Bélgica), Bolonia (Italia) y Grenoble
+(Francia) en el campo de la química teórica y computacional.
+"Los diodos OLED están formados por moléculas orgánicas que se sintetizan en un laboratorio y cuyas
+posibilidades son casi infinitas ya que se puede controlar cualquier variación química que se desee",
+ha explicado el investigador de la UA y uno de los autores del artículo, Juan Carlos Sancho-García.
+Aunque las prestaciones y ventajas de esta tecnología son "innumerables", uno de los "desafíos"
+presentes y futuros es aumentar su eficiencia, entendida como la relación entre el número de
+electrones que llegan a la pantalla, procedentes de la batería, y el número de fotones (partículas de
+luz) que emite la pantalla, lo que repercute en la calidad e intensidad de la imagen.
+"Hasta ahora, por ciertas reglas de la mecánica cuántica, solo se ha alcanzado un 25 por ciento de
+eficiencia. Además, mientras que los colores rojo y verde se encuentran muy desarrollados, no pasa lo
+mismo con el color azul para el que aún hay mucho margen de mejora", ha seguido Sancho-García.
+En este marco, la investigación propone un nuevo mecanismo de emisión de luz denominado
+'Thermally Activated Delayed Fluorescence' (TADF) -Fluorescencia retardada activada térmicamentepara
+conseguir explorar otras vías moleculares y alcanzar el 100% de eficiencia en el mecanismo de
+funcionamiento de OLEDs.
+"Si la eficiencia de un dispositivo es cercana al 100% las ventajas son claramente competitivas:
+consumo mucho más bajo y aumento considerable del tiempo de vida y del número de horas en
+funcionamiento de la batería, ya que la pantalla consume una buena parte de la misma; calidad
+Resumen de Prensa
+20/12/2018 18:12
+página 101/151
+inigualable en la imagen porque el número de pixeles aumenta a la vez que mejorara el brillo y
+resolución; y mejores prestaciones mecánicas como una mayor ligereza e, incluso, la posibilidad de
+tener pantallas curvas o enrollables", apunta el investigador de la UA.
+Medio: 20 Minutos - Tecnología Fecha: 27/11/2018 (08:42:07)
+Términos: tecnología
+

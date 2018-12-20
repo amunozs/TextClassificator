@@ -1,0 +1,32 @@
+﻿
+Málaga, nueva Ciudad Tecnológica 5G de Telefónica.
+Huawei ha colaborado con Telefónica para realizar la primera videollamada internacional en la red real
+con tecnología 5G entre operadoras del Grupo Telefónica al establecer una conexión Londres-Málaga.
+De este modo, Málaga se incorpora al proyecto Ciudades Tecnológicas 5G de Telefónicaque nació con
+el objetivo de convertir Segovia y Talavera de la Reina en escenarios reales del 5G, tanto con casos de
+uso como con el despliegue tecnológico.
+Tal y como ha señalado Mercedes Fernández, gerente de Innovación de Telefónica, “con este hito
+Málaga se convierte en la tercera Ciudad Tecnológica 5G de Telefónica y en el escenario de una
+experiencia pionera en el camino hacia la implantación del 5G para los usuarios”.
+Por su parte, el director de la cuenta de Telefónica España en Huawei, Jose Carlos Fernandez, ha
+afirmado: “la videollamada internacional presentada por Telefónica se ha realizado sobre equipos
+comerciales 5G basados en los estándares 3GPP. Desde Huawei estamos encantados de colaborar con
+Telefónica en Málaga en el marco del programa Ciudades Tecnológicas 5G, y por extensión, de
+contribuir a la transformación de la economía digital en España”.
+Para hacer posible esta videollamada, en la que han participado Jerónimo Vilchez, director de territorio
+Sur de Telefónica (en la foto), desde Málaga y Joaquín Mata, director de Operaciones, Red y TI de
+Telefónica España desde Londres, se ha equipado con tecnología 5G dos nodos situados en las
+ciudades de Málaga y Londres. Concretamente, en el emplazamiento situado en la central de
+Telefónica de Guadalhorce, que es el primero de los nodos activado en Málaga, y el nodo ubicado en el
+centro de exposiciones ExCel Center de la ciudad de Londres. Además, la transmisión desde los nodos
+hasta sus respectivos núcleos de red se ha optimizado para obtener las velocidades requeridas por el
+estándar 5G de hasta 10Gbits/seg, más de 10 veces si lo comparamos con la conectividad requerida
+por el 4G (1Gbits(/seg).
+Huawei por su parte ha proporcionado los equipos de red, con una estación base 5G con antenas
+equipadas con tecnología Massive-MIMO 64T64R, un 5G NSA Core con infraestructura virtualizada, el
+router inalámbrico o equipo terminal de usuario (CPE- Customer Premises Equipment) para
+proporcionar las altas velocidades requeridas por el 5G, y dispositivos Huawei Mate20 con los que se
+ha realizado la videollamada.
+Medio: La Información - Microsiervos Fecha: 19/11/2018 (21:00:00)
+Términos: tecnología
+

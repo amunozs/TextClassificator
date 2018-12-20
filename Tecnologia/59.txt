@@ -1,0 +1,35 @@
+﻿
+5G y edge computing modificarán el puesto de trabajo en el sector
+industrial.
+La próxima generación de redes 5G y la tecnología edge computing no sólo van a impulsar, de manera
+notable, la adopción de dispositivos IoT por parte de las empresas, sino, además, la eclosión de nuevas
+tipologías de puestos de trabajo en el sector industrial y una multiplicación exponencial de la
+productividad de los actualmente existentes. Esta es la principal conclusión del análisis realizado por
+Toshiba sobre las tendencias TI que definirán la movilidad empresarial en 2019.
+A este respecto, según un estudio realizado por la compañía en Europa entre más de 1.000
+responsables de tecnología, el 50% de los directivos de TI españoles afirma que un uso más innovador
+de las herramientas digitales es imprescindible para incrementar la productividad de los puestos de
+trabajo de campo en el sector industrial, lo que nos sitúa siete puntos por encima de la media
+europea.
+El análisis de Toshiba destaca que, en 2019, las soluciones de movilidad basadas en edge computing,
+integradas con la velocidad y potencial de transmisión de datos del 5G, permitirán aumentar la
+autonomía y capacidad del procesamiento de información “in situ” de los puestos de trabajo de
+campo, tales como los servicios de mantenimiento o de gestión logística, evitando así la saturación de
+los ordenadores centrales o los servicios en la nube de la organización.
+Según Toshiba, esta combinación de tecnologías abrirá la puerta a todo un mundo de nuevos
+desarrollos y aplicaciones para el sector industrial, específicamente en actividades de fabricación,
+ingeniería o logística. La compañía japonesa llama la atención sobre el desarrollo de soluciones para
+distintos dispositivos, tales como las gafas inteligentes de realidad asistida aplicadas a puestos de
+trabajo cuyos profesionales precisan tener las manos libres, al mismo tiempo que emiten y reciben
+información, lo que va a significar una auténtica eclosión de la eficacia y la productividad.
+Según Emilio Dumas, director general de Toshiba Iberia, “en los últimos años, las empresas se han
+beneficiado de la continua innovación tecnológica en áreas como la nube o la realidad virtual o
+aumentada, por citar sólo algunas. Sin embargo, su implementación ha sido gradual por cuestiones de
+presupuesto e infraestructuras heredadas. Gracias al 5G, se espera que 2019 sea un año
+determinante para la rápida adopción de soluciones IoT, y signifique el inicio de una auténtica
+revolución en sectores, como el industrial, en el que la productividad del puesto de trabajo ha crecido
+a ritmos inferiores al de otras áreas en los últimos años, precisamente por la falta de incorporación de
+la capacidad de computación”.
+Medio: Redes Telecom Fecha: 03/12/2018 (00:00:00)
+Términos: tecnología
+

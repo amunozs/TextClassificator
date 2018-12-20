@@ -1,0 +1,39 @@
+﻿
+Google elimina los pronombres de género en sus respuestas
+automáticas para evitar prejuicios sexistas.
+La tecnología «Smart Compose» de Google, con la cual los mensajes de Gmail se completan de forma
+automática en base a la Inteligencia Artificial (IA), ya no propondrá pronombres basados en el género,
+Resumen de Prensa
+20/12/2018 18:12
+página 93/151
+con el objetivo de evitar prejuicios sexistas.
+El director de producto de Gmail, Paul Lambert, ha anunciado esta novedad en una entrevista a
+Reuters, donde ha explicado que un investigador de Google descubrió el problema en enero de este
+año, cuando escribió «me reuniré con un inversor la próxima semana» y la herramienta de IA sugirió la
+pregunta «¿quieres reunirte con él?», asumiendo de forma improcedente que se trataba de un
+hombre.
+Para evitar errores y prejuicios en las sugerencias relativos a la identificación de género, el sistema
+dejará de mostrar pronombres como «ella» o «él» en las frases que sugiere. Lambert declaró que «no
+todos los errores son iguales» y que el género es algo «grande, muy grande» como para equivocarse.
+«Smart Compose» es una herramienta de generación de lenguaje natural basada en IA a través de la
+cual un ordenador es capaz de aprender a escribir oraciones mediante el estudio de patrones del
+usuario y relaciones entre distintas palabras en aspectos como la literatura, las páginas web y los
+correos electrónicos.
+El sistema completa frases a partir de la exposición a billones de oraciones humanas, en las cuales
+pueden aparecer generalidades. Debido a la historia en ámbitos como la ciencia o los negocios, la
+tecnología de IA tendía a aventurar de forma equivocada que el género de un inversor o un ingeniero
+es masculino. Lambert ha destacado que, después de que quince ingenieros y desarrolladores
+probaran distintas soluciones, ninguna de las opciones valoradas estaba totalmente libre de prejuicios.
+por ello, Google ha optado por dejar de utilizar pronombres que implican género.
+La tecnología, según se ha indicado en la publicación, asiste al 11% de los mensajes enviados a través
+de Gmail, y Lambert ha afirmado que la prohibición en el uso de los pronombres afecta a menos del
+1% de los casos. Para descubrir nuevos prejuicios en cuanto a género en las aplicaciones de
+Inteligencia Artificial de Google, Lambert ha comentado que la empresa utiliza pruebas desarrolladas
+por su equipo de ética de IA, e investigan en los sistemas para encontrar los errores mediante un
+equipo de «spam» y abuso. La nueva política que elimina los pronombres basados en género también
+afectará a las posibles respuestas sugeridas automáticamente por «Smart Reply», el servicio de Google
+que permite a los usuarios responder de forma instantánea a mensajes de texto y correos
+electrónicos.
+Medio: El Periódico de Catalunya - Tecnología Fecha: 29/11/2018 (14:02:30)
+Términos: tecnología
+

@@ -1,0 +1,46 @@
+﻿
+El wifi de los hogares españoles mejorará gracias a la startup noruega
+Domos.
+¿Cuál es la queja más común en cuanto al la calidad de la conexión a internet en el hogar? La
+respuesta es muy sencilla: la velocidad del la red wifi. Un elemento que las operadoras no pueden
+controlar es dónde terminará instalado el router en cada hogar, el tamaño de la casa, el grosor de las
+paredes, los materiales utilizados o la estática del ambiente, interfieren en la señal, por lo que es muy
+difícil garantizar la velocidad de descarga contratada independientemente del lugar donde se
+encuentre el cliente.
+Operadoras como Vodafone proveen a los instaladores de aplicaciones móviles para medir la potencia
+del wifi en cada estancia y, de esa manera, poder comunicar al cliente la calidad real de la conexión en
+cada lugar, y así impedir el incumplimiento de las expectativas del cliente.
+La startup noruega Domos utiliza inteligencia artificial y machine learning para mejorar el wifi en casa.
+Acaba de aterrizar en España con la promesa de solucionar este problema. Son capaces de mejorar la
+potencia del wifi entre un 100% y un 400%, sólo utilizando software, es decir, optimizando el código
+del router. Por ejemplo, NextGenTel, la operadora noruega que ha usado Domos durante los últimos
+dos años, reportó una significativa caída en las llamadas al servicio al cliente relacionadas con
+problemas de wifi como resultado de la integración del software en sus routers.
+Este software, Domos lo provee a las operadoras que a su vez serán las responsables de actualizar el
+software de los routers en cada hogar.
+Al preguntar al CEO de Domos, Bent Erik Skaug, sobre el por qué de la falta de calidad y consistencia
+del wifi en los hogares, las razones que dio fueron tres: la interferencia de las redes wifi competidoras
+de los vecinos, las perturbaciones de radiofrecuencia de otros aparatos électricos y los problemas de
+cobertura de wifi en la casa.
+La mayoría de las personas lo que hacen para mejorar su cobertura wifi en casa es instalar
+Resumen de Prensa
+20/12/2018 18:12
+página 83/151
+repetidores. Pero en realidad, Bent asegura que sólo alrededor del 25-30% de los hogares los necesita
+realmente. En muchas casas, especialmente en áreas densamente pobladas, la instalación de un
+repetidor solo empeora la situación.
+Según Bent, la tecnología de Domos se inspira en el 5G, la futura conectividad móvil que llegará en el
+2020, como la división de red, donde la señal se adapta dependiendo de la necesidad del cliente. Por
+ejemplo, si lo que usamos son videojuegos en línea en casa, la señal se adaptará para bajar la latencia.
+En cambio, si lo que nos gusta es ver películas 4K, lo hará para optimizar la descarga.
+En cuanto a la protección de datos y para nuestra propia tranquilidad, Bent asegura que «nunca
+miramos el contenido transmitido o recibido por los dispositivos, el router o las direcciones IP que
+visita el usuario. Esto es importante, todo lo que hacemos es trabajar para mejorar la calidad de la
+señal. Somos totalmente compatibles con el GDPR».
+España es el primer país donde se expande Domos fuera de Noruega, en palabras de su CEO. La razón
+es por lo avanzadas que se encuentran las operadoras en nuestro país, a un nivel similar al de
+Noruega, y la gran calidad de los ingenieros con los que cuenta España, ya que su objetivo es abrir
+oficina de desarrollo aquí.
+Medio: La Información - Microsiervos Fecha: 30/11/2018 (20:02:27)
+Términos: tecnología
+

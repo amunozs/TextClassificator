@@ -1,0 +1,52 @@
+﻿
+Google Maps es capaz de mostrar la contaminación del aire (y puede
+que el servicio llegue a tu ciudad).
+¿Sabías que alrededor de 550 habitantes de Copenhague mueren prematuramente anualmente por la
+contaminación? ¿O que la polución mata cada año a siete millones de personas, según la OMS? ¿Y que
+España se encuentra entre los cinco países europeos con mayor nivel de contaminación junto con
+Alemania, Italia, Reino Unido y Francia? Ante estas cifras, Google quiere ofrecer su particular soplo de
+aire fresco con el recién desembarco en Europa de Project Street View, con el que los famosos coches
+de Street View miden en tiempo real y muestran al usuario las partículas y otros contaminantes del
+aire de una ciudad concreta.
+El gigante de internet mide la calidad del aire de la capital de Dinamarca desde el 9 de octubre, aunque
+su salto a Europa se produjo realmente en septiembre del 2018. Londres fue la primera ciudad
+europea en la que se estrenó Project Air View después de cartografiar la calidad del aire de Oakland
+(EE.UU.) y otras ciudades de California desde 2015. Los científicos estadounidenses utilizaron los datos
+para demostrar el vínculo que existe entre la contaminación del aire en las calles y las enfermedades
+cardíacas.
+La información sobre la calidad del aire es crucial para tomar decisiones de todo tipo. De hecho, la
+contaminación provoca un coste social anual de unos 600 millones de euros en Dinamarca. Con el
+objetivo de intentar reducir estas cifras, los vehículos de Google Street View, equipados con
+instrumentos científicos que miden la calidad del aire, junto con tres puntos fijos de medición que se
+han establecido en Copenhague, mapean las emisiones de forma hiperlocal. «Estas mediciones se
+compartirán con los científicos, el Ayuntamiento y, en última instancia, con el público a través de
+mapas interactivos», explica Karin Tuxen Bettman, Program Manager, de Google Earth Outreach.
+El aire limpio, tal y como recuerdan los de Mountain View, es fundamental para la vida pero más del 90
+por ciento de la población del mundo respira aire contaminado. Por esta razón, Google, junto con la
+asociación Aclima, lanzó en 2015 Project Street View. «Es uno de los varios esfuerzos dirigidos a aplicar
+la tecnología a los problemas más apremiantes del mundo», asegura Karin Tuxen Bettman.
+Sistema de gestión a bordo Google cuenta con 50 vehículos de Street View equipados con pequeños
+sensores que miden la calidad del aire de una manera hiperlocal. Los detectores de Aclima son lo
+suficientemente poderosos como para discernir hasta las cantidades más pequeñas de
+contaminantes. Google proporcionó los automóviles y controladores de Street View, la infraestructura
+de nube para almacenar los datos y el plataformas de mapeo (como Google Maps y Google Earth) para
+analizar los hallazgos.
+Los coches realizan al menos dos viajes alrededor de un área determinada para capturar los datos:
+dióxido de carbono, monóxido de carbono, óxido nítrico, dióxido de nitrógeno, ozono y partículas. La
+Resumen de Prensa
+20/12/2018 18:12
+página 103/151
+plataforma de Aclima se ha instalado en los automóviles, que integra hardware de detección, gestión
+de datos y computación, control de calidad y funciones de visualización, lo permite generar mediciones
+y análisis exhaustivos. El sistema transmite continuamente la información al sistema de
+almacenamiento y procesamiento de datos basado en la nube de Aclima, donde se agregan y se
+analizan los datos. Además de la medición de la calidad del aire, la plataforma móvil digitaliza y
+prepara cada muestra de aire para la visualización geoespacial a través de un sistema de gestión de
+datos a bordo. Un extenso sistema de gestión de red permite a los científicos e ingenieros de Aclima
+monitorear las condiciones en tiempo real.
+Hasta la fecha, se han realizado más de 250 millones de mediciones mientras que Project Street View
+se va ampliando cada vez más a más ciudades, aunque fuentes de la compañía aseguran que de
+momento no saben si llegará a España.
+Medio: ABC - Conocer Tecnología Fecha: 27/11/2018 (03:31:04)
+Términos: tecnología
+

@@ -1,0 +1,32 @@
+﻿
+X Security, el nuevo servicio de protección de X by Orange.
+X by Orange lanza X Security, una solución de firewall y redes privadas virtuales para proteger todo el
+tráfico de Internet entre las sedes de la empresa y la nube.
+Se trata de una propuesta de seguridad gestionada en la nube, que responde a las necesidades de las
+empresas de proteger su información frente a todo tipo de amenazas y ciberataques.
+Combina en un solo producto todas las funcionalidades de un servicio de redes privadas virtuales
+basado sobre la tecnología SD-WAN de Nuage Networks (Nokia) con un servicio avanzado de firewalls
+en la nube de Check Point.
+Gracias a la tecnología SD-WAN (Software Defined – Wide Area Network), los clientes de X Security
+podrán crear, de forma muy fácil y rápida, conexiones privadas entre las sedes de sus empresas e
+Internet. A partir de aquí, el tráfico que viaja entre las sedes quedará cifrado y autenticado. Este
+servicio permite la conectividad no solo entre las sedes de las empresas, sino también con sus centros
+de datos privados, proveedores de soluciones en la nube y nubes públicas, todo dentro de un modelo
+unificado de seguridad.
+Este lanzamiento se apoya en un conjunto de firewalls que garantizan una seguridad total en los
+protocolos de comunicación. Incluye también una funcionalidad de “protección de día cero”: no
+importa que se desconozca qué virus es, el sistema se basa en el comportamiento del software y
+siempre que lo considere sospechoso bloqueará por defecto esa aplicación.
+Este servicio ofrece una flexibilidad total para crear, ampliar o reducir la red cubierta, permitiendo
+conectar nuevas sedes en cuestión de minutos.
+X Security es una solución 100% en la nube, auto desplegable, autoinstalable y que se escala
+automáticamente.
+Como en el resto de sus soluciones, X by Orange permite al cliente monitorizar el servicio en su área
+privada dentro de XbyOrange.com. Con esto se consigue un control centralizado de todo el tráfico y de
+la red, de manera que el cliente podrá priorizar, medir y controlarlo todo a través de un sencillo panel
+de control.
+No tiene compromiso de permanencia, funciona con la conectividad de cualquier operador y se puede
+probar gratis durante 15 días sin ningún compromiso de compra.
+Medio: Redes Telecom Fecha: 26/11/2018 (00:00:00)
+Términos: tecnología
+

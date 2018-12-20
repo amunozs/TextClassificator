@@ -1,0 +1,67 @@
+﻿
+Universall, el 'gadget' que convierte cualquier objeto cotidiano en
+inteligente.
+INÉS LÓPEZ Desde sillas, puertas y camisetas, a monitorizar animales, los casos de uso de este aparato
+son infinitos.Con Universall cualquier compañía puede desarrollar productos que aprovechen el Big
+Data.Después de lanzar su Live Lovers Watch, el reloj capaz de monitorizar la actividad sexual, la
+empresa española Geeksme quiere revolucionar el Internet de las Cosas (IoT, en sus siglas en inglés).
+En la feria 'IoT Solutions World Congress' de Barcelona presentó su nuevo producto, Universall, que
+convierte cualquier objeto cotidiano en inteligente.Esta idea nace de su colaboración con la empresa
+Pikolin, donde introdujeron en sus colchones el sistema de descanso SmartP!K, que permite al usuario
+"conocer el rendimiento del sueño, enseñarle a dormir mejor, conocer como duerme, darle la opción
+de medir el rendimiento sexual...", explica Ángel Sánchez, cofundador de Geeksme."Se nos empezaron
+a ocurrir muchas ideas: una silla inteligente, una raqueta inteligente, una puerta inteligente... Entonces
+pensamos: ¿Por qué no hacemos algo que sea lo más universal posible que permita a todas estas
+ideas llevarse a cabo de forma económica? Así nació Universall", cuenta Sánchez.Este gadget se puede
+acoplar a cualquier objeto, Geeksme ya lo ha probado en sillas, puertas, colchones, raquetas de pádel,
+cascos y collares de mascotas, entre otros."Nuestro objetivo con esto es democratizar la tecnología,
+que el IoT sea algo común y que aporte valor, que no se quede solo en monitorizar objetos y ofrecer
+datos", afirma el cofundador.Un sensor universalEl ecosistema ingeniado por Geeksme se compone
+de dos partes, una de software y otra de hardware. Por un lado, cuenta con un módulo de 2,8
+centímetros de diámetro, de 8 gramos de peso y que es adaptable a numerosos escenarios gracias a
+los diversos accesorios diseñados a tal efecto; y por otra parte, una base de carga y
+comunicación.Además, la ventaja de este aparato respecto a otros es que al colocar al módulo en la
+base, se conecta de forma automática con el teléfono, sin que el usuario tenga que hacer nada, y que
+solo se preocupe de recibir el reporte de datos."Combina sensores de movimiento, medioambientales
+y de localización, entre otros, además de contar con Bluetooth, Wi-fi, etc.", explica Rodrigo Silva-Ramos,
+cofundador de la compañía, que ejemplifica con una puerta uno de los usos que se le puede dar al
+sistema. "Puedes saber si la puerta está abierta o cerrada, saber cuántas veces se ha abierto al día,
+incluso puede funcionar a modo de alarma", detalla.La idea principal de Geeksme es vender este
+producto a empresas líderes en el sector, que sean ellos quiénes decidan el uso que se le quiere dar a
+Universall, que aprovechen el Big Data de forma que les pueda beneficiar y servir.Casos de
+usoAdemás de la puerta, el módulo se puede colocar en multitud de objetos. Con esta idea de poder
+utilizarlo de diferentes formas y de recoger datos muy dispares, Geeksme ha mostrado algunos de los
+usos que se le puede dar a su creación.Entre ellos está el caso de la monitorización de animales de
+granja: "Determinados animales, como las vacas o los cerdos, tienen que estar monitorizados: hay que
+comprobar que el animal sale al exterior, que camina todos los días, saber si está enfermo según sus
+Resumen de Prensa
+20/12/2018 18:12
+página 109/151
+hábitos de movimiento... Todo esto es posible con un pequeño módulo que se coloca en la oreja del
+animal", cuenta Sánchez.Rodrigo cuenta cómo Universall también puede colocarse en una raqueta de
+pádel, para monitorizar los movimientos a tiempo real, conocer la fuerza con la que golpeas la pelota,
+los ángulos de tiro que más se realizan... Esto puede ayudar a los deportistas a conocer mejor su
+juego.Otro uso que se le puede dar es, por ejemplo, ponerlo en un casco, a modo de seguridad:
+"Puede, por ejemplo, advertirte con una vibración si estás en una zona peligrosa o si algún objeto
+peligroso se acerca a ti", detalla Silva-Ramos.En el caso de colocarse en una silla, también puede ser
+útil: "Se puede monitorizar la actividad de la silla: cuánto tiempo pasas sentado, el efecto calienta-silla,
+dependiendo de si estás
+apoyado o no en el respaldo, saber si estás mostrando interés o no... Esto para las grandes
+corporaciones puede ser útil para averiguar los roles dentro de una empresa", continúa contando
+Silva-Ramos.Sánchez añade a este ejemplo que puede ser útil para "saber la eficiencia de una sala de
+reuniones: puedes saber si una sala de reuniones está ocupada o no, cuánto tiempo duran, la cantidad
+de gente que acude a estas reuniones, conocer si un determinado trabajador lleva más tiempo o
+menos sentado. etc.".Otro ejemplo que los cofundadores de Geeksme cuentan es el de la camiseta
+inteligente: "Nos fuimos a los equipos de fútbol más grandes de Madrid y les propusimos crear un
+'aficionómetro', una manera de medir empíricamente quién es más aficionado a un equipo,
+conociendo quién se la pone los días de los partidos, quién lo hace con más frecuencia, por ejemplo.
+Si esto se clasifica en un ranking se puede premiar a los primeros, por ejemplo".Además, con la ropa
+inteligente se puede conocer a los usuarios de ciertos productos, saber si se ponen o no lo que se
+compran y cuándo, entre otras utilidades.Entre la multitud de usos que se le puede dar a este gadget,
+también se encuentran bandejas, collares para mascotas, maletas, un grifo de cerveza... Al poder
+colocarse en cualquier sitio, las posibilidades son infinitas.La plataforma estará disponible en
+diciembre de este año a partir de 40€ para empresas, aunque el precio final estará basado en las
+distintas variantes de los elementos que componen Universall y el caso de negocio en particular.
+Medio: Europa Press - PortalTic Fecha: 26/11/2018 (11:02:51)
+Términos: tecnología
+

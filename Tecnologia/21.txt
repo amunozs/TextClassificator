@@ -1,0 +1,26 @@
+﻿
+Facebook quiere saber a dónde vas antes de emprender el viaje.
+Ahora, pretende incluso anticiparse a los movimientos de sus usuarios. La red social está configurado
+para trazar las rutas de los usuarios a través de un sistema de geolocalización integrado en la propia
+plataforma. Gracias a esta característica la multinacional es capaz de personalizar los anuncios.
+Ahora quiere darle una vuelta de tuerca. La Oficina de Patentes y Marcas de Estados Unidos (USPTO,
+por sus siglas en inglés) ha registrado una patente que describe una nueva tecnología diseñada para
+utilizar los datos de ubicación registrados previamente por los usuarios desde sus teléfonos móviles
+para «pronosticar» dónde y cuándo tiene más posibilidades de viajar.
+La patente, descubierta por el medio especializado «Buzzfeed», puede servir para que Facebook sea
+capaz de combinar patrones de comportamientos de los amigos y el usuario para «construir» una
+imagen de sus hábitos e, incluso, «adivinar» sus movimientos. Se describe como «predicción de
+ubicación mediante señales inalámbricas en redes sociales en línea» para una tecnología que puede
+usar la potencia de las señales de WiFi, Bluetooth, celulares y de comunicación de campo cercano
+Resumen de Prensa
+20/12/2018 18:12
+página 34/151
+(NFC).
+Pese a lo interesante de la propuesta, se trata de una simple concesión industrial con lo que no quiere
+decir que se desarrolle en un futuro una función. De tal manera que, en caso de implementarse una
+característica similar, Facebook podría prever que si una persona se encuentra en un restaurante y,
+normalmente, a esa hora se dirige hacia el gimnasio, la red social le mandaría mensajes publicitarios
+adaptados.
+Medio: La Vanguardia - Tecnología Fecha: 12/12/2018 (11:51:34)
+Términos: tecnología
+

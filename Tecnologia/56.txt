@@ -1,0 +1,24 @@
+﻿
+Cómo los navegadores web dibujan las páginas HTML/CSS, explicado
+con viñetas.
+Resumen de Prensa
+20/12/2018 18:12
+página 71/151
+En un artículo titulado Inside a super fast CSS engine: Quantum CSS (aka Stylo) uno de los ingenieros
+de Mozilla explicaba el año pasado cómo es por dentro un motor CSS desarrollado para Firefox, lo que
+llamaron Project Quantum. En la práctica es un magnífico artículo sobre cómo funciona la visualización
+de contenidos HTML/CSS en un navegador web, haciendo fácil de entender todo aquello que está
+«entre bambalinas» y no vemos. Una tecnología compleja donde las haya que para la mayor parte de
+la gente acepta casi como magia.
+Y es que desde aquella «idea vaga, pero interesante» y el primer navegador web en modo texto a los
+complejos contenidos multimedia que hoy en día vemos en el ordenador y los dispositivos móviles
+(incluyendo gafas, relojes e incluso salpicaderos de coches) han pasado unos cuantos años,
+concretamente… 28.
+El artículo tiene un viñeta por cada sección importante: el parseo, el layout, los estilos y su jerarquía, el
+rendering o dibujado final… la lista es tan larga que entenderlo al cien por cien sería un trabajo de
+semanas o meses, pero con una lectura rápida y las viñetas resulta mucho más fácil. Y eso que la
+parte de los protocolos y transporte no están incluidas, que también son apasionantes.
+# Enlace Permanente
+Medio: ABC - Conocer Tecnología Fecha: 03/12/2018 (18:23:18)
+Términos: tecnología
+

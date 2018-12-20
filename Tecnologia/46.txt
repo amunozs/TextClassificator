@@ -1,0 +1,22 @@
+﻿
+Microsoft a la reconquista del trono: prepara su propio Chrome con el
+que sustituirá a su navegador.
+20MINUTOS.ES Tiene entre manos un nuevo buscador para competir con el Chrome de Google.Esto
+supondrá el adiós definitivo de su actual navegador, Edge.Cuando internet revolucionó la historia de la
+tecnología Microsoft era el rey de la red. Todos utilizábamos su navegador Explorer, usábamos sus
+sistemas de mensajería y correo electrónico... Pero llegó Google y lo destronó. Ahora, tras varios
+Resumen de Prensa
+20/12/2018 18:12
+página 61/151
+intentos fallidos, la compañía fundada por Bill Gates se ha propuesto recuperar su lugar en
+internet.Según ha publicado el medio especializado The Verge, Microsoft está preparando un nuevo
+navegador basado en el sistema Chromium, el mismo que utiliza el navegador de Google.La idea sería
+sustituir a EdgeHTML, la estructura que hace funcionar al actual navegador de la marca pero que
+sobrevive de mala manera ante rivales como Chrome o Firefox. Se desconoce cuándo estará listo este
+nuevo buscador, pero supondrá el adiós definitivo de Edge.Hace ya algunos años que Chrome se
+convirtió en el navegador más popular del mundo. El uso de chromium por parte de Microsoft pondrá
+fin a la hostilidad con Chrome, después de enviar regularmente notificaciones a los usuarios de
+Windows 10 para intentar que dejen de utilizar la herramienta de su competidor.
+Medio: La Vanguardia - Tecnología Fecha: 05/12/2018 (10:41:07)
+Términos: tecnología
+

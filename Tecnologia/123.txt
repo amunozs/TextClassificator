@@ -1,0 +1,57 @@
+﻿
+Los problemas de implementación de las futuras redes 5G.
+Martes y miércoles ha tenido lugar en Londres el congreso sobre 5G, Global Mobile Broadband Forum,
+con más de 2.200 asistentes líderes del sector que pretenden a partir de aquí, dar el pistoletazo de
+salida del 5G que estará comercialmente disponible durante el 2020.
+En palabras de Ken Hu, CEO de Huawei, «las redes 5G iniciarán una revolución tecnológica y aportarán
+un nuevo dominio a todas las tecnologías de la información y la comunicación. Desencadenarán
+cambios esenciales en las empresas, provocando nuevas oportunidades nunca vistas».
+En muchas ocasiones la llegada del 5G lo hemos podido ver comparado con una cuarta revolución
+industrial. La disrupción de esta nueva tecnología no sólo trae nuevas velocidades de descarga y
+subida, al nivel de la conexión por fibra, sino que habilitará el Internet de las Cosas (IoT) de forma
+masiva, y sobre todo, bajará radicalmente la latencia de la señal, o lo que es lo mismo, el tiempo que
+tarda la señal en recorrer el camino desde nuestro teléfono móvil al servidor y volver, necesario para
+la conducción autónoma de vehículos y control remoto de maquinaria en tiempo real.
+El 5G ya es una realidad como hemos podido ver en Londres durante el Global Mobile Broadband
+Forum. En febrero fuimos testigos de la primera llamada 5G del mundo entre Barcelona y Madrid,
+organizada por Vodafone y Huawei, y este martes se produjo la primera videollamada internacional,
+entre Londres y Málaga.
+Uno de los cinco cambios fundamentales que traerá el 5G será la conversión de la conectividad en una
+Resumen de Prensa
+20/12/2018 18:12
+página 135/151
+plataforma de servicio. Esta ofrecerá una conexión a medida dependiendo de las necesidades del
+dispositivo y el cliente.
+Otro de los cambios será que todo va a estar conectado a internet. El llamado internet de las cosas
+masivo hará que todo dispositivo susceptible de ser conectado, lo hará nada más encenderlo por
+primera vez.
+Un tercer efecto será una aceleración de la implementación de la nube en el mercado, ya que el
+acceso a la información almacenada en internet será prácticamente instantáneo, proporcionando la
+misma experiencia que tendríamos si los datos estuvieran almacenados en la memoria del teléfono
+móvil.
+Esa nueva masificación del uso de la nube también traerá una nueva evolución de la inteligencia de los
+datos: entenderán mejor a sus usuarios y les proporcionarán así un mejor servicio. Ya no estaremos
+hablando de «plug and Play» sino de «Plug and Think». Y lo más importante, el usuario de la red tendrá
+una experiencia más homogénea, independiente de la situación o el lugar donde se encuentre, o el
+número de personas que se encuentren en el área entorno a la misma antena.
+Convivencia 4G y 5G El 5G habilitará una serie de nuevos productos donde la latencia y velocidad son
+indispensables, como la conducción autónoma, revolucionando el sector de la automoción y el
+transporte; la transmisión de vídeo 4K en tiempo real sin retardo, sobre todo en eventos deportivos; y
+los videojuegos en la nube, que ya hemos podido probar en NVIDIA GeForce Now a través de fibra,
+haciendo posible que jugar en la nube sea realmente móvil y capaz de reproducir un juego en
+cualquier pantalla.
+Lo mismo ocurrirá con tecnologías emergentes como la realidad virtual y la realidad aumentada, que
+por fin serán cien por cien independientes del ordenador y ofrecerán la posibilidad de una
+retransmisión sin retardo alguno, en un sistema de entretenimiento totalmente inmersivo.
+Todavía hay algunos problemas que superar en la implementación del 5G, sobre todo en lo relativo la
+convergencia entre 4G y 5G, y el tiempo que ambas tecnologías se vean obligadas a convivir. El
+problema radica en el despliegue de nuevas antenas que no ocupen más espacio que el actual, ya que
+las zonas urbanas se encuentran saturadas. Además, el consumo de energía de la red 5G es muy
+superior al del 4G, debido a su complejidad. El 4G lleva años entre nosotros y ya se encuentra
+optimizado, pero la eficiencia eléctrica del 5G debido a su novedad, está lejos de llegar a su máximo.
+El desarrollo e implementación del 5G han transcurrido mucho más rápido de lo esperado por
+fabricantes y representantes del sector, y en sólo dos años, cuando los primeros teléfonos con
+capacidades 5G salgan al mercado, esta tecnología estará disponible de forma comercial.
+Medio: Europa Press - Innovación C. Valenciana Fecha: 21/11/2018 (19:04:01)
+Términos: tecnología
+

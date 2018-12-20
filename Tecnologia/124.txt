@@ -1,0 +1,44 @@
+﻿
+Gandia será el primer municipio europeo en monitorizar íntegramente
+el agua con la tecnología Narrowband IoT.
+VALÈNCIA, 21 Nov. (EUROPA PRESS) -.
+Gandia (Valencia) se convertirá en la primera ciudad europea que monitorizará, controlará y
+Resumen de Prensa
+20/12/2018 18:12
+página 136/151
+gestionará íntegramente su consumo de agua a través de la red de comunicaciones 'Narrowband IoT'
+(NB-IoT) de Vodafone, una tecnología "puntera" que permite conectar los contadores en zonas
+subterráneas y en los interiores de edificios con poca o nula cobertura, donde las redes de
+comunicaciones habituales no llegan, detalla Global Omnium en un comunicado.
+Con este proyecto, el Ayuntamiento y las dos empresas quieren que Gandia se convierta en "referente
+tecnológico" para las administraciones públicas, a través de una iniciativa que ya ha empezado a
+implementarse y estará plenamente operativa en seis meses.
+En concreto, consiste en el despliegue de dispositivos conectados a los contadores de agua, que
+comunican con la red 'NB-IoT' y proporcionan la información horaria de los consumos de los
+contadores de los ciudadanos, comercios e industrias. De esta forma, permite reducir las pérdidas de
+agua por fugas tanto en las canalizaciones como en la instalación interior de los suministros gracias a
+su detección precoz, al margen de otras ventajas.
+Para Global Omnium, supone una "primera piedra" en la utilización de nuevas tecnologías para
+mejorar los servicios y suministros públicos. La red desplegada en toda la ciudad posibilita varios
+proyectos para mejorar la eficiencia en la gestión de suministros y el día a día de los ciudadanos, como
+la recogida inteligente de residuos, la gestión eficiente del alumbrado público, el control de
+contaminación acústica o la prevención de riesgos en edificios públicos.
+Paralelamente, el despliegue de la tecnología también ofrece nuevas posibilidades tanto al tejido
+industrial y empresarial del municipio como a los ciudadanos, en gestión de alarmas de incendios o
+robo, más precisión en técnicas agrícolas o sensores atmosféricos.
+El consejero delegado de Global Omnium, Dionisio García Comín, ha destacado así que Gandia sea "un
+referente en la gestión eficiente del agua", con el desarrollo y sectorización de la red hidráulica o la
+implantación de la telelectura de contadores inteligentes como "un ejemplo de cómo la colaboración
+entre su empresa y el Ayuntamiento han permitido a los ciudadanos mejorar su calidad de vida".
+En la misma línea, el director territorial de Vodafone en la Comunitat Valenciana, Jesús Suso, ha
+manifestado que es un "orgullo" participar en este desarrollo tecnológico que posiciona a Gandia "en
+un referente nacional y europeo" en la gestión eficiente de un suministro público como el agua.
+"Hoy Gandia da un paso de gigante en el camino hacia la ciudad inteligente que quiere ser y será", ha
+aseverado la alcaldesa, Diana Morant, para asegurar que la localidad afronta el "reto histórico" de ser
+el primer municipio de Europa en implantar la tecnología 'Narroband-IoT'.
+Morant ha asegurado así que Gandia se posiciona "al frente de las 'smart-cities'", con el objetivo de ser
+más competitivos y abrir "un amplio abanico de oportunidades" tanto para los usuarios como para las
+empresas.
+Medio: La Vanguardia - Tecnología Fecha: 21/11/2018 (06:00:00)
+Términos: tecnología
+

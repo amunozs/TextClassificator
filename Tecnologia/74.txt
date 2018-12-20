@@ -1,0 +1,41 @@
+﻿
+Cómo funcionará el Internet gratuito por satélite en todo el mundo.
+Dos grandes cambios globales van a cambiar las comunicaciones a escala global: la llegada del 5G y la
+instalación de múltiples redes, enjambres realmente, de microsatélites situados a diferentes alturas de
+la órbita terrestre. Bien sea desde antenas o bien sea desde más allá de la estratosfera, su objetivo es
+el mismo: crear una manta de ondas electromagnéticas que ofrezcan conexión permanente a Internet.
+Esta nueva realidad permeará físicamente en nuestras casas y figurativamente en nuestra conciencia.
+Internet estará en el aire de una forma mucho más completa que las conexiones limitadas de hoy
+sean redes 4G, televisión terrestre o radio FM, por poner unos ejemplos. Internet estará en el aire
+como lo está el nitrógeno y el oxígeno.
+Solo el 10% del planeta está actualmente cubierto por una red de datos móviles terrestre.
+Los nuevos enjambres están ya siendo desplegados con docenas de satélites nuevos puestos en
+órbita de forma simultánea por gobiernos y entidades privadas, principalmente estas últimas. Se
+llaman microsatélites, o cubesats. Tienen un tamaño reducido del tamaño de un balón de fútbol en
+algunos casos, con algunos casos llegando hasta los 50 o 60 centímetros de diámetro, pero también
+los habrá de apenas 10 o 15 centímetros. Este tamaño tiene un precio acorde y una facilidad obvia
+para lanzarlos de 60 en 60, o incluso más, en un solo cohete.
+Los despliegues son cada vez más comunes, y los satélites empiezan a apilarse en la órbita. Muchos
+serán parte de estas nuevas redes ultra amplias y ultra baratas de comunicaciones: meros repetidores
+de las señales en la superficie que emitirán y recibirán información de forma constante durante sus
+cortos periodos de vida de apenas unos años. Esta “obsolescencia” no es tanto un error o una
+limitación como una características diseñada de antemano: en cinco años la tecnología existente será
+mucho mejor, así que sus gestores los dejarán arder reentrando en la atmósfera antes de que acaben
+convertidos en charra espacial.
+Esta semana iba a ser el corte de cinta de Astrocast, la red de ‘nanosatélites’ para el Internet de las
+cosas, pero su despliegue inicial de 64 satélites se ha retrasado unos días hasta el 2 de diciembre. Una
+vez en órbita, sus sistemas podrán comunicarse múltiples al día con millones de puntos de contacto en
+Resumen de Prensa
+20/12/2018 18:12
+página 91/151
+todo el mundo. Desde termostatos a estaciones meteorológicas, boyas en mitad del océano, sensores
+de movimiento en medio del bosque o cualquier dispositivo capaz de contar con una antena del
+tamaño de una moneda.
+Hay múltiples proyectos de conectividad global que quieren ir más allá de dónde llegó GlobalStar o el
+sistema Iridium en los 90. El propio Starlink de la SpaceX de Elon Musk tiene licencia para operar una
+decena de miles de satélites, pero también estarán Telesat y LeoSat que crearán sus propios
+enjambres. Todos estos satélites se comunicarán entre ellos con unos haces láser para mantenerse
+sincronizados en un baile constante que les haga compartir datos de forma rápida.
+Medio: La Vanguardia - Tecnología Fecha: 30/11/2018 (06:00:00)
+Términos: tecnología
+

@@ -1,0 +1,55 @@
+﻿
+Dos tercios de las empresas pretenden implementar infraestructuras
+5G para 2020.
+El 66% de las organizaciones planean implementar 5G para 2020, según una nueva encuesta de
+Gartner. Las compañías esperan que estas redes se utilicen principalmente para comunicaciones y
+vídeo a través de IoT, siendo la eficiencia operativa el factor clave.
+"En términos de adopción de 5G, las organizaciones tienen demandas y expectativas claras para casos
+de uso de 5G", indica Sylvain Fabre, director senior de investigación de la consultora. “Sin embargo, un
+problema importante a los que se enfrentan los usuarios de 5G es la falta de preparación de los
+proveedores de servicios de comunicaciones (CSP). Sus redes 5G no están disponibles o no son lo
+suficientemente capaces para las necesidades de las empresas".
+Para sacar el máximo partido de la nueva generación de redes móviles se requiere una nueva
+topología de red, que incluye nuevos elementos como la computación de borde (edge computing),
+network slicing y la densificación de la red de radio. "En corto medio - plazo, las organizaciones que
+deseen aprovechar esta infraestructura para casos de uso como comunicaciones IoT, video, control y
+automatización, acceso inalámbrico fijo y análisis de alto rendimiento no pueden confiar
+completamente en la infraestructura pública 5G", agrega Fabre.
+Las comunicaciones de IoT siguen siendo el caso de uso más popular para 5G, con el 59% de las
+organizaciones encuestadas que esperan que las redes con capacidad para 5G se utilicen
+ampliamente para este propósito. El siguiente caso de uso más popular es el vídeo, que fue elegido
+por el 53%.
+Resumen de Prensa
+20/12/2018 18:12
+página 18/151
+"La cifra para comunicaciones IoT es sorprendente, dado que ya existen otras alternativas probadas y
+rentables, como Narrowband IoT sobre 4G y soluciones de área amplia de bajo consumo para
+conectividad inalámbrica de IoT", apunta el directivo. "Sin embargo, 5G está en una posición única
+para ofrecer una alta densidad de puntos finales conectados, hasta 1 millón de sensores por kilómetro
+cuadrado".
+“Además, 5G podría adaptarse a otras subcategorías de IoT que requieren una latencia muy baja. Con
+respecto al vídeo, los casos de uso serán variados. "Desde la analítica de video hasta la colaboración, la
+velocidad y la baja latencia de 5G serán adecuadas para soportar contenido de vídeo HD 4K y 8K".
+Gartner predice que, para 2022, la mitad de los CSP que hayan completado las implementaciones
+comerciales de 5G no podrán monetizar sus inversiones de infraestructura de tecnología de back-end,
+debido a que los sistemas no cumplen con los requisitos de casos de uso de 5G. "La mayoría de los
+CSP sólo lograrán una infraestructura completa de 5G de extremo a extremoen sus redes públicas
+durante el período de 2025 a 2030, ya que se enfocan primero en la radio 5G, luego en el core slicing y
+el edge computing", comenta el analista.
+Fabre menciona que esto se debe a que los planes de redes públicas 5G de los operadores varían
+significativamente en cuanto a tiempo y alcance.Se centrarán inicialmente en los servicios de banda
+ancha para el consumidor, que pueden retrasar las inversiones en computación perimetral y core
+slicing, que son mucho más relevantes y valiosos para los proyectos 5G.
+La consultora señala que, para satisfacer las demandas de las empresas, los proveedores deben
+centrarse en redes de este tipo que ofrezcan, no sólo radio 5G, sino también infraestructura y servicios
+de computación perimetral para redes privadas. Es posible que los CSP por sí solos no satisfagan
+completamente las demandas de corto medio plazo de las organizaciones que están dispuestas a
+implementar 5G rápidamente.
+"Las redes privadas para empresas serán la opción más directa para las compañías que quieran
+beneficiarse de las capacidades 5G desde el principio", dice Fabre. Estas redes pueden ser ofrecidas no
+solo por proveedores de servicios de red (CSP), sino también directamente por proveedores de
+infraestructura, y no solo por los grandes proveedores tradicionales de infraestructura, sino también
+por proveedores de nube y software ".
+Medio: Redes Telecom Fecha: 18/12/2018 (00:00:00)
+Términos: tecnología
+

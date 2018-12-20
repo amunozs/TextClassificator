@@ -1,0 +1,22 @@
+﻿
+StateOftheArt.AI: los últimos avances en inteligencia artificial.
+StateOftheArt.AI es una recopilación acerca de lo que técnicamente se conoce como Estado del arte*,
+«tecnología punta» o «últimos avances» en el campo de la inteligencia artificial. Está creado por la
+comunidad y ya contiene más de 2.000 referencias.
+Cada trabajo aparece con su título hiperenlazado (ya sea a arXiv u otros lugares) y clasificado por área
+de conocimiento (visión artificial, teoría de juegos, redes…) y tareas (aritmética, generación de
+programas, transformación de cadenas…) También están indicadas las fechas, los autores y los
+nombres de los algoritmos o conjuntos de datos que se emplean, e incluso se indica si se presentaron
+en alguna conferencia.
+El proyecto está en fase beta, pero parece completamente funcional. Como es una herramienta
+comunitaria las personas interesadas en todas estas áreas de la inteligencia artificial pueden subir sus
+aportaciones, rellenando un sencillo formulario. Registrarse es sencillo y cualquier aportación es
+buena para ir completando la base de datos.
+___ (*) La expresión «estado del arte» se deriva del inglés y diversas fuentes la consideran «calco
+inapropiado del inglés state-of-the-art». Aclarado esto no merece la pena entrar en más discusión.
+Cuando se trata de trabajos científicos, patentes y especialmente en el campo de la tecnología es
+habitual usar el término en inglés o el «calco» para dejar claro que se refiere a trabajos científicos o
+técnicos publicados respecto a un tema, especialmente en las patentes.} # Enlace Permanente
+Medio: Redes Telecom Fecha: 14/12/2018 (00:00:00)
+Términos: tecnología
+

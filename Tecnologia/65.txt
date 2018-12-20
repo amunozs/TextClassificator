@@ -1,0 +1,54 @@
+﻿
+El reconocimiento facial para labores policiales todavía no es la mejor
+opción.
+La tecnología está preparada para reconocer los rostros de las personas. Es un interesante método de
+seguridad. Los sensores biométricos han empezado a utilizarse en los dispositivos electrónicos como
+sistemas para autorizar pagos y desbloquear las pantallas. Pero pese a los avances alcanzados
+cometen fallos.
+Su todavía imperfección no ha sido un obstáculo para ensayar con la tecnología por parte de los
+equipos de policía. Como si se tratase de «Minority Report», el empleo de sistemas biométricos
+capaces de detectar en tiempo real la imagen de un sospechoso ha alumbrado a los investigadores
+nuevas formas para combatir el crimen, aunque todavía se encuentran en una fase embrionaria.
+La manera de funcionar de estos sistemas es cruzar una máscara virtual de los rostros de las personas
+capturadas con una base de datos ya establecida. Por medios de secuencias de Big Data, la tecnología
+puede lograr identificar a una persona. Para tener efecto en el trabajo diario de los agentes es
+necesario, sin embargo, que la información procedente de los archivos policiales ofrezca diversa
+perspectivas del sujeto sospechoso, por ejemplo, una persona con antecedentes.
+Un estudio de la universidad de Cardiff (Reino Unido) pone en cuestión las capacidades del
+reconocimiento facial como herramientas policiales. Los expertos creen que todavía necesitan de una
+importante revisión e inversión para lograr resultados precisos. Aún así, la policía de Gales ha utilizado
+la tecnología en diversos eventos multitudinarios desde la final de la Liga de Campeones en junio del
+pasado año.
+La precisión -argumenta el informe- ha venido mejorando con el tiempo pero sigue ofreciendo
+resultados inexactos cuando el análisis se produce bajo escasa iluminación o grandes concentraciones
+de personas. Según las pruebas, el sistema empleado por la policía de Gales identificó a una persona
+con un 76% de precisión. El problema detectado es que, según el informe, el sistema ofrecía datos
+imprecisos y demoras cuando varios rostros se encontraban en el rango del sensor. Los
+investigadores reconocieron que se identificó a más de 2.000 personas como posibles delincuentes.
+En su mayoría, falsos positivos.
+Los expertos creen, sin embargo, que pese a que los resultados obtenidos por la tecnología biométrica
+no es concluyente para fines policiales sí ofrecen capacidades como herramientas de asistencia.
+Martin Innes, del Instituto de Ciencia de la Policía de la Universidad de Cardiff, señala en declaraciones
+a «BBC» que la investigación tenía como objetivo proporcionar «una explicación equilibrada y basada
+Resumen de Prensa
+20/12/2018 18:12
+página 81/151
+en evidencia de los beneficios, costos y desafíos» de la integración del sistema en los cuerpos de
+seguridad. Otro estudio, en este caso de la American Civil Liberties Union (Unión americana de
+libertades civiles), desveló que el software de reconocimiento facial daba fallos en un 48% de
+ocasiones.
+En China también han probado las capacidades de esta tecnología. Una empresa de autobuses de la
+ciudad china de Shanghái instaló cámaras equipadas con reconocimiento facial y tecnología de análisis
+de imagen en sus autobuses para monitorizar a los conductores y evitar problemas como la fatiga.
+Esta iniciativa, que llevó a cabo por la compañía Shanghai Jiushi Bus Company, es una muestra más de
+cómo la inteligencia artificial está ganando cada vez más protagonismo en la vida de los chinos.
+La cámara era capaz de capturar cada movimiento y la expresión facial de los conductores de autobús,
+detecta si estos muestran algún síntoma de cansancio y sirve también para detectar conductas
+irregulares o ilegales, como por ejemplo hacer llamadas telefónicas o fumar. En China, de hecho, es
+cada vez más frecuente el uso de la tecnología de reconocimiento facial para el control y supervisión
+de sus habitantes y se emplea para controlar la asistencia de los alumnos a algunas universidades,
+para multar a los peatones infractores o, incluso, para distribuir el papel higiénico en algunos baños
+públicos.
+Medio: La Vanguardia - Tecnología Fecha: 01/12/2018 (06:00:00)
+Términos: tecnología
+

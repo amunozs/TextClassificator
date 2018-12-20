@@ -1,0 +1,43 @@
+﻿
+¿Será posible el despliegue comercial de servicios 5G en 2019?.
+Qualcomm y Nokia han completado con éxito llamadas de prueba de interoperabilidad 5G NR
+mmWave y Sub-6 GHz Over-The-Air (OTA), preparándose para los primeros despliegues comerciales
+de 5G a principios de 2019.
+Cumpliendo con la especificación global de la Release 15 3GPP 5G NR en modo NSA (Non-Standalone),
+los hitos de prueba de interoperabilidad se han llevado a cabo en el centro de excelencia 5G de Nokia
+en Oulu, Finlandia, utilizando estaciones base Nokia AirScale disponibles en el mercado y un
+dispositivo smartphone para pruebas equipado con el módem Qualcomm Snapdragon X50 5G y
+módulos de antena con transmisor de RF integrado, RF front-end y elementos de antena.
+Los logros de las pruebas entre las dos compañías dan continuidad a su compromiso con la
+interoperabilidad y las pruebas OTA para el despliegue de servicios 5G comerciales en 2019. Las
+llamadas OTA son un paso clave para que los clientes del ecosistema 5G puedan lanzar redes
+comerciales y dispositivos móviles a partir de inicios de 2019, en Estados Unidos, Corea, Europa,
+Australia, Japón y China.
+"Estas pruebas son un paso importante para hacer de 5G una realidad comercial a principios de 2019,
+y este hito con Nokia ayudará a habilitar las implementaciones de redes 5G en varios operadores y
+regiones de todo el mundo", dijo Durga Malladi, vicepresidente senior y gerente general de los
+negocios 4G / 5G en Qualcomm Technologies. "Continuaremos trabajando juntos para garantizar que
+los usuarios finales tengan acceso a las tecnologías necesarias para experimentar experiencias 5G
+transformadoras".
+"Estos tests clave con Qualcomm Technologies muestran la flexibilidad y las capacidades de nuestra
+tecnología de acceso por radio AirScale para cumplir la promesa de un 5G comercial", señaló Tommi
+Resumen de Prensa
+20/12/2018 18:12
+página 77/151
+Uitto, presidente de redes móviles de Nokia. "Continuamos colaborando con Qualcomm Technologies
+para garantizar que nuestros clientes puedan liberar el poder de sus redes comerciales 5G, para
+respaldar las muchas aplicaciones nuevas y diversas que satisfarán las demandas de las personas y las
+cosas conectadas, ya que comienzan a lanzar servicios comerciales desde el principio. 2019. ".
+Paralelamente, Nokia acaba de anunciar que ha recibido un préstamo de 250 millones de euros por
+parte de Nordic Investment Bank (NIB), para financiar actividades de investigación y desarrollo
+relacionadas con la tecnología 5G en Europa. El préstamo, que tiene un vencimiento de
+aproximadamente 5 años después del desembolso, apoyará el amplio programa de I+D del proveedor
+centrado en las actividades de la nueva generación de redes móviles en el viejo continente para el
+periodo 2018-2020. La inversión se concentrará especialmente en desarrollar nuevas ofertas de
+productos de extremo a extremo relacionadas con esta tecnología para diferentes áreas de negocios.El
+proyecto del fabricante también se enfoca en la implementación de la "Internet de las Cosas". En la
+práctica, esto significa una red de diferentes dispositivos, como electrodomésticos, vehículos y otros
+productos electrónicos, que pueden intercambiar datos de forma inalámbrica. .
+Medio: La Vanguardia - Tecnología Fecha: 02/12/2018 (06:00:00)
+Términos: tecnología
+

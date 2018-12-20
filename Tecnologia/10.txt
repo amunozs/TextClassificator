@@ -1,0 +1,44 @@
+﻿
+M2M, tecnología clave en el despliegue de terminales de recarga
+eléctrica en España.
+Uno de los retos que plantea el despliegue del coche eléctrico en España es el relacionado con la
+recarga. Con un parque de automóviles eléctricos que alcanzará las 115.000 unidades en circulación
+en 2020 según datos del Observatorio Sectorial DBK de Informa el porcentaje de puntos de recarga
+actual no está a la altura para cubrir esta demanda.
+Según datos de ACEA (Asociación de Constructores Europeos de Automóviles) en España hay
+actualmente cerca de 5.000 puntos de recarga, muy por debajo del despliegue de otros países
+europeos como Holanda (32.000), Alemania (25.000), Francia (16.000) o Reino Unido (14.000).
+Para reducir este desfase con el resto de países europeos, el gobierno español ha lanzado un
+Resumen de Prensa
+20/12/2018 18:12
+página 26/151
+ambicioso plan para que en los próximos 27 meses, 1.200 gasolineras ofrezcan recarga rápida de
+origen renovable. Igualmente, el Comisario Europeo de Energía y Medio Ambiente, Miguel Arias
+Cañete, ha señalado recientemente la necesidad de acelerar la instalación de puntos de recarga
+eléctrica para cumplir con los objetivos de reducción de emisiones de CO2. Según el Comisario, en
+2030 serían necesarios 220.000 puntos públicos de recarga en España para cumplir con la propuesta
+que propone la Comisión Europea.
+Según Frédéric Salles, CEO de Matooma, “en este proceso de transformación, que afecta tanto a
+organismos públicos como a empresas, la necesaria inversión económica debería ir acompañada de
+una tecnología M2M fiable que llegue a todo el territorio”.
+La fiabilidad de la comunicación entre los terminales de recarga, redes y plataformas es indispensable
+para garantizar el suministro eléctrico. De hecho, la recarga se realiza en dos etapas:
+-La autenticación con tarjeta o badge: el conductor realiza una solicitud de autenticación para acceder
+al terminal. Esta petición se envía a través de los servidores a una plataforma de gestión que le
+permite desbloquear el terminal. Sin una buena comunicación M2M, esta acción no se puede
+completar y dificulta el siguiente paso.
+- La recarga, que funciona por conexión entre el vehículo y el terminal.
+Frédéric Salles explica que “las tecnologías como las tarjetas SIM M2M que ofrece Matooma
+responden a esta necesidad y ofrecen un servicio óptimo. Las tarjetas SIM M2M permiten conectar los
+terminales de recarga en áreas donde la instalación de redes cableadas como ADSL y fibra es
+complicada y costosa debido a las obras civiles necesarias para su ejecución”.
+Las tarjetas SIM multioperador permiten el acceso a todas las redes 3G/4G, lo que optimiza el
+despliegue del terminal y garantiza la continuidad del servicio en caso de que se produzca un corte en
+la red del operador.
+El surgimiento de las ciudades inteligentes que integran tecnologías y responsabilidad ecológica es
+uno de los mayores desafíos de los próximos años. Se basará entre otros aspectos en el desarrollo de
+redes de movilidad eléctrica. Sin embargo, solo se pueden desarrollar con tecnología fiable y
+apropiada.
+Medio: Redes Telecom Fecha: 14/12/2018 (00:00:00)
+Términos: tecnología
+

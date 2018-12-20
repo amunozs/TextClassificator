@@ -1,0 +1,34 @@
+﻿
+Un motor iónico para hacer volar aeronaves sin partes móviles.
+Resumen de Prensa
+20/12/2018 18:12
+página 98/151
+En este vídeo de Nature y en el artículo al respecto (First flight of ion-drive aircraft se explica cómo
+unos científicos del MIT trabajan en una tecnología llamada motor iónico –reconocen que el nombre
+es muy trekkie– para hacer volar aeronaves sin partes móviles, a diferencia de los reactores o motores
+de hélice convencionales. Aunque los resultados todavía sólo se han podido probar a escala y en
+condiciones de laboratorio (más bien «de gimnasio», como se ve en las imágenes) dicen que es una de
+las tecnologías más prometedoras para el futuro.
+La idea es que en las alas de un biplano construido con materiales sumamente ligeras se instalan unos
+finísimos hilos conductores en la parte delantera y otros en la parte trasera. Haciendo pasar a través
+de ellos alto voltaje (del orden de +20.000 y -20.000 voltios, respectivamente) el aire se ioniza y los
+iones tienden a ir de la parte delantera (+) a la trasera (-). Esto arrastra hacia atrás las moléculas de
+aire del ala, proporcionando empuje. Si todo está bien calculado, el avioncito vuela y en todo ello no
+hay partes móviles. La idea no es precisamente nueva: proviene de 1920 más o menos, pero hasta
+ahora no había materiales ni electrónica apropiada para probarla.
+Esto que llaman propulsión de estado sólido tendría muchas ventajas de poderse hacer funcionar a
+mayor escala. Entre otras que no haya partes móviles supone mucho menos mantenimiento (y peso).
+Además los aviones serían mucho más silenciosos y no contaminarían nada de nada, serían como
+planeadores autopropulsados. Aunque como explican hay ciertos límites debido a la altitud y la
+densidad del aire creen que podría ser útil como sistema de propulsión para pequeños drones y quién
+sabe si también para aeronaves mayores capaces de transportar personas.
+Toda la historia de este avance tecnológico es preciosa, casi tanto como la Galería del Aire del Museo
+de la Ciencia de Londres en la que están rodadas muchas de las imágenes del vídeo. También hay
+escenas del gimnasio que tuvieron que alquilar para hacer las pruebas, en las que llegaron a alcanzar
+con un pequeño avión 60 metros recorridos en 10 segundos tras el despegue. Y también quedan
+registros de algunos de los fracasos: «fallos estructurales» (avión fostiado), fallos eléctricos («avión
+frito») y otras curiosidades. Muy en el espíritu de los hermanos Wright, aunque como dicen «sin tener
+que arriesgar vidas humanas en el empeño.» # Enlace Permanente
+Medio: Europa Press - PortalTic Fecha: 27/11/2018 (18:24:13)
+Términos: tecnología
+

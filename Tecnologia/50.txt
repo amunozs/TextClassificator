@@ -1,0 +1,85 @@
+﻿
+Inteligencia Artificial e Internet de las Cosas: diana de los
+ciberdelincuentes.
+Uno de los mayores retos a los que se enfrenta la empresa del siglo XXI es el cibercrimen. La falta de
+una estrategia clara de ciberseguridad en las empresas es uno de los mayores errores que cometen
+las compañías a la hora de definir los objetivos de la organización. Las políticas de ciberseguridad
+deben estar bien definidas y se debe tener un compromiso con su cumplimiento para que pueda tener
+un efecto real y positivo a lo ahora de enfrentarse a amenazas cibernéticas.
+La inversión en la defensa de los datos y la privacidad de una empresa es considerable, pero mucho
+mayor es el gasto que supone una brecha de seguridad. El coste medio de un ataque para una pyme
+asciende a 102.000€, siendo un 36% superior a los datos facilitados en 2017. Por otro lado, el
+incremento de ciberataques en grandes empresas fue el 24%, alcanzando un coste medio de 1.05
+millones de euros. En el último año el 67% de las pymes ha sufrido un ataque cibernético y, según
+Norton, el 33% de los españoles ha sido víctima de un ataque digital.
+En el marco de Cybersec Madrid Forum, organizado por Executive Forum en IE Business School, se
+reflexionó sobre los retos a los que se enfrenta la ciberseguridad y sobre cuáles serán las tendencias
+que marcarán 2019.
+La seguridad de los dispositivos móviles y conectados es uno de los modelos que necesita adaptarse
+urgentemente a los riesgos de seguridad. “La tendencia hacia la sensorización masiva es imparable”,
+afirma Enrique Ávila, director del CNEC. “No podemos seguir lanzando millones de dispositivos al
+mercado con bajos niveles de seguridad para mantener la ‘obsolescencia programada’ como modelo
+productivo. Los dispositivos relacionados con la sanidad, la movilidad conectada, la ciudad inteligente
+y el ciudadano conectado serán el principal objetivo de las organizaciones orientadas hacia el ‘Delito
+como Servicio’. La formación es uno de los pilares claves de la ciberseguridad, “ya no es una cuestión
+de concienciación sino de alfabetizarse tecnológicamente como sociedad”, asevera Ávila.
+La tecnología ha cambiado por completo el funcionamiento y las capacidades de los automóviles. La
+Resumen de Prensa
+20/12/2018 18:12
+página 65/151
+palabra disrupción es un concepto que va ligado de manera intrínseca a la cibernética. “El CaaS
+(Cybercryme as a Service) es ya una realidad”, afirma Adolfo Ranero, CEO en Deep Mirror Automotive
+Cybersecurity. “En España la Ciberseguridad es la tercera prioridad en Seguridad Nacional, y se quiere
+estar a la cabeza de la innovación. Es por ello por lo que España quiere ser el primer país europeo en
+homologar vehículos en Ciberseguridad. En un mundo digitalizado, sin ciberseguridad no se puede
+hacer nada y nada puede existir, crecer o desarrollarse. Vivimos en un nuevo paradigma, en una
+cibercracia, llamado a revolucionar el sector de la automoción”.
+Las nuevas tecnologías son las principales tendencias a la hora de innovar y también los objetivos más
+probables para sufrir un ataque cibernético. “Las nuevas tecnologías como la Inteligencia Artificial y el
+Internet de las Cosas servirán de impulso para realizar brechas de ciberseguridad en un futuro
+próximo”, explica Fernando Sendra, technical service deputy director en Huawei. “Hay que trabajar en
+sistemas de protección perimetrales clásicos, en Sistemas Inteligentes de Seguridad Cibernética (CIS)
+para poder defender las redes de los ataques APT (advanced presistent threat)”. Sendra destaca que
+para poder enfrentarse a este tipo de ataques los mejores aliados son las herramientas de Big Data y
+Machine Learning para establecer modelos predictivos.
+La llegada de la Inteligencia Artificial permitirá establecer modelos predictivos fiables que serán claves
+en materia de ciberseguridad. “Los algoritmos de Machine learning serán fundamentales para detectar
+patrones de comportamiento potencialmente maliciosos”, comenta Stella Luna, CEO en Pentaquark
+Consulting. “Habrá un mix interesante entre Data Scientists y analistas de ciberseguridad para crear un
+nuevo paradigma de funcionamiento en el sector. Por otro lado, estamos ante el despegue definitivo
+de medidas de seguridad por marcadores biométricos individualizados como la lectura de retina, las
+huellas digitales y similares”.
+Uno de los aspectos que más preocupa, por su sensación de desprotección, es el Cloud, ya que los
+datos pasan a dejar de ser propiedad del usuario. Sin embargo, estos servidores donde se almacenan
+son más seguros que las protecciones que tiene el usuario medio. “La tendencia en ciberseguridad
+dentro del mundo Cloud va a ser continuar con la automatización de los controles de seguridad para
+evitar errores humanos”, destaca Alberto Brezmes, account manager de servicios de ciberseguridad en
+BBVA Next Technologies-Beeva. “Hay que seguir implementando mecanismos de I.A. para trabajar en
+la predicción y detección de incidentes”. Brezmes recalca la importancia de seguir trabajando en la
+especialización de los profesionales en un paradigma donde las compañías se dirigen hacia modelos
+híbridos o Cloud.
+Los ciberataques ya no distinguen cuál es su objetivo basándose en el sector, facturación o el tamaño
+de las empresas. “La variedad de las tecnologías y su avance pueden hacernos pensar que la
+tendencia en Ciberseguridad es que no hay una tendencia fija”, afirma Fernando Saavedra,
+cybersecurity manager en Áudea. “Lo que sí es tendencia es el crecimiento exponencial de los ataques.
+Los delincuentes van buscando el daño de manera indiscriminada, por lo que podemos asegurar que
+nadie está a salvo de un ciberataque.” En este contexto, Saavedra destaca la importancia de, no sólo
+implantar las medidas de seguridad necesarias, sino realizar pruebas de intrusión de manera
+periódica, simulacros y concienciar a los empleados en materia de ciberseguridad.
+7.- DevSecOps y la figura del CISO.
+Entre los expertos en ciberseguridad hay un mantra que se repite con asiduidad: sólo hay dos tipos de
+empresas, las que ya han sido atacadas por hackers y son conscientes de ello, y las que han sido
+atacadas, pero aún no lo saben. “En 2019 la mayor parte de las compañías incrementarán el número
+de análisis de sus aplicaciones, tanto propias como de OpenSource”, explica Hugo Álvarez, Regional
+Sales Manager Iberia de Checkmarx. “La mayoría de las empresas optarán por la automatización de
+procesos integrando estos análisis dentro del ciclo de desarrollo SDLC, de manera que puedan seguir
+trabajando en un entorno de DevSecOps, que les permita lanzar nuevas versiones de dichas
+Resumen de Prensa
+20/12/2018 18:12
+página 66/151
+aplicaciones siguiendo el ritmo impuesto por las áreas de negocio”. Por otro lado, Álvarez destaca que
+la figura del CISO cada vez “está ganando más peso” y que se situará como una pieza clave del Comité
+de Dirección.
+Medio: Redes Telecom Fecha: 05/12/2018 (00:00:00)
+Términos: tecnología
+

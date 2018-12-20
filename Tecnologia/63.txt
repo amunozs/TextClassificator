@@ -1,0 +1,50 @@
+﻿
+Los drones garantizarán el suministro de energía.
+Las compañías que prestan servicios públicos en diversos países europeos como Francia e Italia están
+empezando a utilizar drones de larga distancia para inspeccionar kilómetros de redes eléctricas y
+tuberías de gas en un intento de evitar averías cuya reparación les cuestan miles de millones de euros
+al año. Los prototipos empleados son los llamados BVLOS, que se caracterizan por viajar “más allá de
+la línea visual” y que deberían sustituir a los helicópteros equipados con cámaras que hasta ahora se
+han encargado de esta tarea o, al menos, tendrían que colaborar con ellos.
+Así, la empresa italiana Snam, una referencia en las infraestructuras del gas, y la francesa RTE, filial de
+la eléctrica EDF centrada en la energía y el transporte, se están valiendo de los BVLOS. Concretamente,
+la primera lo hace en las colinas de los Apeninos, cerca de Génova (Italia); la segunda, sobre un tramo
+de 50 kilómetros, una prueba que, entre otros factores, ha propiciado un plan de inversión de casi
+cinco millones de euros en drones para los dos próximos curos. De este modo, será posible ir más allá
+de las aeronaves básicas que nunca se alejan más de 500 metros, el espacio que alcanzan
+visualmente los técnicos.
+Los prototipos empleados son los llamados BVLOS, que se caracterizan por viajar “más allá de la línea
+visual” de los técnicos.
+Los analistas destacan que esta tecnología es necesaria para controlar las conexiones que unirán
+parques solares y eólicos con las redes eléctricas. La española Iberdrola trabaja con Arbórea Intellbird
+para perfeccionar la inspección de sus líneas. Además de usar en Salamanca el dron Aracnocóptero,
+que ha revolucionado la supervisión de los aerogeneradores, se apoya en un programa informático
+que añade a esta ecuación la inteligencia artificial para detectar problemas estructurales como la
+corrosión, los puntos calientes...
+Un socio de la consultora PwC, Michal Mazur, dice que las labores con los drones “son 100 veces más
+rápidas que la medición manual”. Igualmente, las aeronaves sin tripular “son más precisas que los
+helicópteros” y, si integran sistemas de inteligencia artificial, añade este experto, “pronto podrán
+Resumen de Prensa
+20/12/2018 18:12
+página 78/151
+solucionar muchos conflictos”. Sin embargo, estas máquinas son muy caras. En caso de que se quiera
+cubrir la enorme superficie por la que discurren redes y tuberías, habrá que comprar decenas, quizá
+cientos, de estos aparatos. O sea, hará falta disponer de muchísimo dinero.
+Un socio de la consultora PwC, Michal Mazur, dice que las labores con los drones “son 100 veces más
+rápidas que la medición manual”.
+Está previsto que las eléctricas gasten cada ejercicio más de 10.000 millones en drones y robótica
+hasta 2026. El salto es considerable si se compara esta cifra con los 2.000 millones que, según
+Navigant Research, están invirtiendo actualmente. No obstante, este pronóstico queda eclipsado por
+la cantidad de dinero que pierde el sector por culpa de múltiples deficiencias en elementos críticos:
+unos 150.000 millones, de acuerdo con los cálculos de PwC.
+Los modelos que se están probando pueden evitar obstáculos y cuentan con sensores térmicos e
+infrarrojos. Sea como fuere, por muy avanzados que sean, deben cumplir con la regulación, y eso es lo
+que está retrasando la extensión de los BVLOS. Consiguieron permisos especiales en 2017, pero la
+Comisión Europea aún debe tratar con mayor profundidad este extremo. La situación en Estados
+Unidos es un poco más ventajosa: la firma Xcel Energy ya tiene la aprobación requerida para los
+vuelos de los drones BVLOS.
+Se prevé que las compañías eléctricas gasten cada ejercicio más de 10.000 millones en drones y
+robótica hasta el 2026.
+Medio: La Vanguardia - Tecnología Fecha: 02/12/2018 (06:00:00)
+Términos: tecnología
+

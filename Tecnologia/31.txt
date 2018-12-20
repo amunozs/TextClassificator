@@ -1,0 +1,56 @@
+﻿
+Resumen de Prensa
+20/12/2018 18:12
+página 48/151
+Cisco reorienta su negocio hacia el pago por uso.
+A pesar de la dura competencia que hay en el mundo de las redes, el negocio de Cisco en España
+avanza “en línea” con lo que lo hace el de la compañía en todo el mundo. Hay que recordar que en el
+último año fiscal el gigante de San Francisco creció a escala global un 6% en ingresos, mientras que en
+el primer trimestre de este ejercicio, que fue de agosto a octubre, la facturación avanzó un 8%. Lo ha
+comentado Carlos Galdón, director de partners en España, en un encuentro con los medios en el que
+también habló de cómo se van a trasladar a escala local los anuncios del último Partner Summit
+celebrado por la compañía en Las Vegas. .
+En líneas generales, y para adaptarse a los tiempos que corren, Ciscoquiere cada vez depender más de
+los ingresos recurrentes que aportan los sistemas de pago por uso. Al mismo tiempo, quiere también
+depender más del software para la gestión de los datos o la ciberseguridad y menos del hardware que
+le ha hecho famoso, el de las redes. Y quiere que sus socios comerciales le acompañen en esta
+transición.
+Galdón explicó que las líneas fundamentales de sus programas de canal van a permanecer, pero avisó
+de que en los próximos meses va a haber algunos cambios. Así, las cinco especializaciones
+tecnológicas existentes (networking, colaboración, seguridad, data center y service providers) tendrán
+un nivel añadido, el de Master. De esta forma, la compañía tiene intención de ir familiarizando a los
+partners con tecnologías como Kubernetes, para la gestión de aplicaciones en la nube, o blockchain.
+Además, Cisco va a sacar una especialización comercial a la que denomina Customer Sucess, que
+estará disponible a partir de julio del año que viene y que estará diseñada para dar soporte a los
+clientes durante todo el ciclo de vida de la tecnología. Cualquier partner especializado en cualquiera de
+las cinco áreas tecnológicas que contempla el fabricante podrá optar a esta acreditación. Además, los
+actuales partners integrantes del programa Lifecycle Advisor, que en España son sólo cuatro, podrán
+pasar fácilmente a la nueva certificación Customer Success. Galdón también avanzó que el programa
+Lifecycle Advisor va a tener más personal dentro de Cisco para ayudar a los partners a hacer más
+venta cruzada.
+Pero no son los únicos cambios que introducirá Cisco en su esquema comercial. Para transitar a un
+modelo de negocio basado en ingresos recurrentes, los partners inscritos en el programa Service
+Partners serán recompensados mensualmente en función de su crecimiento y las renovaciones, y no
+de forma anual, como hasta la fecha. Esto será también realidad a partir del próximo verano. En esta
+misma línea, los miembros del programa de incentivos VIP (Value Incentive Program) tendrán más
+rebates, que además se darán cada mes. Hasta ahora este pago era trimestral o semestral.
+Carlos Galdón anunció también que la compañía va a potenciar la venta de DNA Center, solución de
+gestión de redes por software, con mayores rebates. Además, recordó que en Las Vegas hasta tres
+partners españoles han conseguido reconocimientos a nivel europeo: Aryse, Axians España y Tech
+Data. Y, por último, explicó que en el Partner Summit también hubo tiempo para las novedades de
+producto. En este sentido, en la capital de los casinos los partners pudieron ver en noviembre los
+nuevos switches Catalyst 9200 y 9800, que extienden las redes basadas en la intención, que se
+adaptan de forma automática a las nuevas necesidades de los clientes, a las pymes.
+Carlos Galdón reconoció que la irrupción en el mercado y en el canal español de redes empresariales
+del fabricante chino Huawei hace unos años marcó un punto de inflexión, pero aseguró también que
+el top-ten de sus partners importantes no se ha ido con la competencia. “En cambio, los service
+providers sí lo han hecho”, admitió el directivo. Galdón explicó que los partners y los clientes valoran el
+gran conocimiento técnico de Cisco en España, donde “raramente hay que escalar un tema a
+internacional porque no se pueda abordar a nivel del soporte local”. “Es un valor frente a la
+Resumen de Prensa
+20/12/2018 18:12
+página 49/151
+competencia”, zanjó. .
+Medio: Redes Telecom Fecha: 11/12/2018 (00:00:00)
+Términos: tecnología
+

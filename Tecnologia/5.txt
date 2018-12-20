@@ -1,0 +1,23 @@
+﻿
+Perspective, la tecnología de Google para detectar comentarios tóxicos
+en los medios.
+EFE Esta nueva tecnología permite moderar las conversaciones en internet.La nueva herramienta de
+Google está siendo utilizada por periódicos como The New York Times, a pesar de tener algunos
+errores.Alphabet, matriz de Google, ha desarrollado una nueva herramienta que utiliza inteligencia
+artificial para contribuir a moderar las conversaciones en internet. Según explicaron hoy a EFE sus
+responsables, esta tecnología, conocida como Perspective, puede identificar y marcar los comentarios
+que puedan ser percibididos como "tóxicos".Hasta ahora, Perspective estaba siendo utilizada
+únicamente en su versión inglesa por algunos medios como The New York Times, con el objetivo de
+ayudar a los trabajadores que moderan su sección de comentarios. Sin embargo, el gigante de la
+búsqueda en Internet ha aumentado su apuesta por esta tecnología y ha lanzado su versión en lengua
+castellana, que está disponible desde este mismo lunes.Por otro lado,los desarrolladores han
+encontrado algunos errores en esta nueva herramienta, como los falsos positivos, que son
+comentarios detectados como tóxicos cuando, en realidad, no lo son. Otro fallo de Perspective es el
+"sesgo involuntario", que consiste en marcar por error como tóxicos comentarios positivos o neutros,
+referentes a grupos que normalmente son discriminados.
+Medio: 20 Minutos - Tecnología Fecha: 17/12/2018 (10:18:08)
+Resumen de Prensa
+20/12/2018 18:12
+página 20/151
+Términos: tecnología
+

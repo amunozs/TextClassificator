@@ -1,0 +1,56 @@
+﻿
+A 24 horas de la llegada de la sonda InSight a Marte.
+A las 20:40, hora peninsular española, del lunes 26 de noviembre de 2018 la sonda InSight se separará
+del módulo de transporte que le ha servido de guía en los 205 días que les ha llevado llegar hasta
+Marte.
+Tendrá siete minutos para colocarse en el ángulo preciso, de 12 grados, para poder entrar en la
+atmósfera marciana. Si el ángulo es mayor, se quemará en ella. Si el ángulo es menor, saldrá rebotada
+hacia el espacio. Porque a las 20:47, a unos 125 kilómetros de altura sobre la superficie de Marte, se
+producirá su entrada en la atmósfera a unos 19.800 kilómetros por hora.
+InSight durante la entrada en la atmósfera de Marte – NASA/JPL-Caltech En los siguientes 6 minutos y
+29 segundos un montón de sensores y dispositivos, así como varios miles de líneas de código tienen
+que funcionar a la perfección para que 16 segundos antes de tomar contacto con el suelo InSight esté
+a unos 50 metros de altura y desplazándose a tan sólo 8,64 kilómetros por hora.
+Y si todo ha ido bien a las 20:53 los sensores de sus patas detectarán el contacto con el suelo y
+pararán los motores.
+A InSight le acompañan dos CubeSat, los gemelos MarCO-A y MarCO-B, que tienen como misión
+principal recibir la telemetría de la sonda durante el aterrizaje y retransmitirla inmediatamente a
+Tierra.
+Pero ojo, debido a la distancia a la que está Marte de nosotros las señales de radio tardan 8,1 minutos
+en llegar a la Tierra desde allí, a lo que hay que añadirle unos segundos de procesado de la señal a
+bordo de los MarCO.
+Modelo a esala real de uno de los MarCO – NASA/JPL-Caltech Así que para cuando en la Tierra estemos
+recibiendo las primeras señales a través de los MarCO acerca de la entrada de InSight en la atmósfera
+en realidad todo habrá terminado ya para bien o para mal.
+Otra opción es escuchar la portadora –la señal base de InSight– mediante antenas terrestres como las
+del Observatorio Green Bank en Virginia Occidental y la del Instituto Max Planck para Radio
+Astronomía en Effelsberg, en Alemania. La potencia con la que llegue será muy pequeña como para
+Resumen de Prensa
+20/12/2018 18:12
+página 118/151
+poder extraer información de ella, pero si pasada la hora de aterrizaje prevista se sigue recibiendo la
+portadora eso es señal de que InSight está de una pieza sobre la superficie de Marte.
+Además de los CubeSat la NASA tiene programada otra opción: la Mars Reconnaissance Orbiter estará
+escuchando y grabando la señal de InSight. Pero no puede retransmitirla a la Tierra al mismo tiempo.
+Así que habría que esperar unas horas a que la MRO, que además intentará fotografiar a InSight
+durante su descenso, pueda transmitir la información que ha grabado a la Tierra.
+Los siete minutos de terror de InSight se podrán seguir en NASA TV a partir de las 20:00. Además la
+misión está en Twitter como @NASAInSight.
+Pero aún queda un paso crítico para el éxito de la misión: a las 21:09, una vez que ha pasado el
+tiempo suficiente como para que el polvo levantado en el aterrizaje se haya aclarado, comenzará el
+despliegue de los paneles solares de la sonda, despliegue que debe estar terminado a las 21:25.
+Aunque si falla InSight morirá en cuanto se agoten sus baterías internas. Y no lo sabremos hasta eso
+de las 2 de la mañana del 27 cuando la Mars Odyssey salga de detrás del horizonte marciano y pueda
+ponerse en contacto con InSight para ver si se han desplegado correctamente los paneles o no.
+Hasta la fecha aproximadamente un 60% de las misiones enviadas a Marte han fallado, aunque es
+muy cierto que en los últimos años, según hemos ido aprendiendo de fallos anteriores y la tecnología
+ha ido mejorando el porcentaje de éxitos está creciendo.
+Lugar donde va a aterrizar InSight – NASA/JPL-Caltech InSight sobre Marte con sus instrumentos
+desplegados – NASA/JPL-Caltech Así que esperemos que InSight contribuya a que crezca el número de
+misiones que llegar con éxito a Marte y que pueda estudiar la geología del planeta y tomarle la
+temperatura desde su lugar de aterrizaje en Elysium Planitia.
+(Algunos datos vía The Planetary Society).
+# Enlace Permanente
+Medio: La Vanguardia - Tecnología Fecha: 25/11/2018 (06:00:00)
+Términos: tecnología
+
