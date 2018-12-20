@@ -1,39 +1,52 @@
 ﻿
-Alcatel-Lucent Enterprise apoya tecnológicamente al grupo ciclista de
-Dimension Data.
-Alcatel-Lucent Enterprise (ALE) ha anunciado que ha firmado un acuerdo en virtud del cual dará su
-apoyo al equipo profesional de ciclismo de Dimension Data para Qhubeka. Junto con el socio titular
-Dimension Data, el proveedor mundial de integración de sistemas y servicios gestionados, ALE
-proporcionará una mayor accesibilidad a análisis críticos y soporte de Internet de los objetos (IoT) para
-uno de los equipos de ciclismo profesional líderes en el mundo. El acuerdo se extiende a todo el
-mundo para respaldar el calendario completo de carreras en las temporadas 2019 y 2020.
-El acuerdo se servirá de la transformación digital y de las tecnologías emergentes para – en un mundo
-altamente tecnificado y en rápida evolución- propiciar un beneficio en un equipo de ciclismo. Las redes
-de Alcatel-Lucent Enterprise y las tecnologías en la nube se implementarán en todo el ecosistema del
-equipo para respaldar la toma de decisiones basada en datos con el fin de maximizar el rendimiento
-general del equipo y las interacciones de los seguidores. Los resultados se compartirán y separarán
+Probamos los auriculares TicPods, una alternativa a los AirPods para
+Android e iOS.
+Son muchos los usuarios de teléfonos Android a los que les gustaría poder usar unos auriculares
+como los AirPods. Pero estos no cuentan con muchas de las funciones que ofrecen para los
+dispositivos de Apple, por lo que en principio son una compra complicada para los que no usen
+iPhone.
+Por eso nos ha parecido interesante probar los TicPods Free, que han sido lanzados recientemente y
+que en dispositivos iOS y Android, o en sistemas operativos de escritorio, cuentan con funciones
+prácticamente idénticas a lo que ofrecen los AirPods al usarlos con un iPhone. A eso hay que añadir un
+precio algo más económico. Aunque, como veremos, no todo son ventajas respecto al producto de
+Apple.
+Lo primero que nos ha gustado de estos auriculares es que al igual que los de Apple vienen con una
+caja que además de protegerlos los carga. La autonomía es excelente, sus fabricantes dicen que esta
+alcanza las 18 horas. No hemos podido comprobar con exactitud si la cifra es exagerada, pero desde
+luego aguantan mucho tiempo sin recargarlos. La carga por cierto, es bastante rápida cuando los
+colocamos en la caja. Y esta cuenta con una puerto micro USB que permite cargar la batería
+incorporada.
+El diseño es bastante bueno y se adapta con gran facilidad a la cavidad auditiva de cada persona. Se
+sienten cómodos una vez puestos, incluso para los que no les gusta usar auriculares intrauditivos.
+Tampoco es nada sencillo que se caigan, incluso realizando un movimiento brusco. Por lo que se
+puede incluso practicar deporte sin problemas con ellos puestos.
+La principal diferencia con el producto de Apple es la calidad de sonido, algo inferior en los TicPods.
+Aunque la que seguramente es su principal virtud es que son compatibles tanto con el asistente de
+Siri como con el de Google. Hay que tocar la superficie táctil de los auriculares para invocar al
+asistente de voz que usemos. En cualquier caso la superficie táctil de los auriculares permite controlar
+el volumen, pasar de canción y responder o colgar una llamada telefónica sin necesidad de tocar el
+teléfono.
+Este producto también suprime el ruido ambiental, aunque no de forma extrema. Pero al menos se
 Resumen de Prensa
 20/12/2018 18:32
-página 47/105
-dentro de Team Dimension Data gracias a aplicaciones de comunicaciones personalizadas a través de
-Alcatel-Lucent Enterprise Rainbow, una plataforma de colaboración de comunicaciones híbrida segura
-en la nube.
-"Estamos encantados de que ALE nos acompañe en el que es un momento realmente emocionante
-para nuestro equipo", dijo el director del equipo, Doug Ryder. "Como equipo, hablamos de un
-propósito superior para cambiar vidas a través de la bicicleta y para entender cómo conectamos a las
-personas y cómo ser mejores juntos". Ahora, con ALE, podemos conectar no solo a las personas, sino
-también las herramientas y tecnologías de nuestros socios con el fin de ayudarnos en nuestro viaje
-para tomar decisiones más informadas, mejores y más rápidas. ALE se enorgullece de hacer que todo
-se conecte y esperamos conectarnos con ellos cuando entren en el emocionante mundo de un equipo
-de ciclismo".
-"El deporte del ciclismo se puede medir en milisegundos, por lo que es vital contar con unat ecnología
-de red avanzada que capture los datos en tiempo real y en un espacio de trabajo dinámico", señaló
-Rukmini Glanard, vicepresidente senior de ventas de ALE. "La visión de ALE es ofrecer la experiencia
-tecnológica personalizada que los clientes necesitan para que todo se conecte. Creemos que nuestra
-tecnología ayudará al Team Dimension Data para Qhubeka a maximizar su rendimiento mediante
-información basada en datos. Junto a Dimension Data, también aspiramos a crear oportunidades para
-que la base de seguidores ávidos de datos se conecte más íntimamente con el equipo y aumente la
-conciencia de una de las causas benéficas más impactantes del mundo, Qhubeka".
-Medio: Redes Telecom Fecha: 13/11/2018 (00:00:00)
+página 86/105
+produce una reducción que permite concentrarse mejor en la música. Lo que ya no nos convence
+tanto respecto a su principal competidor es precisamente la calidad del sonido. No es que esta sea
+mala, pero no está a la altura de la de AirPods.
+En cualquier caso, no olvidemos que estamos ante unos auriculares Bluetooth, con la consiguiente
+pérdida de calidad sonora que conlleva esta tecnología por su escasa transmisión de datos. En el
+modo de manos libres las conversaciones, eso sí, se escuchan perfectamente y nuestra voz se
+transmite con claridad.
+Por otra parte hemos observado al probarlos con un iPhone X algún problema de conectividad
+Bluetooth, algo que no ha sucedido al probarlos con un teléfono Android. No sabríamos decir si se
+debe a la unidad de prueba que se nos ha proporcionado o al propio producto. En cualquier caso, no
+es de recibo algo así. Finalmente decir que se ofrecen en color blanco, rojo y azul.
+En nuestra opinión esta es una buena opción para los que buscan unos auriculares inalámbricos de
+última generación y no son unos audiofilos excesivamente exigentes. Sobre todo son recomendables
+para los usuarios de dispositivos Android. Al fin y al cabo la diferencia de precio con los AirPods siendo
+importante no es excesiva, por lo que seguramente los propietarios de un iPhone preferirán la opción
+de la casa.
+Son ideales sobre todo para usarios de dispositivos Android.
+Medio: Europa Press - Innovación C. Valenciana Fecha: 31/10/2018 (17:13:11)
 Términos: tecnología
 

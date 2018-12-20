@@ -1,40 +1,13 @@
 ﻿
-Así mejora nuestra forma de escribir gracias a la inteligencia artificial.
-Escribir a través de pantallas, a veces, es sinónimo de frenesís, de hacerlo rápido e, incluso, de forma
-despreocupada, cometiendo faltas de ortografía, ya sea un mensaje de WhatsApp a un amigo o un
-correo electrónico a tu jefa. Pero existen herramientas para evitarlo, aunque no sean infalibles. La
-inteligencia artificial sus algoritmos mejoran a un ritmo vertiginoso y, poco a poco, nos van salvando
-de errores garrafales y patadas al diccionario.
-Un ejemplo de ello es Grammarly que, desde el 2008, ha conseguido llegar a los 7 millones de usuarios
-activos y, a menudo, se encuentra en el top de correctores gramaticales. Según Forbes, se puede
-descargar en forma de aplicación para el dispositivo móvil y también como extensión de Chrome o
-Safari, de modo que el algoritmo puede revisar la gramática en programas como Microsoft Word, en
-las redes sociales o en el correo electrónico. Además, Grammarly es gratuito, pero también existe la
-versión ‘premium’.
-Grammarly se puede descargar en forma de aplicación y también como extensión de Chrome o Safari
-y puede revisar la gramática en programas como Microsoft Word, en las redes sociales.
 Resumen de Prensa
 20/12/2018 18:32
-página 50/105
-Pero, ¿cómo funciona este programa? Pues es nada más y nada menos que un algoritmo que, a partir
-de una gran cantidad de datos de entrenamiento y de ejemplos, ha aprendido a usar correctamente la
-gramática. Una información, recopilada por investigadores para que la inteligencia artificial la pudiese
-entender, que mostraba el uso correcto no solo de los signos de puntuación, sino también la
-gramática y la ortografía. Además, el sistema de Grammarly utiliza el procesamiento de lenguaje
-natural para analizar cada matiz del lenguaje desde cada carácter, hasta párrafos enteros.
-Además, el ‘feedback’ que recibe el sistema a través de los usuarios cuando éstos ignoran una
-sugerencia propuesta le ayuda a ser más inteligente y proporciona a los lingüistas humanos que
-trabajan con toda esta información datos para mejorar el sistema. Cuanto más texto esté expuesto,
-mejor podrá hacer las sugerencias apropiadas.
-Es posible que Grammarly haya introducido una extensión para trabajar con Google Docs, pero
-Google quiere tener su propio producto de sugerencias gramaticales. La empresa que está detrás del
-buscador más famoso del mundo está utilizando la traducción automática, la misma tecnología que
-utilizan para traducir de un idioma a otro, para potenciar su herramienta de edición. En lugar de un
-lenguaje a otro, transforma un texto mal escrito en un texto gramaticalmente correcto. Si el sistema
-identifica un problema de gramática, lo resaltará de manera que el usuario tendrá la oportunidad de
-revisar los posibles errores de gramática antes de presionar “enviar” o “publicar”.
-Google usa la misma tecnología que utilizan para traducir de un idioma a otro, para potenciar su
-herramienta de edición.
-Medio: La Información - Microsiervos Fecha: 12/11/2018 (17:30:00)
+página 89/105
+Apple revela la última versión del iPad Pro.
+La empresa Apple ha lanzado su último modelo del iPad Pro, que estará disponible en las tiendas de
+España a partir del 7 de noviembre. Con un diseño totalmente nuevo, incluye una pantalla Liquid
+Retina con tecnología ProMotion , chip A12X Bionic e identificador de rostro.
+Además, el nuevo iPad Pro estará disponible en dos modelos de 11 y 12,9 pulgadas. Asimismo, el
+producto promete un nuevo Apple Pencil y el Smart Keyboard Folio.
+Medio: La Vanguardia - Tecnología Fecha: 30/10/2018 (17:17:04)
 Términos: tecnología
 

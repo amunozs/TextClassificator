@@ -1,58 +1,79 @@
 ﻿
-Siemens y Aruba desarrollarán redes integradas.
-Siemens y Aruba, una compañía de Hewlett Packard Enterprise, han anunciado la firma de un acuerdo
-estratégico centrado en integrar la tecnología operacional (OT) con la tecnología de la información (IT).
-Mediante líneas de producto complementarias, ambas compañías podrán dar respuesta a las
-necesidades de clientes que cuentan con redes de datos seguras de alta criticidad, garantizando la
-disponibilidad de la planta y la red.
-Los clientes se beneficiarán de redes integradas que podrán funcionar tanto en fábricas como en
-entornos de oficina gracias a la experiencia de Siemens como proveedor de componentes de red
-Ethernet industrial, y a la experiencia de Aruba en el ámbito de las infraestructuras de redes
-inalámbricas y cableadas. .
-La digitalización, la revolución industrial 4.0 y el fenómeno IoT están generando nuevos retos, ya que
-ahora los datos deben atravesar cada vez más las fronteras que separan la tecnología operacional de
-las tecnologías de la información. Habitualmente, las redes deterministas e industriales de OT no
-están totalmente acopladas con las redes empresariales de IT. Esto hace que surjan lagunas en la
-visibilidad de los datos y los dispositivos, y en la seguridad y disponibilidad de las aplicaciones. Para
-eliminar esas lagunas es necesaria una amplia experiencia en ambos mundos, así como un profundo
-conocimiento de los respectivos requerimientos operativos y de seguridad. En el mundo IT la
-ciberseguridad y la fiabilidad de los datos son las principales prioridades, mientras que en el mundo
-OT la disponibilidad de la planta y los objetivos de fabricación son los aspectos más importantes. .
-Siemens y Aruba eliminan esta separación gracias a su amplia experiencia y complementariedad en OT
-e IT. Al proporcionar redes integradas con una interoperabilidad probada y diseños de referencias
+Como lograr que tus fotos para Instagram queden espectaculares.
+Si te has aficionado a Instagram y quieres crear un perfil de calidad, no vale cualquier cosa. Antes de
+comenzar a publicar fotos sin un criterio determinado, recuerda que una imagen vale más que mil
+palabras. Y que Instagram es, básicamente, imagen. La buena noticia es que no hace falta que
+inviertas demasiado dinero en una cámara ni tampoco que hagas un cursillo acelerado de fotografía.
+Con estas pautas que te damos a continuación, puedes conseguir fotos de calidad y que el mundo se
+detenga a admirar tu atractivo y hasta inspirador feed.
+Las cámaras que incorporan los smartphones de última generación están sobradamente preparadas
+para hacer fotos de calidad. Si a esto le añadimos lo práctico que es poder retocar la foto al momento
+desde el mismo smartphone, y compartirla automáticamente en las redes, ya no hay duda: si no te vas
+a dedicar profesionalmente al mundo de la foto o no pretendes ser una influencer de las (muy)
+grandes, no vale la pena que inviertas dinero en una cámara.
+Puede parecer obvio, pero no siempre aplicamos el sentido conún a la hora de hacer una foto. Según
+Aitor Carbajo, experto en tecnología del portal nobbot “primero hay que asegurarse de trabajar
+siempre con la máxima resolución que ofrece el sensor de la cámara del teléfono y no tener miedo de
+cambiar los diversos valores que te ofrezca tu smartphone para mejorar las fotos”.
+A partir de ahí, es tan sencillo como pensar cuál es la foto que nos gustaría ver a nosotros: una
+persona que no salga con los pies cortados, un rostro bien iluminado y no con sombras, un encuadre
+original y no solo vertical u horizontal, un retrato sin gente paseando por detrás… El truco está en
+probar, en jugar, en no ponerle demasiados límites a nuestra creatividad, asegurarnos de que la
+imagen está bien enfocada y darle al botón. Los móviles de hoy en día incorporan, además, la opción
+“retrato”, que desenfoca el fondo de la foto dotándola de un aspecto sorprendentemente profesional.
+El truco está en probar, en jugar, en no ponerle demasiados límites a nuestra creatividad.
 Resumen de Prensa
 20/12/2018 18:32
-página 56/105
-validados, ambas compañías contribuyen a que los sistemas integrados OT/IT pueden instalarse
-rápida y fácilmente y operar de forma más segura y eficiente.
-Klaus Helmrich, miembro del Comité Directivo de Siemens AG, afirma que “la colaboración entre
-Siemens y Aruba es un paso importante para complementar nuestra oferta de redes industriales - uno
-de los pilares de la Empresa Digital -, con la línea adicional de soluciones de IT de Aruba. Los clientes
-podrán beneficiarse de redes integradas con garantías de futuro que aseguran disponibilidad y
-seguridad”.
-Por su parte, Keerti Melkote, presidente y cofundador de Aruba, una compañía de Hewlett Packard
-Enterprise, explica que “después de trabajar juntas casi tres años, Siemens y Aruba han solucionado la
-separación existente entre OT y IT a través de una integración de tecnológicas, respaldada por diseños
-de referencia validados. Las soluciones que resultan de esta colaboración son perfectas para una
-amplia variedad de sectores y están respaldadas tanto por los equipos de soporte de Siemens como
-por los de Aruba”.
-Las soluciones incluyen redes cableadas, inalámbricas y software que pueden implementarse a través
-de las amplias redes de partners de ambas empresas. Aruba y Siemens pueden cubrir las necesidades
-de sus clientes, que incluyen consultoría y soporte de ingeniería preventa, servicios profesionales
-(gestión de proyectos, puesta en marcha, pruebas de aceptación de fábrica y diseño de ingeniería),
-servicios gestionados, servicios de mantenimiento y soporte post-venta.
-Estas soluciones ayudan a garantizar la seguridad de la red que abarca tanto el mundo de IT como el
-de OT; por ejemplo, “Aruba´s 360 Secure Fabric” para redes IT se puede combinar con el concepto de
-"Defense in Depth" de Siemens para seguridad OT. Dado que las necesidades de seguridad de los
-clientes varían, especialmente las de los entornos existentes de mayor antigüedad, Aruba y Siemens
-también adaptarán las soluciones de seguridad para satisfacer los requisitos específicos de los
-clientes.
-Heineken, uno de los mayores productores de cerveza del mundo, ha confiado en la solución de Aruba
-y Siemens que integra OT/IT para su factoría holandesa de 's-Hertogenbosch. “Para operar de forma
-eficiente y evitar ataques de ciberseguridad necesitamos una visibilidad y seguridad uniformes de
-nuestros entornos OT e IT”, señala Henk van den Scheun, responsable de Ingeniería. “Trabajar con
-Siemens y Aruba nos ha ayudado a alcanzar nuestro objetivo a través de una solución que se
-implementó sin problemas y que ha sido muy fiable desde entonces”.
-Medio: Redes Telecom Fecha: 12/11/2018 (00:00:00)
+página 96/105
+Un detalle importante es no usar nunca el zoom digital, porque esa es una de las limitaciones de las
+cámaras de los móviles. Es mejor avanzar dos pasos hacia adelante y conseguir una foto más nítida
+que tirar de zoom digital desde lejos.
+Otro aspecto importantísimo es buscar la luz óptima, que nos venga desde detrás e ilumine lo que
+estamos a punto de fotografiar. Si este es el caso porque hicimos la foto con poca luz, siempre nos
+quedará la opción de pasarla a blanco y negro con alguna aplicación de retoque y darle un aire retro.
+Tampoco es aconsejable utilizar el flash, ya que este estropeará la luz y color de la imagen y no se
+podrá ni retocar.
+No es conveniente usar el zoom digital.
+Intenta buscar un punto de apoyo (una rodilla, una mesa, tu dedo apoyado en el suelo…) y no retires
+el móvil nada más hacer la foto: aguanta quieto unos segundos o te puede salir borrosa. También
+puedes recurrir a un pequeño trípode para el móvil; los hay para dar y vender en el mercado.
+Un truco que usan los fotógrafos para retratar a personas de cuerpo entero es tomar las fotos desde
+una posición inferior al retratado. Así conseguirás que la figura quede más esbelta y elegante. Si
+además hay gente alrededor de la o el modelo, un truco es echarte en el suelo para así evitar que esas
+personas aparezcan detrás en la foto.
+Accesorios para mejorar las fotos.
+Si quieres dar un paso más y hacer fotos aún más originales, puedes optar por los kits de lentes para
+smartphones: ojos de pez, grandes angulares o macros, que te permitirán sacar primeros planos con
+gran nitidez, obtener más profundidad en la imagen o, simplemente, conseguir una foto más
+llamativa. Incluso existen carcasas estancas para hacer fotos debajo del agua.
+No es cuestión de ponerle mil filtros como si fuera una cebolla: cada foto es distinta y requiere de un
+retoque distinto. En alguna solo tendrás que aumentar la luminosidad; en otra, además, deberás
+restarle saturación porque es demasiado colorida y añadirle un filtro para que se vea más elegante.
+Estas son algunas de las apps más usadas por los instagramers, que nos recomienda el fotógrafo
+@rodrigorivasph en el libro Instagram, mucho más que fotos, de @philgonzalez.
+Tres apps para retocar fotos en iOS.
+Snapseed: Es una de las aplicaciones estrella de la Apple Store. Además de ofrecer ajustes muy
+básicos, en su última versión incorpora la opción de cambiar la perspectiva de la imagen o filtros retro,
+que dan a la foto un aspecto realmente auténtico. Y lo mejor es que es gratis.
+Filterstorm: Tiene muchísimas opciones (capas, curvas, niveles…) pero es menos intuitiva que la
+anterior y requiere unos conocimientos previos de fotografía o echarle unas horas de práctica antes de
+pillarle el truco. Cuesta 3,99 euros.
+Vsco Cam: Una de las aplicaciones más de moda entre las influencers. Tiene varios filtros que
+embellecen casi cualquier foto y es muy fácil de usar. Tiene versión gratuita y compras dentro de la
+app.
+Tres apps para retocar fotos en Android.
+Pixlr Express: Es una de las mejor valoradas por los usuarios de Android y, aunque al principio puede
+resultar algo liosa, luego te será fácil de usar. Tiene opciones desde lo más básico hasta algunas
+bastante avanzadas y es gratis.
+Photo editor: Posee ajustes de imagen como corrección de color, curvas, corrección de perspectivas…
+Resumen de Prensa
+20/12/2018 18:32
+página 97/105
+Si conoces Photoshop, te será muy fácil usarla de entrada; si no, deberás dedicar algunas horas a
+familiarizarte con ella. Es gratis.
+Aviary: Es la aplicación más sencilla de todas las anteriores. Si quieres ir rápido y que el resultado sea
+más que correcto, esta es tu app. También gratuita.
+Las aplicaciones para iOS y Android ayudan, pero la clave es hacer bien la foto desde el principio.
+Medio: La Vanguardia - Tecnología Fecha: 26/10/2018 (16:00:00)
 Términos: tecnología
 

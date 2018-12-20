@@ -1,0 +1,58 @@
+﻿
+Siemens y Aruba desarrollarán redes integradas.
+Siemens y Aruba, una compañía de Hewlett Packard Enterprise, han anunciado la firma de un acuerdo
+estratégico centrado en integrar la tecnología operacional (OT) con la tecnología de la información (IT).
+Mediante líneas de producto complementarias, ambas compañías podrán dar respuesta a las
+necesidades de clientes que cuentan con redes de datos seguras de alta criticidad, garantizando la
+disponibilidad de la planta y la red.
+Los clientes se beneficiarán de redes integradas que podrán funcionar tanto en fábricas como en
+entornos de oficina gracias a la experiencia de Siemens como proveedor de componentes de red
+Ethernet industrial, y a la experiencia de Aruba en el ámbito de las infraestructuras de redes
+inalámbricas y cableadas. .
+La digitalización, la revolución industrial 4.0 y el fenómeno IoT están generando nuevos retos, ya que
+ahora los datos deben atravesar cada vez más las fronteras que separan la tecnología operacional de
+las tecnologías de la información. Habitualmente, las redes deterministas e industriales de OT no
+están totalmente acopladas con las redes empresariales de IT. Esto hace que surjan lagunas en la
+visibilidad de los datos y los dispositivos, y en la seguridad y disponibilidad de las aplicaciones. Para
+eliminar esas lagunas es necesaria una amplia experiencia en ambos mundos, así como un profundo
+conocimiento de los respectivos requerimientos operativos y de seguridad. En el mundo IT la
+ciberseguridad y la fiabilidad de los datos son las principales prioridades, mientras que en el mundo
+OT la disponibilidad de la planta y los objetivos de fabricación son los aspectos más importantes. .
+Siemens y Aruba eliminan esta separación gracias a su amplia experiencia y complementariedad en OT
+e IT. Al proporcionar redes integradas con una interoperabilidad probada y diseños de referencias
+Resumen de Prensa
+20/12/2018 18:32
+página 56/105
+validados, ambas compañías contribuyen a que los sistemas integrados OT/IT pueden instalarse
+rápida y fácilmente y operar de forma más segura y eficiente.
+Klaus Helmrich, miembro del Comité Directivo de Siemens AG, afirma que “la colaboración entre
+Siemens y Aruba es un paso importante para complementar nuestra oferta de redes industriales - uno
+de los pilares de la Empresa Digital -, con la línea adicional de soluciones de IT de Aruba. Los clientes
+podrán beneficiarse de redes integradas con garantías de futuro que aseguran disponibilidad y
+seguridad”.
+Por su parte, Keerti Melkote, presidente y cofundador de Aruba, una compañía de Hewlett Packard
+Enterprise, explica que “después de trabajar juntas casi tres años, Siemens y Aruba han solucionado la
+separación existente entre OT y IT a través de una integración de tecnológicas, respaldada por diseños
+de referencia validados. Las soluciones que resultan de esta colaboración son perfectas para una
+amplia variedad de sectores y están respaldadas tanto por los equipos de soporte de Siemens como
+por los de Aruba”.
+Las soluciones incluyen redes cableadas, inalámbricas y software que pueden implementarse a través
+de las amplias redes de partners de ambas empresas. Aruba y Siemens pueden cubrir las necesidades
+de sus clientes, que incluyen consultoría y soporte de ingeniería preventa, servicios profesionales
+(gestión de proyectos, puesta en marcha, pruebas de aceptación de fábrica y diseño de ingeniería),
+servicios gestionados, servicios de mantenimiento y soporte post-venta.
+Estas soluciones ayudan a garantizar la seguridad de la red que abarca tanto el mundo de IT como el
+de OT; por ejemplo, “Aruba´s 360 Secure Fabric” para redes IT se puede combinar con el concepto de
+"Defense in Depth" de Siemens para seguridad OT. Dado que las necesidades de seguridad de los
+clientes varían, especialmente las de los entornos existentes de mayor antigüedad, Aruba y Siemens
+también adaptarán las soluciones de seguridad para satisfacer los requisitos específicos de los
+clientes.
+Heineken, uno de los mayores productores de cerveza del mundo, ha confiado en la solución de Aruba
+y Siemens que integra OT/IT para su factoría holandesa de 's-Hertogenbosch. “Para operar de forma
+eficiente y evitar ataques de ciberseguridad necesitamos una visibilidad y seguridad uniformes de
+nuestros entornos OT e IT”, señala Henk van den Scheun, responsable de Ingeniería. “Trabajar con
+Siemens y Aruba nos ha ayudado a alcanzar nuestro objetivo a través de una solución que se
+implementó sin problemas y que ha sido muy fiable desde entonces”.
+Medio: Redes Telecom Fecha: 12/11/2018 (00:00:00)
+Términos: tecnología
+

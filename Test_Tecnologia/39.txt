@@ -1,76 +1,33 @@
 ﻿
-Caída de Vodafone España.
-Vodafone España anuncia sus resultados financieros y comerciales correspondientes al primer
-semestre del año fiscal, del 1 de abril al 30 de septiembre de 2018, y hace balance de las iniciativas
+Llega el primer móvil con pantalla flexible del mundo.
+La tecnología no deja de sorprendernos. Cada vez las empresas del sector ponen más empeño en
+crear dispositivos revolucionarios: móviles con hasta cinco cámaras traseras –cómo el próximo Nokia
+9– o con pantallas que llegan hasta los bordes… pero nadie ha conseguido algo a lo que la ciencia
+ficción nos tiene acostumbrados, las pantallas flexibles. O, mejor dicho, nadie lo había conseguido
+hasta ahora, porque una empresa ya ha conseguido hacer el primer teléfono con pantalla flexible.
+Y no ha sido ni Samsung, ni Apple, ni Huawei, ni otra de las famosas marcas de dispositivos móviles,
+sino Royole. Una compañía china ha desarrollado, según ubergizmo.com, un teléfono con su
+tecnología flexible AMOLED. De este modo, el dispositivo, llamado FlexPai, se ha convertido en el
+primer ‘smartphone’ del mundo con pantalla plegable del mundo.
+El dispositivo tiene una pantalla de 7,8 pulgadas, con una resolución de 1920x1440 píxels. Así que el
+usuario lo puede usar de móvil o de ‘tablet’. Además, según la compañía, la pantalla se puede doblar
+más de 200.000 veces sin que ésta sufra ningún daño. En cuanto a lo que hay dentro del teléfono, éste
+funciona gracias a un procesador de la serie Qualcomm Snapdragon 8. El ‘smartphone’ también está
+equipado con una cámara dual con un teleobjetivo de 20 megapíxels y un sensor de gran angular de
+16.
+Según el fundador y CEO de Royole, Bill Liu, “El ‘smartphone’ flexible FlexPai provee a los usuarios una
+experiencia revolucionaria y diferente comparada con los móviles tradicionales”. Liu también ha
 Resumen de Prensa
 20/12/2018 18:32
-página 45/105
-lanzadas en los últimos meses. Los resultados del semestre están condicionados por dos importantes
-decisiones: garantizar la competitividad de la oferta de la telco en todos los segmentos y no adquirir el
-Partidazo ni la Champions League por falta de racionalidad económica.
-Ambas decisiones y lanzamientos posteriores, como el de Vodafone bit, redefinen la posición
-competitiva de la operadora con una oferta mejor adaptada a la demanda de los distintos segmentos
-de mercado en España permitida por una estructura de costes más ligera tras abandonar los
-derechos del fútbol.
-Como área de crecimiento cabe destacar los nuevos negocios de empresas –IoT, Cloud&Hosting, Big
-Data- cuyos ingresos se incrementaron en el último trimestre un 15,3% frente al mismo periodo del
-año anterior. Los ingresos de la unidad de negocio de empresas suponen ya más de del 30% de los
-ingresos por servicio de la compañía, 2,4 p.p. más que un año antes. .
-En este periodo, los ingresos por servicio llegaron a los 2.205 millones de euros, 4,7% en términos
-orgánicos (o comparables) menos que en el mismo periodo del año anterior (7,2% en el trimestre). Por
-su parte, los ingresos totales alcanzaron los 2.421 millones de euros.
-Excluyendo el impacto de la reducción de los costes de terminación móvil, el descenso de los ingresos
-por servicio habría sido del 3,5% en el semestre y del 6,0% en el trimestre.
-Según la operadora, estos resultados se han visto influidos por:
--Condiciones más ventajosas para los clientes, entre las que se incluyen: la mejora de los planes de
-precios de más de 6 millones de líneas anunciados el pasado mes de mayo y los menores ingresos
-asociados con distintas promociones, como el regalo de 25 GB a todos los clientes durante el pasado
-verano.
--La batalla promocional desatada en agosto tras la decisión de Vodafone de no adquirir todos los
-derechos de emisión del fútbol por su falta de rentabilidad.
-Por otro lado, el margen de EBITDA descendió 7,5 p.p. en el semestre frente al mismo periodo del año
-anterior hasta el 22,4%. El descenso se debió:
--a los menores ingresos.
--a los mayores costes de adquisición y retención derivados de la batalla comercial.
--al crecimiento de los costes de acceso mayorista a la red de fibra y.
--al aumento del precio del fútbol en la temporada 17/18 respecto a la 16/17.
-La decisión de no adquirir El Partidazo y las Competiciones Europeas comenzará a tener un impacto
-en las cuentas de la compañía en los próximos meses. Inicialmente la reducción de costes será
-pequeña, pues Vodafone seguirá ofreciendo esta temporada 8 partidos de La Liga Santander. El
-impacto completo de la reducción de costes se recogerá en las cuentas de la compañía a partir de
-septiembre de 2019.
-La actividad comercial estuvo condicionada por la guerra de fútbol:
--Clientes de contrato de telefonía móvil: +35.000 en el semestre, gracias a los buenos resultados del
-primer trimestre del año fiscal.
--Clientes de fibra: +32.000 en el semestre, pese al descenso de 5.000 en el segundo trimestre.
--Clientes de TV: -98.000 en el semestre, de los que -66.000 corresponden al segundo trimestre. Este
-Resumen de Prensa
-20/12/2018 18:32
-página 46/105
-descenso está en línea con la desconexión (neta) de 69.000 Clientes de banda ancha fija en el segundo
-trimestre del año fiscal .
-Un trimestre más, Vodafone lidera en satisfacción de clientes en el segmento residencial gracias a una
-ventaja de +4 p.p. en términos de NPS frente a sus competidores. En el ámbito empresarial, Vodafone
-ha cerrado el gap con el primero y alcanza el coliderazgo.
-El segundo trimestre del año además ha supuesto un periodo clave para el desarrollo de las redes del
-futuro 5G con dos hitos relacionados. Por un lado, Vodafone España adquirió el pasado julio 90 MHz
-contiguos de espectro en la banda de 3,7 GHz en la subasta convocada por el Ministerio de Economía y
-Empresa. Este espectro se añade a los 20 MHz TDD que ya tenía disponibles en la banda de 2,6 GHz
-para convertirse en el operador que más espectro tiene para ofrecer los nuevos servicios 5G.
-Tras esta adjudicación, ha sido la primera en España en iniciar el despliegue precomercial de nodos de
-su red 5G NSA, al comenzarlo el mismo julio en zonas céntricas de 6 de las principales ciudades
-españolas. Este despliegue precursor se suma al de diferentes tecnologías en el último año lideradas
-por telco, como NB-IoT, 4,5G, Massive MIMO o MEC; todas ellas incorporadas por la compañía a su red
-de forma pionera en el país.
-En paralelo, ha seguido fortaleciendo su red móvil en España, llevando su cobertura 4G a 5.700
-municipios (158 más que hace seis meses) y velocidades 4G+ de 300Mbps hasta a 1.270 (133 más que
-a cierre de marzo).
-Para su red fija este semestre también ha marcado un hito con la actualización del 100% de su fibra
-HFC a la tecnología Docsis 3.1, pudiendo ofrecer sobre esta huella velocidades simétricas superiores a
-1Gbps y mejorando la operativa y calidad de la red.
-Por otro lado, el pasado septiembre Vodafone y Grupo MásMóvil alcanzaron un acuerdo para
-compartir en España fibra ópticahasta en 1,9 millones de hogares durante los próximos cuatro años.
-Este acuerdo permitirá ofrecer servicios de banda ancha ultrarrápida de una forma más eficiente.
-Medio: Redes Telecom Fecha: 13/11/2018 (00:00:00)
+página 85/105
+apuntado que el dispositivo creado por su empresa “soluciona la contradicción de una gran pantalla
+de alta definición y la portabilidad”.
+El dispositivo ejecuta lo que la compañía llama Water OS, una versión muy modificada de Android 9
+Pie. Esto permite que la interfaz de usuario funcione bien con la pantalla plegable. Para aquellos
+interesados, aunque el producto aún no esté a la venta –se espera que salga al mercado en próximo
+mes de diciembre–, ya se puede reservar. El precio del FlexPai será de 1.320 dólares.
+El dispositivo, que se prevé que salga al mercado el próximo mes de diciembre, tendrá un precio de
+1.320 dólares.
+Medio: La Vanguardia - Tecnología Fecha: 01/11/2018 (06:00:00)
 Términos: tecnología
 

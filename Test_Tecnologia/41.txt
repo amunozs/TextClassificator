@@ -1,55 +1,41 @@
 ﻿
-Cisco unifica sus tecnologías SD-WAN y de seguridad.
-La WAN está sufriendo una transformación radical. Hoy en día, las organizaciones alojan sus
-aplicaciones en múltiples nubes: públicas, privadas y SaaS. La forma de trabajar de las personas
-también ha cambiado; los trabajadores se conectan desde cafeterías y salas de aeropuertos, y no sólo
-desde la oficina. Las compañías deben así apoyarse en Internet para conectar a los usuarios con las
-aplicaciones críticas de negocio. Esto ha dado lugar a un nuevo ‘Cloud Edge’ o extremo Cloud: la
-intersección de las redes y de la seguridad.
-Hasta ahora, las soluciones SD-WAN han obligado a los departamentos de TI a elegir entre experiencia
-de aplicación o seguridad. Al evolucionar su porfolio SD-WAN, Cisco responde a la nueva realidad del
-Cloud Edge. Cisco SD-WAN puede ayudar a las TI a proporcionar una mejor experiencia de aplicación y
-hacer que los usuarios sean más productivos con una simplicidad y escalabilidad inigualables.
-Además, es posible habilitar fácilmente la mejor seguridad en cualquier lugar que se necesite, desde la
-sucursal a la nube.
-“La aparición del nuevo Cloud Edge está transformando las arquitecturas de red y de seguridad de
-nuestros clientes. En la actualidad, cada dispositivo WAN debe estar definido por software y reforzar
-su seguridad”, destaca Scott Harrell, vicepresidente Senior y Director General de Redes Empresariales
-en Cisco. “La SD-WAN de Cisco permite a las organizaciones obtener lo mejor de las redes y de la
-seguridad. Estamos construyendo un puente hacia un nuevo mundo de negocios que acelera la
-capacidad de nuestros clientes para obtener las ventajas de la nube con mayor rapidez y menor
-riesgo”.
+UBE y Ainia desarrollan envases flexibles de nailon que duplican la vida
+útil de los alimentos preparados.
+VALENCIA, 31 Oct. (EUROPA PRESS) -.
+La empresa UBE Corporation Europe y el Instituto Tecnológico de la Industria Agroalimentaria (AINIA),
+han desarrollado un envase flexible de nailon, de muy poco peso y resistente a la esterilización en
+autoclave (120º de temperatura), que alarga la vida útil de los alimentos preparados, como los
+infantiles, salsas, purés, mermeladas y conservas.
+Estos nuevos envases son uno de los tres resultados obtenidos en el marco del proyecto 'Nuevas
+soluciones sostenibles para el envasado flexible de alimentos de gran consumo mediante
+copoliamidas avanzadas' (COPAFLEX), impulsado por UBE y AINIA y enmarcado dentro de la
+convocatoria RETOS Colaboración.
+Los nuevos envases cuentan con mayor ergonomía y facilidad de uso, al tiempo que reducen la huella
+de carbono en el medio ambiente, puesto que la cantidad de material necesaria para cubrir el
+alimento es mínima.
+El objetivo de este desarrollo es también "sustituir los envases rígidos convencionales, es decir, botes
+de cristal, latas o plásticos más rígidos y pesados", ha explicado el responsable de Proyectos de I+D de
+UBE, Sergi Salvà.
+Comparando la nueva película plástica con envases flexibles actuales, han conseguido duplicar la vida
 Resumen de Prensa
 20/12/2018 18:32
-página 48/105
-Cisco SD-WAN está diseñado para resolver los mayores retos de hoy, pero con la flexibilidad necesaria
-para responder a los desafíos del mañana. Las innovaciones incluyen:
-• Fusionar la seguridad con SD-WAN: desde firewalls empresariales conscientes de la aplicación y
-prevención de intrusiones hasta el filtrado de URL, la seguridad avanzada se integra ahora en los
-dispositivos Cisco SD-WAN y se gestiona a través de una única consola. Cisco SD-WAN cuenta con la
-tecnología de Talos, la solución de inteligencia frente a ciber-amenazas más potente del sector.
-• Simplificación de las implementaciones de seguridad en la nube: al integrar Cisco SD-WAN con Cisco
-Umbrella, se puede bloquear el acceso a destinos maliciosos antes incluso de que se establezca una
-conexión.
-• Experiencia de aplicaciones: Cisco ha colaborado con Microsoft para mejorar la experiencia de
-aplicación de Office 365 para los usuarios. A diferencia de otros proveedores, Cisco SD-WAN
-monitoriza en tiempo real todas las rutas disponibles a la nube de Microsoft Office 365. Al utilizar las
-URL de Microsoft Office, Cisco también puede determinar la nube más cercana, dando como resultado
-un rendimiento hasta un 40 por ciento más rápido para los usuarios.
-• Abierto y programable: con API abiertas, Cisco SD-WAN proporciona a los proveedores de servicios y
-partners la oportunidad de crear nuevos servicios únicos. Para ayudar a los desarrolladores e
-ingenieros de redes a innovar, Cisco DevNet ha creado nuevos laboratorios de aprendizaje y
-sandboxes SD-WAN.
-• Nueva infraestructura SD-WAN: Con el mayor porfolio SD-WAN del mercado basado en Viptela y
-Meraki, Cisco ofrece aún más opciones para los clientes con dos nuevas plataformas routing ISR
-(Integrated Services Routers) diseñadas para sucursales pequeñas y grandes.
-• Servicio de inicio rápido: Cisco también ayuda a las organizaciones a acelerar sus implementaciones
-SD-WAN y minimizar el riesgo a través de un nuevo servicio Quick Startpara SD-WAN. Por un precio fijo,
-los clientes tienen acceso a la implementación remota y a las capacidades de transferencia de
-conocimiento para agilizar los proyectos.
-• Fácil de adquirir y administrar: Cisco facilita la adquisición y administración de la nueva solución.
-Tanto la red como la seguridad pueden adquirirse a través de un modelo de licencia única y
-administrarse a través de una misma interfaz.
-Medio: ABC - Conocer Tecnología Fecha: 12/11/2018 (20:40:54)
+página 87/105
+útil de estos alimentos, sensibles a la oxidación con el paso del tiempo, según han explican los
+responsables de este proyecto.
+"Por ejemplo, un puré de verduras, que en los envases flexibles actuales tiene una vida útil de 150 días
+aproximadamente, en un envase desarrollado con estos innovadores materiales se puede mantener
+en condiciones óptimas para su consumo más de 300 días y esto, sin tener que añadir aditivos
+conservantes", ha asegurado Salvà que ha detallado que "suponen una parte infinitesimal del peso del
+conjunto del producto, normalmente en el rango de 50 a 100 micras".
+UBE y Alinia hace tiempo que colaboran, el primero aporta su experiencia en el diseño y desarrollo de
+nailones como polímero funcional que se utiliza en muchos envases alimentarios y Ainia suma sus
+conocimientos en la evaluación de estos materiales.
+"Hemos hecho las pruebas semiindustriales de fabricación y rellenado de los envases para poder
+analizar la interacción envase-producto, su vida útil y el impacto ambiental", ha detallado el
+responsable de Proyectos en Tecnologías de Envasado de Ainia, Pedro Zomeño.
+Además en esta ocasión han decidido no patentar ni proteger intelectualmente el desarrollo para
+poder popularizarlo y lo que buscan es una mayor difusión de estos envases y que esta tecnología se
+utilice preferiblemente con material diseñado por UBE, ha explicado Salvà.
+Medio: La Vanguardia - Tecnología Fecha: 31/10/2018 (06:00:00)
 Términos: tecnología
 

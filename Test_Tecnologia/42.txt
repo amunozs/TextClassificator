@@ -1,37 +1,63 @@
 ﻿
-El teléfono plegable de Samsung podría lanzarse en marzo a un precio
-de mil euros.
-Samsung presentó hace solo unos días en su conferencia para desarrolladores Infinity Flex Display, un
-concepto de híbrido que mezcla interfaz y un hardware con bisagra para disponer de un dispositivo
-totalmente funcional que cerrado se usa como un teléfono y abierto, como una tableta de 7,3
-pulgadas.
-«La pantalla plegable sienta las bases para una nueva forma de experiencia móvil. Estamos
-impacientes por ver qué nos depara esta tecnología y los frutos de la colaboración que estamos
+Así queda la gama de iPad Pro y de Mac tras la presentación en NYC.
+Apple ha presentado dos nuevos modelos de iPad Pro y la renovación del MacBook Air y del Mac Mini.
+Vamos a repasar las características que tenían sus predecesores y compararlas con los equipos
+presentados este martes. El resto de ipads y de macs queda igual que hasta ahora.
+iPad Pro.
+El iPad Pro hasta ahora tenía el Chip A10X con el coprocesador M10 integrado. Una capacidad de
+almacenamiento interna de 64, 256 ó 512 gigas. Había dos tamaños de pantalla retina, el de 10,5 con
+una resolución de 2.224 por 1.668 píxeles, y de 12,9 pulgadas con una resolución de 2.732 por 2.048
+píxeles. En cuanto a la cámara trasera, esta tenía 12 megapíxeles (Mpx) con una apertura f1/8 y la
+cámara frontal era de 7 Mpx.
+El nuevo iPad Pro ha dado un salto grandísimo en cuanto al nuevo procesador que incorpora ahora. El
+nuevo Chip A12 X según Apple es capaz de estar a la altura de algunos Intel Core i7. Las opciones en
+cuanto a capacidad interna siguen siendo iguales que su predecesor, aunque se añade la opción de
+alcanzar un tera de almacenamiento.
+La pantalla Liquid Retina está ahora en el modelo de 11 pulgadas con una resolución de 2.388 por
+1.668 píxeles y en 12,9 pulgadas con la misma resolución que el modelo anterior. Al reducir los bordes,
+la tableta es más pequeña sin que la pantalla sea más pequeña. Las cámaras en apariencia siguen
+siendo casi iguales.
+La grabación de vídeo es en 4K además de poder hacerlo a 30 fotogramas por segundo (fps) como en
+el anterior iPad Pro, ahora puede hacerlo a 60 fps. El resto de opciones para realizar grabaciones sigue
 Resumen de Prensa
 20/12/2018 18:32
-página 49/105
-creando», aseguró durante el evento DJ Koh, Presidente y CEO de IT & Mobile Communications
-Division, Samsung Electronics. Y parece que ese futuro está más cerca de lo que muchos imaginaron
-porque, según las últimas filtraciones, el gigante surcoreano tiene pensado lanzar el primer
-«smartphone» con pantalla plegable el año que viene. En marzo, para ser más exactos.
-Así lo asegura la agencia surcoreana de noticias «Yonhap», que en una información publicada este
-lunes, indica que la compañía presentará su novedoso terminal «junto con un Galaxy S10 de quinta
-generación (5G)».
-«Según las fuentes -continua la información-, el gigante tecnológico surcoreano planea presentar el
-teléfono inteligente Galaxy S10 en febrero, seguido por el presunto Galaxy F plegable y otra edición
-del Galaxy S10 que funciona con 5G en marzo». De hecho, DJ Koh dijo la semana pasada que la
-compañía lanzaría un teléfono inteligente plegable en la primera mitad de 2019, algo que a muchos
-les costó creer ya que su hace tiempo que se espera su lanzamiento y siempre se ha retrasado.
-«Los observadores de la industria esperan que Samsung muestre el próximo teléfono inteligente
-plegable en el Mobile World Congress de Barcelona en febrero, antes del lanzamiento oficial el mes
-siguiente», continúa «Yonhap». El terminal flexible no será compatible con la red 5G.
-Y lo que llama la atención es su precio: como un iPhone. «Si bien no se ha decidido el precio del
-teléfono inteligente plegable, los observadores de la industria dijeron que puede costar alrededor de
-1.770 dólares». Es decir, unos 1.000 euros.
-El teléfono plegable de Samsung se doblará hacia adentro y lucirá una pantalla de 7.4 pulgadas
-cuando se despliegue. El panel se reducirá a las 4.6 pulgadas cuando funcione como «smartphone». El
-CEO y presidente de la compañía aseguró en la conferencia para desarrolladores que estiman vender
-en 2019 un millón de teléfonos flexibles.
-Medio: La Vanguardia - Tecnología Fecha: 12/11/2018 (18:14:12)
+página 88/105
+siendo igual. El botón de inicio y detector de huellas desaparece y se ha incorporado el
+reconocimiento facial Face ID de los iPhone. Tanto usando la tableta en vertical como en horizontal.
+En cuanto a la batería no hay muchos cambios en cuanto a capacidad. Pero sí en la incorporación del
+puerto USB-C, que no sólo permitirá cargar el dispositivo. Este es un cambio muy importante, pues se
+puede conectar cualquier periférico sin adaptadores. Pensemos en monitores externos, cámaras y
+muchas otras cosas.
+El nuevo teclado se alimenta mediante el propio iPad y va conectado al mismo directamente.El nuevo
+Apple Pencil ahora es magnético y se puede pegar al iPad Pro, se empareja y se carga de forma
+inalámbrica. Ambos accesorios son opcionales. El iPad Pro de 10,5 pulgadas de la generación anterior
+sigue a la venta desde 729 euros. El nuevo iPad Pro de 11 pulgadas arranca su precio en los 879 euros
+y el modelo de 12,9 pulgadas tiene un precio que parte de 1.099 euros.
+MacBook Air.
+El anterior MacBook Air, que por cierto sigue a la venta, tenía un procesador Intel Core i5 de doble
+núcleo a 1,8 GHz con una memoria ram de ocho gigas. El nuevo modelo incorpora un Intel Core i5 de
+octava generación a 1,6 GHz, pero con un modo turbo de hasta 3,6 GHz. La memoria sigue siendo de
+ocho gigas en la versión básica, pero es más rápida.
+Se ha mejorado el procesador para los gráficos. La capacidad de almacenamiento sigue siendo SSD
+PCIe de 128 gigas ó 256 gigas. La pantalla de 13,3 pulgadas ha mejorado notablemente. Ahora es de
+tipo retina con tecnología IPS y una resolución nativa de 2.560 por 1.600 con una densidad de 227
+píxeles por pulgada.
+El nuevo MacBook Air actualiza sus conexiones con dos puertos USB-C compatibles con Thunderbolt 3
+y un conector de audio jack 3.5. Ahora incorpora detector de huellas y un teclado casi idéntico al del
+MacBook Pro. Se sigue vendiendo el MacBook Air anterior por 1.105 euros en su configuración básica.
+Y los nuevos modelos están disponibles desde los 1.349 euros.
+Mac Mini.
+El Mac Mini da un salto desde los 500 euros aproximadamente que costaba el modelo más básico
+hasta los 900 euros del nuevo modelo. Una cifra que es algo elevada si tenemos en cuenta que el
+ordenador con ese precio sólo equipa una nueva versión del modesto Intel Core I3, 128 gigas de disco
+duro SSD y los mismos 8 gigas de memoria ram de la versión anterior.
+Las únicas ventajas notables respecto al modelo de 2004 las encontramos en la renovada
+conectividad, cuenta con un gran número de puertos de última generación, en el chip de seguridad
+que Apple ha incorporada y en el chip de gráficos (que no es una tarjeta gráfica dedicada). Por lo
+demás todo se mantiene casi igual.
+En definitiva, el cambio más interesante lo observamos en el MacBook Air y en el iPad Pro básico. Que
+ofrecen cualidades claramente superiores a los modelos anteriores, aunque no en todos los aspectos,
+por un precio no mucho más elevado.
+Medio: La Vanguardia - Tecnología Fecha: 30/10/2018 (17:22:00)
 Términos: tecnología
 

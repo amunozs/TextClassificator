@@ -1,27 +1,35 @@
 ﻿
-HAL 9000 se queda sin voz.
-Una de las escenas más desasosegantes de la historia del cine, al menos para mí, es aquella en la que
-David Bowman decide desactivar a HAL 9000, el ordenador que controla los sistemas de la Discovery,
-la nave en la que viajan hacia Saturno en 2001: una odisea del espacio. En ella HAL le implora a
-Bowman que no lo desactive, intentando convencerlo de que todo irá bien. Pero Bowman ignora sus
-súplicas hasta que, por fin, la mente de HAL se desvanece.
-En la versión original de la película la voz de HAL la puso Douglas Rain, un actor canadiense –
-principalmente de teatro– que acaba de morir.
-Today we lost Douglas Rain, a member of our founding company and a hugely esteemed presence on
-our stages for 32 seasons. He will be greatly missed. Our thoughts and prayers are with his family.
-pic.twitter.com/dxcffgGEiA— Stratford Festival (@stratfest) 12 de noviembre de 2018 Según cuenta la
-BBC, Rain grabó los diálogos de HAL 9000 en unas 10 horas repartidas en un par de días de trabajo
-mientras Kubrick le describía las escenas, aunque por lo visto nunca llegó a ver la película terminada…
-lo que suena un poco raro, la verdad.
-Pero en cualquier caso el fallecimiento de Rain es una magnífica excusa para volver a ver la película,
-leer El centinela, leer la novela que adapta la película, o volver a escuchar el mítico especial de Carlos
-Pumares sobre el monolito.
-Relacionado, La ciencia y la tecnología en «2001: Una odisea del espacio» Cómo se rodó: una de las
+Nuevos iPad Pro, potencia que rivaliza con los PC.
+El consejero delegado de Apple, Tim Cook, ha presentado en la Academia de Música de Brooklyn de
+Nueva York un iPad Pro que tiene pocos rivales en el mundo de la computación debido a tres factores.
+Su construcción, ligera —de unos increíbles 5,9 milímetros de grosor, su sistema operativo iOS 12 y su
+increíble procesador A12X Bionic, una versión adaptada del que llevan los nuevos iPhone XS y XR que
+pone a prueba lo que puede hacer un PC normal. De hecho, según Apple, el iPad Pro es más rápido
+que el 92% de los PC que existe, incluidos muchos con el procesador i7 de Intel. No es extraño a juzgar
+por el desempeño de la anterior generación de iPads profesionales.
+“Este chip es un monstruo”, soltó el directivo de Apple que detalló sus características. El A12X Bionic
+está construido con tecnología de 7 nanómetros, que reduce su tamaño, aumenta sus prestaciones y
+reduce el consumo energético respecto a su predecesor, creado en 10 nanómetros. Lleva una unidad
+gráfica de siete núcleos y una CPU de 8, además de un motor neural, que aprende de las tareas que
+realiza, y que efectúa 5 billones de operaciones por segundo.
+En las demostraciones de lo que puede hacer el iPad Pro, Apple mostró un videojuego que se
+aproxima mucho a lo que hoy vemos en las consolas (es difícil distinguirlo) y una noticia esperada en
+ámbitos profesionales: una versión completa de Photoshop de Adobe adaptada a la nueva tableta de
+Apple, que además tiene un nuevo Apple Pencil. Este se carga simplemente dejándolo en uno de los
+costados de la tableta, a la que se pega de forma magnética.
+Otro elemento importante es que Apple prescinde en el iPad Pro de su conector Lightning y coloca un
+USB-C, un estándard demandado por profesionales y que le permite conectarse, por ejemplo, con
+cámaras y monitores de hasta 5K.
+El iPad Pro reduce mucho todos sus marcos y elimina el botón central. En lugar de identificación por
+huella dactilar, se pasa al reconocimiento facial FaceID que lla llevan los iPhone, y que funciona tanto
+en vertical como en horizontal. La tableta de Apple llega en dos tamaños; 11 y 12,9 pulgadas. Estarán a
+la venta el próximo 7 de noviembre. Los precios para España empiezan en 879 euros para el modelo
+wifi de 11 pulgadas y en 1.049 euros para el que incluye conexión celular. Hay configuraciones de
+almacenamiento de memoria de 64 GB, 256 GB, 512GB y hasta 1 TB. Las versiones de entrada del
+modelo de 12,9 pulgadas comienzan en 1.099 euros (wifi) y 1,269 euros (wifi y celular).
+Medio: La Vanguardia - Tecnología Fecha: 29/10/2018 (10:08:08)
 Resumen de Prensa
 20/12/2018 18:32
-página 51/105
-escenas de ingravidez en los pasillos de «2001» El monolito de 2001 construido de… 2001 en VHS
-Frank Poole y Dave Bowman de 2001 como figuritas de acción # Enlace Permanente
-Medio: 20 Minutos - Tecnología Fecha: 12/11/2018 (12:12:26)
+página 90/105
 Términos: tecnología
 

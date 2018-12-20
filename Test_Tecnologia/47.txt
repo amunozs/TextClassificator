@@ -1,71 +1,79 @@
 ﻿
-Apple quiere seguir siendo premium vendiendo menos.
-La adopción masiva de teléfonos móviles inteligentes ha pasado a mejor vida. Ya se ha posicionado
-como un elemento más en la jungla de aparatos electrónicos cotidianos. Pese a que en la actualidad
-existen muchos más modelos en el mercado que hace una década, la inmensa mayoría de
-consumidores han extendido a tres años los ciclos de renovación. Las marcas por su parte se debaten
-en dos frentes: ofrecer más por menos o incrementar los precios para mejorar sus márgenes ante una
-posible caída.
-Apple y Samsung son las dos mayores vendedoras de dispositivos móviles, pero ante el temor de
-reducir el interés entre los usuarios por culpa de la irrupción de marcas chinas, por lo general con
-productos más asequibles, se han decantado por romper el umbral de los mil euros en sus últimos
-lanzamientos. Una estrategia comercial que, por ahora, solo ha favorecido a la firma de la manzana;
-pese a vender en el último trimestre prácticamente los mismos iPhones que el anterior, ha logrado
-una mejora en su facturación.
-«La razón más lógica podría obedecer la saturación de mercados emergentes donde estaba el
-principal crecimiento de Apple o a un movimiento estratégico para no dar visibilidad a sus
-competidores inmediatos (sobre todo Huawei y Samsung), y otros nuevos fabricantes que están
-compitiendo en el mercado con dispositivos que ofrecen grandes características técnicas con unos
-precios muy competitivos», explica a este diario José Cano, director de análisis y consultoría de IDC
-España.
-«Central de servicios» Sobre la decisión de Apple de dejar de aportar datos sobre ciertas unidades de
+Analizamos el Oppo Find X, un smartphone que innova en la gama alta.
+Hemos tenido la oportunidad de usar durante varias semanas este nuevo terminal de la compañía
+china. Para ponernos en situación decir que Oppo es una empresa tecnológica china que empezó en
+2001 fabricando diferentes reproductores portátiles de audio y video. Y que lleva desde 2008
+diseñando y fabricando smartphones. En China es muy conocida y es una de las principales
+compañías en la fabricación de smartphones a nivel mundial.
+En 2018 ha entrado en el mercado europeo con este Find X, un terminal de alta gama. Además tiene
+también a la venta el Oppo R15 pro y el Oppo A3, pero se espera que su catálogo aumente bastante.
+Comencemos hablando de su diseño. Al principio hemos notado que por su diseño redondeado se
+desliza con cierta facilidad entre las manos. Por lo que recomendamos ponerle una funda protectora
+(que viene incluida) antes de usarlo.
+Su pantalla curvada y sin bordes ha sido fabricada gracias a la tecnología COP, la cual logra hacer
+flexibles los cristales y poder conseguir este diseño de pantallas. Tiene un tamaño de 6,4 pulgadas con
+cristal Gorilla Glass 5, el panel es AMOLED con una resolución 2340x1080 píxeles, y tiene un ratio de
+visión del 98,3 por ciento de la superficie frontal.
+Por cierto, una de las principales innovaciones de este teléfono es que no requiere de una ceja. Algo
+que se debe al ingenioso mecanismo que permite que la cámara se encuentre oculta en la parte
+superior y sobresalga a gran velocidad cuando la necesitamos. La pantalla tiene una relación de
+aspecto 19:9. En definitiva, estamos ante una excelente pantalla.
+En lo que se refiere al hardware viene equipado con el microprocesador Qualcomm Snapdragon 845,
+uno de los mejores para Android hoy en día. Un sorpresa que hemos visto son los ocho gigas de
+memoria ram que trae. Esta memoria es un buen motivo para llevar al límite a este teléfono, sobre
+todo utilizando aplicaciones que consumen muchos recursos. El almacenamiento interno es de 256
+gigas, llegando hasta un giga con una tarjeta de memoria externa. En la edición Lamborghini, el
+teléfono trae una memoria interna de 512 gigas.
+Pasemos a analizar las cámaras de este teléfono. Nos ha desconcertado un poco descubrir que la
+cámara dual que equipa no viene dotada con zoom de dos aumentos ni está ahí para captar fotos con
+un enorme ángulo de visión. La segunda cámara trasera al parecer sólo cumple la función de
+proporcionar información de profundidad para las fotos hechas en modo retrato y así desenfocar
+mejor el fondo.
+Las fotos que obtenemos tienen 16 megapíxeles, por lo que parece que debemos considerar que la
+cámara principal es la que tiene esa resolución. ¿Para qué sirve entonces la cámara secundaria de 20
+megapíxeles? Suponemos que la diferencia de resolución añadirá información a la cámara principal de
+16 megapíxeles para mejorar cosas como el zoom digital o incluso la grabación de vídeo. Pero debido
+a la escasa diferencia de resolución de ambas cámaras no parece que esa segunda cámara pueda
+jugar un papel importante. Ambas cámaras por cierto tienen una luminosidad de f/2 y la principal
 Resumen de Prensa
 20/12/2018 18:32
-página 53/105
-negocio, Enrique Dans, profesor de innovación del Instituto de Empresa, apunta que el gigante
-tecnológico «busca educar a los analistas en que hay más cosas además de las ventas». Como ejemplo,
-menciona que el margen por unidad es mayor que el de sus rivales coreano y chino. «Apple estaría
-muy feliz con tasas del 15% del mercado», apunta el profesor del IE, quien recuerda que el 80% de los
-smartphones tienen como sistema operativo el de Android.
-En una línea similar a Dans se pronuncia Jesús Hernández Ruiz, profesor de Digital Business y
-Estrategia en el Instituto de la Economía Digital (ICEMD) de ESIC, para quien Apple «no es un fabricante
-de móviles sino una central de servicios». En su opinión, «lo interesante es lo que pueden aportar de
-valor añadido a sus accionistas, por lo que no sería enriquecedor que dentro de la comunicación se
-incluyera un fracaso en la venta de móviles». No cree, sin embargo, que los mercados tengan que
-interpretar que las cosas no van bien si hay un descenso en las ventas.
-Hasta hace unos años era prácticamente impensable ver en el ranking principal de vendedores a
-varias firmas de procedencia china. En los últimos tiempos es inevitable. Con Huawei como tercero en
-discordia y la única firma en condiciones de romper el binomio Apple-Samsung, los smartphones de
-marcas como Oppo, Vivo, OnePlus o Xiaomi han tomado el testigo de HTC, LG o Sony que se habían
-hecho un hueco en el mercado.
-Preguntado por el resto de marcas, para Dans éstas siguen «el planteamiento clásico de abarcar una
-gama amplia de productos» aunque la verdadera batalla estaría en el segmento premium. «Apple se
-dirige a un solo segmento, en el resto hace pocos esfuerzos», constata este experto quien considera,
-frente a algunos estudios, que al mercado de venta de móviles «le quedan fronteras importantes» en
-toda la tecnología relacionada con las baterías. En su opinión, la diferenciación debe armarse de
-nuevos argumentos e innovaciones para que el consumidor quiera cambiar de móvil.
-Las previsiones no son halagüeñas para este año, en el que se estima que el mercado global del móvil
-caerá un 1%. «El mercado de consumo es lógico que caiga levemente al estar fuertemente saturado,
-tanto en España como en toda Europa, sin embargo, en el acumulado a 2021 y considerando la parte
-empresarial, los dispositivos móviles crecerán un 1,6% en parte porque es el área más alineada con la
-transformación del puesto de trabajo y movilidad del mercado corporativo», añade Cano.
-Un plazo de dos años Una de las razones que esgrimen los expertos para justificar esta ralentización
-del mercado se encuentra en que los compradores optan cada vez más por cambiarse de móvil
-pasados los dos años. «El consumidor ha cambiado el hábito en parte porque los avances tecnológicos
-en los propios terminales no son tan disruptivos», recalca Cano.
-Sin embargo, a medio plazo se prevé que se retomen los niveles de facturación del pasado. En este
-sentido, Hernández Ruíz sostiene que muchos inversores de la compañía han adelantado la venta de
-sus títulos al no haber una comunicación suficiente, y que las caídas de más del 6% de la semana
-pasada vendrían a dar «un toque de atención» por la falta de transparencia sobre el modelo de
-negocio de los próximos años.
-«Todo el mundo sabe que Apple y el resto de los fabricantes están en fase de reconversión de sus
-catálogos y que, en nuestras manos, se encuentran las últimas unidades de móviles tal y como los
-hemos conocido», apunta este Hernández Ruíz. A su juicio, en cuestión de dos años, todo va a virar
-hacia aparatos electrónicos más inteligentes y con una interactividad más natural gracias a los
-comandos de voz.
-Medio: ABC - Conocer Tecnología Fecha: 12/11/2018 (03:25:26)
+página 92/105
+cuenta con estabilizador óptico.
+En las fotos que reproducimos aquí a plena luz del día podemos observar un nivel de detalle
+estupendo, aunque las texturas se pierden ligeramente teniendo las fotos cierto aspecto de acuarela.
+Si vemos un excelente equilibrio entre las zonas de luz y de sombra. Al estar realizadas en modo
+automático no sabemos si el modo HDR se activó por defecto, pero de ser así no vemos imágenes
+fantasma.
+Cuando usamos el zoom de dos aumentos digital, que está presente entre los controles de cámara, no
+vemos un deterioro muy acusado en las imágenes. Pero este está presente y queda patente cierta
+pérdida de nitidez. También observamos una textura extraña en el cielo.
+Al hacer fotos con poca luz observamos algo importante al disparar en penumbra: el estabilizador
+óptico de imagen es capaz de disparar a una velocidad verdaderamente lenta (1/7) sin que la imagen
+se vea movida. Con el nivel de luz empleado, que era muy bajo, observamos claramente ruido, pero
+nada fuera de lo común. Lo que no es recomendable en entornos poco iluminados es usar el zoom
+digital de dos aumentos. Ahí sí que vemos un nivel de ruido excesivo.
+De la cámara frontal para selfies sorprende su resolución: 25 megapíxeles. Aunque esto puede ser
+muy impresionante de cara a la publicidad, esa resolución parece disparatada para un sensor de
+imagen de un teléfono. De hecho, al observar con detalle la foto que reproducimos en estas líneas
+observamos incluso aberraciones en el color y el nivel de detalle se resiente al observar la foto al 100
+por 100 de resolución. Por otra parte los colores nos parecen excesivamente saturados. La
+luminosidad del objetivo es como en las otras dos cámaras de f/2.
+El sistema operativo se llama ColorOS 5.1, basado en Android 8.1. Esperemos que se actualice pronto
+a Android 9. Han incorporado algunas aplicaciones propias de Oppo, además de una tienda de
+aplicaciones también marca de la casa. La batería tiene una capacidad de 3.400 miliamperios. Su
+sistema de carga permite completar un ciclo de toda la batería en 35 espectaculares minutos. Algo que
+viene muy bien, pues la batería no tiene una duración suficiente para una jornada completa
+realizando un uso intensivo.
+En cuanto al sonido nos ha sorprendido su calidad. Tiene claridad en las frecuencias más agudas y no
+distorsiona con los sonidos graves. Un punto en contra es que no trae un conector para auriculares,
+debemos poner un adaptador USC-C a jack 3,5 mm. El precio de este Find X es de 999 euros, tanto en
+color rojo burdeos como en azul eléctrico. Mientras que la edición Lamborghini tiene un precio de
+1500 euros.
+En términos generales es un teléfono de muy buena calidad y con un diseño muy personal, del que
+destaca el sistema deslizante para ocultar las cámaras. Según fuentes de Oppo su mecanismo se ha
+testeado mucho y garantizan un uso intensivo del mismo. Teniendo en cuenta que sólo para el
+reconocimiento facial ya debe desplazarse bastantes veces al día. Por cierto, no busquen el lector de
+huellas. Oppo, como Apple, confía el sistema de autentificación al reconocimiento facial.
+Medio: La Vanguardia - Tecnología Fecha: 28/10/2018 (06:00:00)
 Términos: tecnología
-Resumen de Prensa
-20/12/2018 18:32
-página 54/105
 
