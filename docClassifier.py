@@ -48,13 +48,13 @@ def preprocess_document(doc):
 def create_dictionary(glossary):
 	pdocs = [preprocess_document(doc) for doc in glossary]
 	dictionary = corpora.Dictionary(pdocs)
-	dictionary.save('/tmp/vsm.dict')
+	dictionary.save('./tmp/vsm.dict')
 	return dictionary
 
 def docs2bows(corpus, dictionary):
 	docs = [preprocess_document(d) for d in corpus]
 	vectors = [dictionary.doc2bow(doc) for doc in docs]
-	corpora.MmCorpus.serialize('/tmp/vsm_docs.mm', vectors)
+	corpora.MmCorpus.serialize('./tmp/vsm_docs.mm', vectors)
 	return vectors
 
 def create_TF_IDF_model(docs, glossary):
@@ -81,7 +81,7 @@ def read_glossary(dir):
 	fns = glob.glob(dir+'*.csv')
 	glossary = []
 	for fn in fns:
-		with open(fn, 'r') as csvfile:
+		with open(fn, 'r', encoding="utf8") as csvfile:
 			reader = csv.reader(csvfile, delimiter=' ', quotechar='|')
 			glossary += [row[0] for row in reader]
 	return glossary
