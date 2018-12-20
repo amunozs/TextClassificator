@@ -1,0 +1,59 @@
+﻿
+Investigación valenciana y tecnologías 5G para que los vehículos sin
+conductor circulen de forma segura por Europa.
+VALÈNCIA, 11 Nov. (EUROPA PRESS) -.
+Investigadores del Instituto de Telecomunicaciones y Aplicaciones Multimedia (iTEAM) de la UPV
+trabajan en el desarrollo del corredor digital 5G Múnich-Bolonia que pretende facilitar la movilidad de
+los vehículos sin conductor, en este caso, entre Italia, Austria y Alemania, aprovechando la tecnología
+5G.
+Las pruebas de vehículos sin conductor hasta ahora se han realizado siempre en entornos
+controlados, en carreteras públicas y apoyándose en un único operador. Pero ¿qué ocurriría si el
+Resumen de Prensa
+20/12/2018 18:32
+página 58/105
+vehículo quisiera desplazarse entre varios países? Hoy en día, no podría hacerlo, entre otras razones,
+por la falta de cobertura inalámbrica, el roaming y porque no todos los países utilizan el mismo
+espectro.
+Además, recientes accidentes mortales han demostrado que hace falta extender el alcance de visión
+del vehículo autónomo, escenario en el que la 5G ofrece "la mejor solución".
+En este contexto, Europa trabaja en el diseño de nuevos corredores digitales 5G que facilitarán la
+movilidad transfronteriza de los vehículos sin conductor. Uno de ellos es el corredor Munich-Bolonia,
+que cubre 600 kilómetros de carreteras en tres países --Italia, Austria y Alemania-- y es uno de los más
+importantes identificados por la Unión Europea para mejorar la movilidad de personas y mercancías
+en toda Europa.
+Su desarrollo es el principal objetivo del proyecto 5G-CARMEN, entre cuyos socios se encuentra la
+Universitat Politècnica de València, a través de su instituto iTEAM. El proyecto está liderado por la
+Fondazione Bruno Kessler (Trento, Italia).
+"Nuestro objetivo es que los coches sin conductor alcancen un nivel de automatización entre 4 y 5 --
+hoy este nivel es del 1-- y puedan circular de forma totalmente autónoma --en este caso, en el eje
+austro-italo-alemán-- aprovechando para ello el potencial que nos brindará la tecnología 5G", explica el
+investigador del instituto iTEAM de la UPV. José Francisco Monserrat.
+La 5G permitirá que la red móvil 4G actual evolucione cubriendo las necesidades de comunicación de
+los vehículos autónomos, tanto en términos de velocidad de intercambio de datos como en tiempos de
+respuesta de la infraestructura de red, recalca a Europa Press desde la Politècnica.
+"Lo que se necesita es que los tiempos de conexión entre vehículos bajen de los 5 milisegundos. Y hoy
+por hoy hay dificultades para llegar a los 100. Esto es lo que aportará la 5G, una tecnología cuyos
+mecanismos de transmisión son mucho más eficientes, lo que reduce la latencia. Con esa transmisión
+de baja latencia, los vehículos, en caso de riesgo de accidente, pueden reaccionar a tiempo. La 5G
+permite ver donde las cámaras no ven, donde los radares no alcanzan. Pero, sin duda, lo más
+importante es la reducción de los tiempos de comunicación entre los vehículos, clave para la
+seguridad en nuestras carreteras", explica Monserrat.
+El proyecto 5G- CARMEN facilitará que los vehículos se conecten a una infraestructura que no será
+necesariamente la del operador, sino la que los Estados ofrezcan para garantizar la continuidad del
+servicio. Otra alternativa es que se permitan sobrealcances de cobertura de los operadores entre
+fronteras, de manera que exista una total continuidad de la comunicación.
+Será, además, el primero proyecto en que se pruebe la solución C-V2X --comunicaciones entre
+vehículos asistidas por la red móvil-- de manera masiva.
+En el marco de este proyecto, se llevarán a cabo diferentes simulaciones en las que se caracterizará el
+funcionamiento individual de los vehículos y posteriormente el que tendría ya en una autopista.
+Desde el iTEAM de la UPV, se realizará la emulación de un escenario en el que muchos o todos los
+vehículos sean autónomos, para así poder diseñar un sistema que funcione bajo cualquier premisa.
+Se analizarán variables como el tiempo de latencia/respuesta de los vehículos, la conectividad entre los
+distintos usuarios o los tiempos de respuesta ante distintas condiciones climáticas, entre otros.
+El proyecto, en el que participan un total de 25 socios, se extenderá durante los próximos tres años.
+Resumen de Prensa
+20/12/2018 18:32
+página 59/105
+Medio: La Vanguardia - Tecnología Fecha: 11/11/2018 (02:12:17)
+Términos: tecnología
+

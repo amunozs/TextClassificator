@@ -1,0 +1,180 @@
+﻿
+“Los algoritmos aumentan las desigualdades sociales”.
+La matemática Cathy O’Neil ha dado la voz de alarma sobre cómo los algoritmos pueden empeorar la
+vida de las personas. O’Neil, doctora en Matemáticas por la Universidad de Harvard y postdoctorada
+en el departamento de Matemáticas del MIT, trabajó como analista cuantitativa para un destacado
+fondo de cobertura en medio de la crisis crediticia.
+“La crisis financiera dejó bien claro que las matemáticas no solo estaban profundamente involucradas
+en los problemas del mundo, sino que además agravaban muchos de ellos. La crisis inmobiliaria, la
+ruina de grandes entidades financieras, el aumento del desempleo: todo esto había sido impulsado e
+inducido por matemáticas que blandían fórmulas mágicas”, explica.
+Lejos del solucionismo tecnológico, que pregona que los modelos matemáticos conducen a
+sociedades más igualitarias porque juzgan con las mismas reglas cualquier asunto, O’Neil alerta de
+que, en realidad, ocurre todo lo contrario.
+La crisis financiera dejó bien claro que las matemáticas no solo estaban profundamente involucradas
+en los problemas del mundo, sino que además agravaban muchos de ellos”.
+En el libro Armas de destrucción matemática. Cómo el big data aumenta la desigualdad y amenaza la
+democracia (Capitán Swing, 2016), O’Neil señala que los algoritmos, incontestables, secretos y
+discriminatorios, dan forma a nuestro futuro como individuos y como sociedad. Sirven para calificar a
+profesores y estudiantes, conceder (o negar) préstamos, ordenar currículos, evaluar a los trabajadores,
+dirigir a los votantes, determinar horarios comerciales e incluso fijar condenas judiciales.
+O’Neil visita por primera vez Barcelona para participar como conferenciante principal del festival The
+influencers, celebrado en el CCCB el pasado fin de semana. Hablamos con ella para reflexionar sobre
+los peligros del big data, los sesgos de los algoritmos y el impacto de los modelos predictivos.
+Resumen de Prensa
+20/12/2018 18:32
+página 79/105
+¿Por qué afirma que los algoritmos son armas de destrucción matemática?.
+Los algoritmos sobre los que alerto son modelos matemáticos que cumplen tres requisitos. En primer
+lugar, son modelos incontestables. Les otorgamos el poder mágico de solucionar de manera justa
+cualquier problema que tenemos, desde encontrar la persona adecuada para un lugar de trabajo
+hasta ordenar la información que recibimos a través de las redes sociales. Segundo, son secretos.
+Desconocemos sobre qué reglas han sido construidos y a menudo no somos conscientes de que nos
+estamos sometiendo a su juicio. La transparencia importa, pero en estos casos siempre hay un
+“secreto industrial” que impide conocer el origen y la existencia de estos algoritmos. Tercero, son
+modelos injustos. Bajo ese secretismo los algoritmos suelen operar contra los intereses de las
+personas. Estas tres características hacen que los algoritmos no solucionen los problemas que
+tenemos, sino que los hagan peores.
+Desconocemos sobre qué reglas han sido construidos los algoritmos a menudo no somos conscientes
+de que nos estamos sometiendo a su juicio”.
+Usted trabajó como analista de big data para un importante fondo de cobertura en los años de la
+crisis, ¿qué papel tuvieron los algoritmos en ese contexto?.
+Las hipotecas subprime que se acumularon durante el auge inmobiliario no eran algoritmos
+defectuosos. Eran instrumentos financieros y tenían poco que ver con las matemáticas. Sin embargo,
+cuando los bancos empezaron a cargar las hipotecas basura en distintas clases de títulos para
+venderlas, sí que utilizaron modelos matemáticos, algoritmos. La internacionalización de la crisis se
+debió, en parte, a cómo las agencias de calificación manejaban los datos para hacer confiables unas
+hipotecas que no lo eran. Las agencias daban la triple A, el símbolo de mejor producto financiero, a
+hipotecas de clientes poco solventes, a sabiendas de lo que estaban haciendo y lo que ello podía
+representar para el sistema financiero. El poder de la informática moderna impulsó el fraude hasta
+una escala sin precedentes de la historia.
+Alerta de que los algoritmos también están detrás de nuestra dieta informativa. Muchas personas
+acceden a las noticias a través de Facebook, ¿cuáles son los riesgos?.
+En primer lugar, el tipo de publicidad que hay en esas plataformas. La publicidad de las redes sociales,
+distribuida a través de un algoritmo, está hipersegmentada y se envía a partir de todos los datos que
+la empresa tiene sobre cada persona. Las tecnológicas, que registran nuestros patrones de navegación
+digital, saben todo sobre nosotros y nos ofrecen publicidad que apela a nuestras emociones. El
+algoritmo de Facebook, por otro lado, decide qué noticias nos muestra y en qué orden. Nos ofrece
+información que sabe que nos va a gustar y sobre la que haremos clic. Este fenómeno se conoce
+como “cámara de eco” y hace referencia a que las tecnológicas nos ofrecen la información que
+refuerza nuestras creencias.
+Debemos ser responsables sobre nuestro comportamiento digital.
+Sí, y debemos asumir que, aunque Facebook actuara de otra manera, hay algo en nuestra condición
+humana que nos empuja a tener ese comportamiento. Es más fácil moverse en un contexto que nos
+resulta cómodo que en uno que nos es hostil. Nosotros mismos compartimos cosas en Facebook
+porque nos gustaría que fueran verdad, no porqué lo sean. La tecnología facilita ese tipo de
+comportamiento.
+Nosotros mismos compartimos cosas en Facebook porque nos gustaría que fueran verdad, no porqué
+lo sean”.
+Los medios de comunicación también buscan influir en los ciudadanos con determinados
+contenidos….
+Resumen de Prensa
+20/12/2018 18:32
+página 80/105
+Los medios tradicionales, a través del gatekeeper, el periodista que filtraba y jerarquizaba la
+información, mantenía a raya las voces más extremas. Los algoritmos de las redes sociales, sin
+embargo, han amplificado estas voces. Además, una de las cosas más preocupantes de las
+tecnológicas es que tienen mucho poder, pero ninguna responsabilidad. Se esconden bajo una
+apariencia de neutralidad a pesar de tener una fuerte influencia en las democracias actuales.
+Usted asegura que el sistema judicial estadounidense se basa en los algoritmos para calificar a los
+delincuentes y dictaminar condenas. ¿Qué consecuencias tienen los programas predictivos en el
+sistema judicial?.
+Los programas predictivos de delitos son la última moda en los departamentos policiales de los
+Estados Unidos. Estos programas procesan los datos históricos de delincuencia de una ciudad y
+realizan un cálculo para determinar los días y las horas en las que es más probable que se cometa un
+delito. Con presupuestos bajo mínimos en todo el país, los departamentos de policía patrullan los
+cuadrantes identificados como peligrosos en cada momento y publican índices de delincuencia a la
+baja. Las faltas leves son endémicas en muchos barrios empobrecidos. Este tipo de sistemas ponen el
+foco determinados delitos e invisibilizan otros, generando un mapa de la delincuencia que en realidad
+traza el rastro de la pobreza.
+Se crea un bucle de retroalimentación pernicioso.
+Sí, y las cárceles se llenan de pobres de color. En los Estados Unidos las condenas de cárcel impuestas
+a hombres de color son un 20% más largas que las impuestas a hombres blancos por delitos
+similares. Podríamos pensar que la utilización de modelos informatizados debería reducir la influencia
+de los prejuicios en las condenas y que contribuiría a que el trato sea imparcial. Esa es la esperanza
+que ha impulsado a más de una veintena de estados del país a recurrir a los llamados modelos de
+reincidencia, que ayudan a los jueces a evaluar el peligro que representa cada individuo.
+Un estudiante de gradose le negó un trabajo en un supermercado porque anteriormente había sido
+tratado en un hospital por trastorno bipolar”.
+Uno de los modelos más populares incluye algunas preguntas que es fácil imaginar que los reclusos de
+origen privilegiado contestarán de una manera y los de los barrios pobres de otra. Por ejemplo,
+cuestiones acerca de “la primera vez que tuvo trato con la policía” o si amigos y familiares tienen
+antecedentes penales. Las bases de datos que construyen los policías son incompletas y contienen
+sesgos que no favorecen a las minorías.
+¿Y los jueces toman decisiones en función de esas bases de datos?.
+En algunos estados, estos datos se utilizan únicamente para identificar a los reclusos con puntuaciones
+de alto riesgo para incluirlos en programas de prevención de reincidencia. Aunque en otros, sirven
+para decidir condenas.
+¿Cuál es el papel de los algoritmos en los procesos de selección de empleo?.
+Cada vez más empresas utilizan algoritmos para la selección de personal. Puede ocurrir que un
+candidato sea descartado por los datos que hay en la red sobre él. Kyle Behm, por ejemplo, es un
+estudiante de grado al que se le negó un trabajo en un supermercado basándose en unos datos que
+la empresa recogió de él en una prueba de personalidad. Fue descartado porque anteriormente había
+sido tratado en un hospital por trastorno bipolar. Su caso podría representar una violación de la ley
+estadounidense de discapacidades y está pendiente de juicio.
+La semana pasada Amazon reconocía que un algoritmo interno utilizado para promover a sus
+trabajadores tenía sesgo por razones de género.
+Resumen de Prensa
+20/12/2018 18:32
+página 81/105
+Sí, Amazon ha hecho algo que muy pocas compañías hacen: auditar sus propios algoritmos. En este
+proceso descubrieron que uno de ellos perpetuaba el sesgo de la industria tecnológica contra las
+mujeres. Una universidad de mujeres en la sección de educación de un currículum era un demérito
+automático. Por contra, la presencia de vocabulario típicamente masculino, como “ejecutivo”, era un
+punto a favor. Lo que hace destacable el caso de Amazon es que descubrió el sesgo y decidió no usar
+el algoritmo. Eso es mucho más de lo que la mayoría de las empresas pueden decir.
+el análisis de datos se pone al servicio de la máxima optimización de la empresa al mismo tiempo que
+descuida la salud y la conciliación del trabajador”.
+En el terreno laboral, alerta también sobre el clopening. ¿De qué se trata?.
+Es un nuevo verbo que han inventado las grandes corporaciones en Estados Unidos y viene de close,
+cerrar, y open, abrir. Cada vez es más habitual que los trabajadores con salarios bajos en empresas
+como Starbucks y McDonald’s tengan horarios irregulares como resultado de la economía de datos. El
+big data permite conocer los días de más actividad de una tienda e incluso las horas de mayor
+afluencia de clientes, y el análisis de datos se pone al servicio de la máxima optimización de la
+empresa al mismo tiempo que descuida la salud y la conciliación del trabajador que conoce los turnos
+casi sin previo aviso. El clopening es lo que hace un empleado que trabaja hasta el cierre por la noche
+en una tienda y vuelve unas horas más tarde, antes del amanecer, para abrir.
+¿El problema está en los algoritmos o en los matemáticos e ingenieros que los diseñan?.
+El problema radica en las personas que los diseñan, sin duda. Y la mayoría de ellos cumplen un mismo
+prototipo: son hombres blancos de mediana edad que se han formado en universidades de élite de
+los Estados Unidos.
+¿La solución pasa por educar a los futuros matemáticos e ingenieros para que no introduzcan tales
+sesgos en sus modelos matemáticos?.
+Sí, pero en Silicon Valley no interesa este discurso. Las grandes empresas tratan de fingir que tales
+problemas no existen, incluso cuando se duplican y triplican los algoritmos de reclutamiento, despido
+u otros recursos humanos, e incluso cuando venden o implementan algoritmos de crédito, seguros y
+publicidad. Las universidades tampoco están ofreciendo respuestas. La tecnología va demasiado
+rápido. La ética debería aplicarse en universidades y empresas, pero eso es algo que no se hace.
+Este año hemos visto al fundador de Facebook, Mark Zuckerberg, mentir de manera descarada en el
+congreso de los Estados Unidos”.
+En los últimos años hemos visto que ingenieros de Facebook y Google han abandonado sus lugares de
+trabajo porque no estaban de acuerdo con los productos que estaban diseñando e implementando, y
+han fundado sus propias compañías. ¿Ve ahí algo de esperanza?.
+Está bien que empecemos a ser conscientes de los riesgos de cuantificarlo todo, pero soy escéptica
+con estos objetores de conciencia de Silicon Valley. Los trabajadores de Google también han alzado la
+voz por la participación de la empresa en un programa del Pentágono que utiliza la inteligencia
+artificial para interpretar mejor las imágenes captadas por drones que se utilizan en las guerras. El
+poder de estas personas y sus proyectos no es comparable, de momento, al de los gigantes
+tecnológicos.
+¿Y qué hay sobre la regulación? ¿Hace falta crear nuevas normas o sería suficiente con aplicar las que
+hay?.
+Sería suficiente con aplicar la legislación existente, pero tampoco se hace. Las grandes corporaciones
+Resumen de Prensa
+20/12/2018 18:32
+página 82/105
+prefieren mirar hacia otro lado y negar los problemas. Este año hemos visto al fundador de Facebook,
+Mark Zuckerberg, mentir de manera descarada en el congreso de los Estados Unidos. Confío en que
+más casos como los de Facebook, Amazon o Google harán que legisladores y periodistas aten cabos
+acerca de lo que está pasando. Pero las matemáticas asustan porque se desconocen. Y por ello se les
+otorgan poderes mágicos. Es crucial entender que, bajo la apariencia de neutralidad de los algoritmos,
+hay decisiones morales que perpetúan y aumentan las desigualdades sociales.
+¿Cómo imagina el futuro si no tomamos medidas para frenar el discurso del solucionismo
+tecnológico?.
+Podemos mirar a China para saber lo que vendrá. China utiliza el big data para conceder o denegar
+préstamos, pero también para puntuar a las personas en función de su ideología. Allí está surgiendo
+un complejo sistema de control y vigilancia que podría exportarse internacionalmente. China se
+encuentra en medio de una revolución digital y ya ha dejado claro que se trata de una prioridad
+estratégica nacional.
+Medio: La Vanguardia - Tecnología Fecha: 04/11/2018 (06:00:00)
+Términos: tecnología
+

@@ -1,0 +1,74 @@
+﻿
+iPad Pro: el primer paso hacia la era post PC.
+El iPad Pro 2018 representa un salto incremental en las capacidades de la tableta más potente de
+Apple. Ya no es sólo una tableta con esteroides. Es mucho más. Supera en potencia, según Apple, al
+92% de los ordenadores portátiles que existen, incluidos modelos actuales de su propia gama, como el
+MacBook Pro de 13 pulgadas con procesador i7. ¿Significa esto que entramos en la era post PC que
+auguró Steve Jobs con el primer iPad (2010)? Probablemente al PC le queda mucha vida, pero el nuevo
+dispositivo de la compañía de la manzana abre una nueva vía alternativa que parece imparable.
+El nuevo iPad Pro llega en dos versiones, de 11 y de 12,9 pulgadas. El primero reemplaza al de 10.5,
+con el mismo tamaño al reducirse los marcos, y el segundo mantiene las dimensiones de la pantalla
+pero reduce su tamaño y peso. El enmarcado se ha estrechado mucho y la pantalla es un LCD similar
+al del iPhone XR llamada Liquid Retina con las tecnologías más avanzadas de reproducción de
+imágenes en color. En los bordes laterales hay cuatro altavoces y cinco micrófonos.
+El diseño del nuevo iPad Pro es muy diferente de versiones anteriores. Más estilizado, con filos de
+aluminio planos y marcos muy estrechos. Fiel al diseño minimalista marca de la casa, sólo hay el único
+conector disponible, un USB-C que reemplaza al conector propio Lightning, y que abre a la tableta la
+posibilidad de ser usada con muchos otros dispositivos, como cámaras, micrófonos o altavoces, o
+simplemente para cargar el teléfono. Con la llegada del USB-C, que representa un avance para darle al
+iPad el salto definitivo al mundo profesional, Apple se queda corta, al no habilitar la conexión a
+sistemas de almacenamiento externos, como lápices de memoria o discos duros que puedan ser
+manejados a partir de la aplicación de archivos de iOS. La conexión de una cámara o una tarjeta, abre
+la importación de fotos en la aplicación Fotos, pero debería ofrecer la posibilidad también de entrar de
+forma directa en otras apps de edición fotográfica.
+En la parte exterior también desaparece el conector jack de auriculares, como sucedió hace unos años
+Resumen de Prensa
+20/12/2018 18:32
+página 63/105
+en el iPhone, un movimiento que han seguido otras marcas en sus móviles y que deja disgusta a
+muchos usuarios: de esta forma es imposible, por ejemplo, cargar la tableta y escuchar música o
+seguir el audio de un vídeo al mismo tiempo con unos auriculares de cable. La alternativa que se
+apunta en el futuro es la adquisición de auriculares inalámbricos.
+Si el exterior resulta un excepcional ejercicio de diseño, el interior tiene lo que ha dejado a los
+especialistas en tecnología sin adjetivos: el nuevo procesador A12X Bionic, una versión más potente
+todavía de la que llevan los nuevos iPhone XS y XR. Este es el elemento definitivo para que alguien se
+pueda plantear seriamente si el iPad Pro puede ser su ordenador definitivo. Para despejar dudas,
+Adobe ha anunciado que en el próximo año lanzará una versión completa de Photoshop.
+Pese a esta importante novedad de Adobe, el software es la asignatura pendiente del iPad para
+conseguir que muchos profesionales se pasen de un ordenador a esta tableta de prestaciones tan
+brillantes. El A12X Bionic supera en los bancos de prueba de desempeño multinúcleo a ordenadores
+con el procesador Intel Core i7. El iPad Pro ejecuta tareas exigentes con una soltura asombrosa. El chip
+de Apple tiene un motor neural multinúcleo que realiza hasta 5 billones de operaciones por segundo.
+Es potencia en estado puro.
+El iPad Pro también cambia el sistema de identificación de huellas dactilares TouchID por el de los
+iPhone, FaceID. Para ello incorpora el sofisticado sistema de escaneado facial en 3D de los móviles
+(TrueDepth) que, en este caso funciona incluso mejor, ya que lee la cara tanto en posición vertical
+como horizontal y admite un amplio ánguilo lateral, sin necesidad de que el usuario se coloque justo
+enfrente de la pantalla.
+El sistema TrueDepht permite que el iPad Pro incorpore el modo retrato de los iPhone, así como los
+emojis animados (Memoji) y el FaceTime en grupo. Lo hace sólo con la cámara delantera, de 7
+megapíxeles. La cámara trasera, de 12 megapíxeles, es muy luminosa, Sus capturas pueden suplir
+perfectamente a las del teléfono y en esto se ve la intención de Apple de intentar convencer sobre el
+carácter profesional de su tableta.
+Como complemento esencial, el iPad Pro llega con un nuevo Pencil más preciso y rápido que la
+primera versión y que se carga de forma inalámbrica, basta con dejarlo pegado en uno de los lados del
+iPad, al que se adhiere de forma magnética. El lápiz ha añadido gestos a partir de un doble toque en
+uno de sus costados. Cuesta 135 euros aparte del precio de la tableta.
+El iPad Pro representa un gran salto de Apple en la búsqueda de esa alternativa verdaderamente
+profesional al PC clásico. Prueba de ello es que el almacenamiento interno llega ya hasta 1 Terabyte,
+mucho más de lo que ofrecen los discos duros de muchos de esos ordenadores. Aunque para muchos
+usuarios todavía no sea una opción, todo queda ya en el lado más sencillo de la ecuación: software.
+Apple debe resolver cuestiones como la gestión de archivos externos y lograr que buena parte de los
+programas profesionales tengan su versión completa para su tableta. La máquina, ya la tiene.
+El iPad Pro de 11 pulgadas parte de 879 euros y el de 12 pulgadas de 1.099. Hay muchos ordenadores
+más baratos, pero la experiencia de manejo no es la misma. La portabilidad, la versatilidad y la
+sencillez de uso también cuentan. Hay otros intangibles, como la utilización de tecnologías novedosas
+como la Realidad Aumentada, todavía demasiado incipiente aunque asombrosa en el ecosistema iOS.
+El futuro dirá si esta tableta marca un cambio de rumbo. Muchas diferencias formales con los PC ya las
+ha superado.
+Medio: ABC - Conocer Tecnología Fecha: 09/11/2018 (15:09:57)
+Términos: tecnología
+Resumen de Prensa
+20/12/2018 18:32
+página 64/105
+

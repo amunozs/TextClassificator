@@ -1,0 +1,52 @@
+﻿
+El presidente de Microsoft pide regular el reconocimiento facial.
+Una de cal y otra de arena. El presidente de Microsoft, Brad Smith, lanzó ayer serias advertencias
+sobre las consecuencias de la falta de regulación de las tecnologías de reconocimiento facial y reclamó
+soluciones “antes de que nos despertemos y descubramos que el año 2024 se parece al libro 1984”. La
+intervención del alto directivo en la conferencia Web Summit, en Lisboa contra la falta de control de
+estos sistemas de identificación, coincidió con una defensa en el blog de la compañía de la venta de
+tecnología, no relacionada con estos usos, a las fuerzas armadas de Estados Unidos, una decisión que
+rechazan una parte de los empleados de la multinacional de software.
+Brad Smith no se refería a los sistemas de reconocimiento facial que utilizan los teléfonos –en los que
+la información se gestiona siempre dentro de un chip seguro dentro del propio dispositivo, sin
+comunicación con el exterior–, sino a la identificación que se puede hacer mediante cámaras en todas
+partes. “Por primera vez –observó–, el mundo está en el umbral de la tecnología que le daría a un
+gobierno la capacidad de seguir a cualquiera en cualquier lugar, y a todos en cualquier lugar. Podría
+saber exactamente dónde vas, dónde has estado y dónde estuviste ayer también. Y esto tiene
+profundas ramificaciones potenciales, incluso para las libertades civiles fundamentales de las que
+dependen las sociedades democráticas”.
+Smith, cuya compañía también dispone de sus propios sistemas de reconocimiento facial, reclama que
+“averigüemos qué tipo de mundo queremos crear, y cuáles son las salvaguardias y cuáles son las
+limitaciones tanto de las empresas como de los gobiernos para el uso de esta tecnología”.
+Brad Smith defiende, sin embargo, la venta de otras tecnologías a las fuerzas armadas de EE.UU. El
+discurso de Smith alude a un futuro inquietante en el que todos estemos controlados por alguien de
+forma permanente: “Imagínense un gobierno rastreando por todas partes dónde caminó usted
+durante el último mes, sin su permiso o conocimiento. Imagínense una base de datos de todos los que
+asistieron a un mitin político, que constituye la esencia misma de la libertad de expresión. Imagine las
+tiendas de un centro comercial que utilicen el reconocimiento facial para compartir información entre
+sí sobre cada estante que visita y el producto que compra, sin preguntarle primero”.
+El directivo de Microsoft señaló que “esto ha sido durante mucho tiempo materia de ciencia ficción y
+de películas populares –como Minority Report, Enemigo público e incluso 1984– pero ahora está a
+punto de hacerse posible”.
+Por ello, propuso regular de forma legal qué situaciones pueden ser susceptibles de aplicar el
+Resumen de Prensa
+20/12/2018 18:32
+página 62/105
+reconocimiento facial y determinar en cuáles no.
+Microsoft ha estado envuelta en una polémica en las últimas semanas por su relación con las fuerzas
+armadas de Estados Unidos, a la que vende tecnología. A principios de año, cientos de trabajadores de
+Microsoft firmaron una petición contra un contrato de la compañía con el Servicio de Inmigración y
+Control de Aduanas de Estados Unidos del que Microsoft apuntó inicialmente que incluía algún
+software de inteligencia artificial.
+“Queremos que la gente de este país, y especialmente la gente que sirve a este país, sepa que en
+Microsoft les respaldamos. Tendrán acceso a la mejor tecnología que creemos”, indicó Smith. “Al
+mismo tiempo –admitió–, apreciamos que la tecnología esté creando nuevas cuestiones éticas y de
+política que el país necesita abordar de una manera reflexiva y sabia. Por eso es importante que nos
+comprometamos como empresa en el diálogo público sobre estos temas”.
+Smith reconoció que no todos los empleados de Microsoft comparten los puntos de vista de la
+empresa, y consideró que eso es correcto. Aseguró también que la compañía de Redmond respeta “el
+hecho de que algunos empleados trabajen o puedan ser ciudadanos de otros países y no quieran
+trabajar en ciertos proyectos”.
+Medio: La Vanguardia - Tecnología Fecha: 09/11/2018 (21:00:00)
+Términos: tecnología
+

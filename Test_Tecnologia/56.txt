@@ -1,0 +1,28 @@
+﻿
+China crea un presentador de televisión con Inteligencia Artificial.
+La agencia estatal china Xinhua ha incorporado un presentador de noticias virtual basado en
+Inteligencia Artificial (IA) y aprendizaje automático a su equipo de trabajo, el cual es capaz de leer
+textos de la misma forma que un periodista humano, con la apariencia, expresiones faciales y voz de
+una persona real.
+El presentador de noticias virtual ha sido presentado en la quinta Conferencia Mundial de Internet que
+se celebra en la ciudad de Wuzhen (China) entre el 7 y el 9 de noviembre, según ha informado la
+agencia estatal de noticias Xinhua, desarrolladora de la iniciativa.
+La voz del presentador se ha modelado a partir de la voz de un presentador real, y es capaz de
+«aprender de vídeos transmitidos en directo por sí mismo», ha resaltado la agencia, además de leer
+textos «tan naturalmente como un presentador de noticias profesional», debido a la tecnología de
+aprendizaje automático, como explican en South China Morning Post.
+El presentador virtual «se ha convertido en un miembro del equipo de informes de la agencia de
+noticias Xinhua», ha explicado la agencia al medio citado, donde ofrece «información acreditada,
+oportuna y precisa tanto en chino como inglés».
+Para Xinhua, la aplicación de la tecnología de Inteligencia Artificial tiene «perspectivas interminables» y
+según recoge el medio citado, ya que permitirá crear rápidamente informes de noticias de última hora
+con el objetivo de mejorar tanto la calidad como la puntualidad de esos escritos.
+El presentador de noticias virtual ha sido desarrollado de forma conjunta por la agencia Xinhua en
+colaboración con la empresa propietaria del motor de búsqueda chino Sougou, que también trabaja
+con inteligencia artificial.
+South China Morning Post ha informado de que los presentadores virtuales ya se encuentran
+disponibles en las plataformas móviles y de Internet de Xinhua, así como en su página web de
+televisión online y en la cuenta pública del servicio de mensajería móvil WeChat.
+Medio: La Vanguardia - Tecnología Fecha: 09/11/2018 (09:59:25)
+Términos: tecnología
+

@@ -1,0 +1,43 @@
+﻿
+Telxius monitorizará sus torres de telecomunicaciones con Sigfox.
+Sigfox, proveedor de conectividad para Internet de las cosas, y Telxius, el proveedor global de
+infraestructuras de telecomunicaciones de Telefónica, desarrollarán conjuntamente un sistema de
+monitorización para torres de telefonía móvil. El objetivo es realizar un seguimiento constante y en
+tiempo real de la calidad de servicio y la seguridad de las torres de telecomunicaciones a través del
+servicio de conectividad Sigfox. La red de Telxius, con cerca de 16.500 torres de telecomunicaciones en
+seis países (España, Alemania, Brasil, Chile, Perú y Argentina), es una de las más extensas del mundo.
+“Las torres de telefonía móvil son componentes de infraestructura críticos que requieren una
+Resumen de Prensa
+20/12/2018 18:32
+página 57/105
+monitorización constante de la calidad de servicio y de la seguridad. Sigfox proporciona datos en
+tiempo real de una manera particularmente eficiente en cuanto a coste y energía, proporcionando así
+manera información importante para la toma de decisiones de Telxius, que puede usarla para
+aumentar la seguridad y la calidad del servicio de su red europea de torres”, señala Vincent Sabot, CEO
+de Sigfox Germany.
+Mediante la red LPWAN (Low Power Wide Area Network) de Sigfox, cualquier modificación en la red
+podrá almacenarse en un entorno cloud centralizado (independiente de sistemas y canales onpremise)
+para iniciar medidas de emergencia y órdenes de mantenimiento y reparación desde la
+propia nube.
+"Monitorizar nuestras infraestructuras de manera eficiente es muy importante para nosotros", explica
+Manfred Kickartz, director general de Telxius Towers Alemania. "Sigfox es una tecnología de
+conectividad IoT que reduce significativamente el coste y el consumo energético de las aplicaciones
+M2M y telemáticas en comparación con alternativas de comunicación anteriores".
+Las señales de Sigfox tienen un mayor alcance que los dispositivos móviles por lo que, si una torre
+falla, pueden cubrir la distancia entre varias torres; asimismo, dichas señales son significativamente
+más resistentes a las interferencias de radio. Por otro lado, el sistema de sensores de la compañía
+posee una fuente de alimentación autónoma y no requiere ninguna modificación en la infraestructura
+existente, por lo que es fácil de instalar y muy eficiente.
+La supervisión exhaustiva de la calidad del servicio y la seguridad de las torres de telefonía móvil
+requiere una gran cantidad de sensores: de humo, temperatura y humedad para la protección física
+de la infraestructura; de llave, bloqueo y aceleración, así como otros sistemas de detección de intrusos
+para detectar entradas no planificadas y vandalismo; y de voltaje para vigilar la calidad del servicio de
+las torres de telefonía móvil. En el futuro, también se desplegarán sensores de movimiento altamente
+sensibles para detectar los indicadores de torsión potencial de la torre, ya que la rigidez torsional de la
+instalación es esencial para garantizar la calidad del servicio de las torres de telefonía. En ocasiones,
+las antenas direccionales de la red de telecomunicaciones deben transmitir datos a lo largo de 30 a 60
+kilómetros, hasta la siguiente torre. Si la señal original se desvía 1 grado, la precisión del objetivo y el
+rango de la señal disminuyen significativamente.
+Medio: Europa Press - Innovación C. Valenciana Fecha: 11/11/2018 (12:14:48)
+Términos: tecnología
+

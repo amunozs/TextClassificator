@@ -1,0 +1,63 @@
+﻿
+Así es el móvil plegable de Samsung.
+No ha habido «smartphone» plegable pero sí las bases de su futuro. Samsung ha presentado este
+miércoles sus novedades en la conferencia anual de desarrolladores (SDC 2018), que se celebra en San
+Francisco (Estados Unidos). Y ha dejado clara una cosa: su apuesta es el asistente virtual Bixby.
+«La pantalla plegable sienta las bases para una nueva forma de experiencia móvil. Estamos
+entusiasmados de trabajar con los desarrolladores en esta nueva plataforma y crear valor a nuestros
+clientes. Estamos impacientes por ver qué nos depara esta tecnología y los frutos de la colaboración
+que estamos creando», ha declarado DJ Koh, Presidente y CEO de IT & Mobile Communications
+Division, Samsung Electronics. Y es que la compañía ha presentado Infinity Flex Display: la interfaz
+para que un «smartphone» compacto se despliegue, apareciendo una pantalla envolvente de mayor
+tamaño para realizar múltiples tareas y visualizar el contenido.
+Resumen de Prensa
+20/12/2018 18:32
+página 71/105
+Infinity Flex Display junto con One UI, un nuevo diseño intuitivo de interfaz, ofrece un nuevo tipo de
+experiencia en el móvil que permite a los usuarios hacer cosas que no podrían hacer con un
+«smartphone» convencional. Además, Infinity Flex Display podrá ser integrada por los desarrolladores
+directamente en su «app». La experiencia con las aplicaciones permitirá una transición fluida de la
+pantalla pequeña a la pantalla grande al desplegarse el dispositivo. Los usuarios pueden navegar,
+visualizar contenidos, conectarse y realizar tareas de forma simultánea sin quedarse atrás, usando tres
+aplicaciones activas simultáneamente en la pantalla grande.
+Este dispositivo aúna la tecnología AMOLED, que ofrece paneles flexibles y resistentes, con avances de
+diseño como el lateral «edge» y la pantalla infinita. Como ha informado la compañía durante la
+conferencia de desarrolladores, la producción masiva de este nuevo dispositivo comenzará en los
+próximos meses.
+Dado que Infinity Flex Display es la plataforma de nueva generación, Samsung invita a los
+desarrolladores a participar en este viaje desde el principio. Trabajando en conjunto con la comunidad
+de desarrolladores de Google y Android, Samsung maximizará el potencial de este nuevo formato
+para crear una experiencia de usuario plegable optimizada.
+«Hemos realizado avances significativos en Inteligencia Artificial e IoT, que serán cruciales para hacer
+realidad nuestra visión de vida conectada», ha declarado DJ Koh. «El trabajo que hemos realizado con
+Bixby y con SmartThings abre un nuevo capítulo donde productos y servicios de terceros podrán ser
+integrados en nuestra plataforma de IA e IoT a escala».
+Apertura de Bixby La compañía ha repasado los avances que ha cosechado en el último año en
+conectividad y soluciones inteligentes, desde que anunció la unificación de sus servicios IoT en una
+plataforma, SmartThings Cloud y presentara la versión 2.0 de Bixby.
+Así, el fabricante ha anunciado la apertura de Bixby a los desarrolladores. El responsable de Software
+e Inteligencia Artificial, Eui-Suk Chung, ha introducido la visión de la compañía con su asistente.
+Asimismo, Samsung ha extendido el soporte de Bixby a más dispositivos, tanto de la compañía
+surcoreana como de terceros, como parte de su idea de ecosistema abierto, y ha anunciado el soporte
+para otros cinco idiomas: español, alemán, francés, italiano e inglés.
+Como parte de la apertura de Bixby, la compañía ha anunciado Bixby Developer Studio, un conjunto
+de herramientas para Windows o Mac con las que los desarrolladores podrán trabajar para crear
+nuevas experiencias para el futuro «marketplace» de Bixby.
+Estas herramientas estarán disponibles dentro de la nueva plataforma Bixby Developer Center y se
+basará en el trabajo conjunto de un desarrollador humano y la inteligencia artificial.
+La plataforma IoT de Samsung, Smarthings, conecta en la actualidad decenas de millones de
+dispositivos en todo el mundo, como ha informado la vicepresidenta de Ingeniería, Jaeyeon Jung. Este
+año, la compañía ha adelantado las mejoras en conectividad en el automóvil a través de la «app»
+SmarThings.
+El hogar «sigue siendo crítico» para el ecosistema inteligente de Samsung. La compañía ha mostrado
+SmarThings Button, un dispositivo de pequeño tamaño que activa distintas acciones, como encender el
+televisor o apagar las luces.
+El altavoz inteligente de la compañía, Galaxy Home, contará con soporte para el servicio Spotify. Junto
+con Bixby, ha sido diseñado para ser el centro de la gestión de los dispositivos inteligentes del hogar.
+La compañía ha anunciado también el primer televisor inteligente con Bixby integrado.
+Resumen de Prensa
+20/12/2018 18:32
+página 72/105
+Medio: Europa Press - Innovación C. Valenciana Fecha: 06/11/2018 (13:54:35)
+Términos: tecnología
+
