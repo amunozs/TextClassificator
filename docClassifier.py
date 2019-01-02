@@ -141,20 +141,18 @@ def classify(dictionary, tfidf, index_sim, test_docs, num_docs, folders):
 		f.close()
 	return cdocs
 
-def test(dictionary, tfidf, index_sim, test_docs, category):
+def test(dictionary, tfidf, index_sim, test_docs, category, folders):
 	num_docs = 170
 	ok = 0
-	nok = 0
-	folders = ["results\\deportes", "results\\politica", "results\\Tecnologia"]
+	total = 0
 	cdocs = classify(dictionary, tfidf, index_sim, test_docs, num_docs,folders)
 	for cdoc in cdocs:
 		ranking = sorted(enumerate(cdoc), key=itemgetter(1), reverse=True)
 		if (ranking[0][0] == category):
 			ok += 1
-		else:
-			nok += 1
+		total += 1
 
-	return ok/(ok+nok)
+	return ok/total
 
 glossary = read_glossary('./Glosario/')
 
@@ -169,11 +167,12 @@ test_tecnologia = read_texts('./Test_Tecnologia/')
 
 dictionary, tfidf, index_sim = train(corpus, glossary)
 
-acc_dep = test(dictionary, tfidf, index_sim, test_deportes, 0)
+result_folders = ["results\\deportes", "results\\politica", "results\\Tecnologia"]
+acc_dep = test(dictionary, tfidf, index_sim, test_deportes, 0, result_folders)
 print("Precisión Deportes: ", acc_dep)
 
-acc_pol = test(dictionary, tfidf, index_sim, test_politica, 1)
+acc_pol = test(dictionary, tfidf, index_sim, test_politica, 1, result_folders)
 print("Precisión Política: ", acc_pol)
 
-acc_tec = test(dictionary, tfidf, index_sim, test_tecnologia, 2)
+acc_tec = test(dictionary, tfidf, index_sim, test_tecnologia, 2, result_folders)
 print("Precisión Tecnología: ", acc_tec)
