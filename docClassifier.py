@@ -4,6 +4,7 @@ from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 from nltk.stem import SnowballStemmer
 import warnings
+import os
 warnings.filterwarnings(action='ignore', category=FutureWarning, module='gensim')
 
 from gensim import corpora, models, similarities
@@ -106,26 +107,54 @@ def train(corpus, glossary):
     #print("SIM CON VEC POLITICA ", cosine_similarity(vq,politics_vector))
     #print("SIM CON VEC tecnologia ", cosine_similarity(vq,health_vector))
 
-def test(dictionary, tfidf, index_sim, test_docs, doc_index):
-	acc = 0
+def classifyDoc(doc, dictionary, tfidf, index_sim, num_docs):
+	pdoc = preprocess_document(doc)
+	vdoc = dictionary.doc2bow(pdoc)
+	doc_tfidf = tfidf[vdoc]
+	sim = index_sim[doc_tfidf]
+		
+	cdoc = []
+	cdoc.append(0)
+	category = 0
+	for doc, score in enumerate(sim):
+		if doc - category * num_docs >= num_docs:
+			category += 1
+			cdoc.append(0)
+
+		cdoc[category] += score/num_docs
+		
+	return cdoc
+
+def classify(dictionary, tfidf, index_sim, test_docs, num_docs, folders):
+	cdocs = []
 
 	for doc in test_docs:
-		pdoc = preprocess_document(doc)
-		vdoc = dictionary.doc2bow(pdoc)
-		doc_tfidf = tfidf[vdoc]
-		sim = index_sim[doc_tfidf]
-		ranking = sorted(enumerate(sim), key=itemgetter(1), reverse=True)
-		count = 0
-		K = 1
-		for doc, score in ranking[:K]:
-			if doc < doc_index and doc >= doc_index - 170:
-				count += 1
+		cdoc = classifyDoc(doc,dictionary, tfidf, index_sim, num_docs)
+		cdocs.append(cdoc)
+		ranking = sorted(enumerate(cdoc), key=itemgetter(1), reverse=True)
+		category = ranking[0][0]
+		filename = folders[category] + "\\" + str(ranking[0][1]) + ".txt" 
+		if not os.path.exists(folders[category]):
+			os.makedirs(folders[category])
+		f = open(filename,"wb+") 
+		f.write(doc.encode("utf-8"))
+		f.close()
+	return cdocs
 
-		if count >= 1:
-			acc +=1
-			#print (doc ," [ Score = " + "%.3f" % round(score,3) + "] " , corpus[doc])
+def test(dictionary, tfidf, index_sim, test_docs, category):
+	num_docs = 170
+	ok = 0
+	nok = 0
+	folders = ["results\\deportes", "results\\politica", "results\\Tecnologia"]
+	cdocs = classify(dictionary, tfidf, index_sim, test_docs, num_docs,folders)
+	for cdoc in cdocs:
+		ranking = sorted(enumerate(cdoc), key=itemgetter(1), reverse=True)
+		if (ranking[0][0] == category):
+			ok += 1
+		else:
+			nok += 1
 
-	return acc*100/len(test_docs)
+	return ok/(ok+nok)
 
 glossary = read_glossary('./Glosario/')
 
@@ -140,11 +169,11 @@ test_tecnologia = read_texts('./Test_Tecnologia/')
 
 dictionary, tfidf, index_sim = train(corpus, glossary)
 
-acc_dep = test(dictionary, tfidf, index_sim, test_deportes, 170)
+acc_dep = test(dictionary, tfidf, index_sim, test_deportes, 0)
 print("Precisión Deportes: ", acc_dep)
 
-acc_pol = test(dictionary, tfidf, index_sim, test_politica, 170*2)
+acc_pol = test(dictionary, tfidf, index_sim, test_politica, 1)
 print("Precisión Política: ", acc_pol)
 
-acc_tec = test(dictionary, tfidf, index_sim, test_tecnologia, 170*3)
+acc_tec = test(dictionary, tfidf, index_sim, test_tecnologia, 2)
 print("Precisión Tecnología: ", acc_tec)
