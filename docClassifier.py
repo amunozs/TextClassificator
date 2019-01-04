@@ -13,21 +13,24 @@ from sklearn.metrics.pairwise import cosine_similarity
 import csv
 import glob
 
-#sample_glossary = ["deportes", "futbol", "jugar", "política", "presidente", "España", "tecnologia", "medicina", "hospital"]
-
-sports_vector = [[1,1,1,0,0,0,0,0,0]]
-politics_vector = [[0,0,0,1,1,1,0,0,0]]
-health_vector = [[0,0,0,0,0,0,1,1,1]]
-
-# sports_vector = [(0,1), (1,1), (2,1)]
-
-# politics_vector = [(3,1), (4,1), (5,1)]
-# health_vector = [(6,1), (7,1), (8,1)]
-
-sample_test_deportes = 'Marcelo compareció en sala de prensa en la previa del duelo entre el Real Madrid y el Kashima Antlers, la segunda semifinal del Mundial de Clubes 2018 que se disputa en Abu Dabi.Mérito del Madrid: "Creo que el mérito es la unión que tenemos dentro del vestuario, el equipo lleva jugando mucho tiempo junto. Pero no se para aquí, tenemos hambre de ganar títulos, estamos en una competición corta".Nuevo reto: "No pienso en el individual, está por encima el colectivo, la unión. Somos una familia, muy amigos dentro y fuera del campo y se nota. Disputamos una competición muy corta pero que vale mucho". Mourinho: "Estoy aquí para hablar del Mundial de Clubes. Es una pena porque es un gran entrenador y ahora está sin club. No soy yo quien decide si vuelve pero le agradezco lo que hizo por mí en el Madrid".Situación de los jóvenes: "Cuando llegué al Madrid era muy joven y los que tenían experiencia me ayudaron a mí. Y nosotros con la edad que tenemos intentamos ayudar a los jóvenes. Ellos tienen que estar a gusto, trabajar y hacerlo todo para dejar al Madrid donde tiene que estar que es arriba".Habló de Isco: "Todos sabemos de la calidad, quizás el que más calidad que tiene. Se le esta dando mucha importancia a algo que no tiene mucho sentido. Algunos juegan más y otros menos. Los jugadores tenemos momentos. No hay que darle más vuelta. Está en el Real Madrid y no hace recuperarle".'
+SEP = "\\" # windows
+#SEP = "/" # unix
 
 
+# Crea el modelo TF-IDF a partir de un conjunto de documentos y su glosario
+def create_TF_IDF_model(corpus, glossary):
+	dictionary = create_dictionary(glossary)
+	vectors = docs2bows(corpus, dictionary)
+	tfidf = models.TfidfModel(vectors)
+	return tfidf, dictionary, vectors
 
+# Crea el diccionario a partir de un glosario de entrada
+def create_dictionary(glossary):
+	pdocs = [preprocess_document(doc) for doc in glossary]
+	dictionary = corpora.Dictionary(pdocs)
+	return dictionary
+
+# Preprocesa un texto: elimina stepwords, saca la raiz, tokeniza, y quita tokens cortos
 def preprocess_document(doc):
 	stopset = set(stopwords.words('spanish'))
 	stemmer = SnowballStemmer('spanish')
@@ -36,38 +39,13 @@ def preprocess_document(doc):
 	final = [stemmer.stem(word) for word in clean]
 	return final
 
-def create_dictionary(glossary):
-	pdocs = [preprocess_document(doc) for doc in glossary]
-	dictionary = corpora.Dictionary(pdocs)
-	#dictionary.save('/tmp/vsm.dict')
-	return dictionary
-
+# Convierte un corpus de textos a vectores de tipo Bag of Words según el diccionario
 def docs2bows(corpus, dictionary):
 	docs = [preprocess_document(d) for d in corpus]
 	vectors = [dictionary.doc2bow(doc) for doc in docs]
-	#corpora.MmCorpus.serialize('/tmp/vsm_docs.mm', vectors)
 	return vectors
-
-def create_TF_IDF_model(docs, glossary):
-	dictionary = create_dictionary(glossary)
-	vectors = docs2bows(docs, dictionary)
-	#loaded_corpus = corpora.MmCorpus('/tmp/vsm_docs.mm')
-	tfidf = models.TfidfModel(vectors)
-	return tfidf, dictionary, vectors
     
-
-# def launch_query(corpus, q):
-# 	tfidf, dictionary, vectors = create_TF_IDF_model(corpus)
-# 	index = similarities.MatrixSimilarity(vectors, num_features=len(dictionary))
-# 	pq = preprocess_document(q)
-# 	vq = dictionary.doc2bow(pq)
-# 	qtfidf = tfidf[vq]
-# 	sim = index[qtfidf]
-# 	ranking = sorted(enumerate(sim), key=itemgetter(1), reverse=True)
-# 	for doc, score in ranking:
-# 		print ("[ Score = " + "%.3f" % round(score,3) + "] " + corpus[doc]); 
-
-
+# Crea un glosario leyendo los archivos de un directorio
 def read_glossary(dir):
 	fns = glob.glob(dir+'*.csv')
 	glossary = []
@@ -77,6 +55,7 @@ def read_glossary(dir):
 			glossary += [row[0] for row in reader]
 	return glossary
 
+# Lee un corpus de documentos de un directorio
 def read_texts(dir):
 	fns = glob.glob(dir+'*.txt')
 	corpus = []
@@ -86,61 +65,15 @@ def read_texts(dir):
 			corpus.append(content)
 	return corpus
 
-def label_documents():
-    return
-
-
+# Entrada: un corpus de textos de entrenamiento y su glosario
+# Crea su diccionario, el modelo TF-IDF y la matriz de similaridad de coseno
 def train(corpus, glossary):
     tfidf, dictionary, vectors = create_TF_IDF_model(corpus, glossary)
-    #print(tfidf)
-    #print("DICCIONARIO: ", dictionary)
-    #print("VECTORES: ", vectors)
     index_sim = similarities.MatrixSimilarity(tfidf[vectors], num_features=len(dictionary))
     return dictionary, tfidf, index_sim
-    
-    #vq = [[0,1,1,0,0,0,0,0,1]]
-    #print("GLOSARIO EJEMPLO: ", glossary, "\n")
-    #print("DOCS TRAIN: ", sample_corpus, "\n")
-    #print("DOC TEST: ",sample_test_deportes , "\n")
-    #print("SIMILARIDAD CON CADA DOC:", sim, "\n")
-    #print("SIM CON VEC DEPORTES ", cosine_similarity(vq,sports_vector))
-    #print("SIM CON VEC POLITICA ", cosine_similarity(vq,politics_vector))
-    #print("SIM CON VEC tecnologia ", cosine_similarity(vq,health_vector))
-
-def classifyDoc(doc, dictionary, tfidf, index_sim, num_docs):
-	pdoc = preprocess_document(doc)
-	vdoc = dictionary.doc2bow(pdoc)
-	doc_tfidf = tfidf[vdoc]
-	sim = index_sim[doc_tfidf]
-		
-	cdoc = []
-	cdoc.append(0)
-	category = 0
-	for doc, score in enumerate(sim):
-		if doc - category * num_docs >= num_docs:
-			category += 1
-			cdoc.append(0)
-
-		cdoc[category] += score/num_docs
-		
-	return cdoc
-
-def classify(dictionary, tfidf, index_sim, test_docs, num_docs, folders):
-	cdocs = []
-
-	for doc in test_docs:
-		cdoc = classifyDoc(doc,dictionary, tfidf, index_sim, num_docs)
-		cdocs.append(cdoc)
-		ranking = sorted(enumerate(cdoc), key=itemgetter(1), reverse=True)
-		category = ranking[0][0]
-		filename = folders[category] + "\\" + str(ranking[0][1]) + ".txt" 
-		if not os.path.exists(folders[category]):
-			os.makedirs(folders[category])
-		f = open(filename,"wb+") 
-		f.write(doc.encode("utf-8"))
-		f.close()
-	return cdocs
-
+	
+# Entrada: lo obtenido en el entrenamiento
+# Clasifica los textos de test y devuelve la accuracy
 def test(dictionary, tfidf, index_sim, test_docs, category, folders):
 	num_docs = 170
 	ok = 0
@@ -154,25 +87,72 @@ def test(dictionary, tfidf, index_sim, test_docs, category, folders):
 
 	return ok/total
 
-glossary = read_glossary('./Glosario/')
+# Clasifica los textos en las 3 categorías, introduciéndolos en sus carpetas correspondientes
+def classify(dictionary, tfidf, index_sim, test_docs, num_docs, folders):
+	cdocs = []
 
-corpus_deportes = read_texts('./Deportes/')
-corpus_politica = read_texts('./Politica/')
-corpus_tecnologia = read_texts('./Tecnologia/')
-corpus = corpus_deportes + corpus_politica + corpus_tecnologia
+	for doc in test_docs:
+		cdoc = classifyDoc(doc,dictionary, tfidf, index_sim, num_docs)
+		cdocs.append(cdoc)
+		ranking = sorted(enumerate(cdoc), key=itemgetter(1), reverse=True)
+		category = ranking[0][0]
+		filename = folders[category] + SEP + str(ranking[0][1]) + ".txt" 
+		if not os.path.exists(folders[category]):
+			os.makedirs(folders[category])
+		f = open(filename,"wb+") 
+		f.write(doc.encode("utf-8"))
+		f.close()
+	return cdocs
 
-test_deportes = read_texts('./Test_Deportes/')
-test_politica = read_texts('./Test_Politica/')
-test_tecnologia = read_texts('./Test_Tecnologia/')
+# Clasifica un texto a una categoría
+# Deportes: 0
+# Política: 1
+# Tecnología: 2
+def classifyDoc(doc, dictionary, tfidf, index_sim, num_docs):
+	pdoc = preprocess_document(doc)
+	vdoc = dictionary.doc2bow(pdoc)
+	doc_tfidf = tfidf[vdoc]
+	sim = index_sim[doc_tfidf]
+		
+	cdoc = []
+	cdoc.append(0)
+	category = 0
+	for doc, score in enumerate(sim):
+		if doc - category * num_docs >= num_docs:
+			category += 1
+			cdoc.append(0)
+		cdoc[category] += score/num_docs
+		
+	return cdoc
 
-dictionary, tfidf, index_sim = train(corpus, glossary)
 
-result_folders = ["results\\deportes", "results\\politica", "results\\Tecnologia"]
-acc_dep = test(dictionary, tfidf, index_sim, test_deportes, 0, result_folders)
-print("Precisión Deportes: ", acc_dep)
+def main():
+	glossary = read_glossary('./Glosario/')
 
-acc_pol = test(dictionary, tfidf, index_sim, test_politica, 1, result_folders)
-print("Precisión Política: ", acc_pol)
+	corpus_deportes = read_texts('./Deportes/')
+	corpus_politica = read_texts('./Politica/')
+	corpus_tecnologia = read_texts('./Tecnologia/')
+	corpus = corpus_deportes + corpus_politica + corpus_tecnologia
 
-acc_tec = test(dictionary, tfidf, index_sim, test_tecnologia, 2, result_folders)
-print("Precisión Tecnología: ", acc_tec)
+	test_deportes = read_texts('./Test_Deportes/')
+	test_politica = read_texts('./Test_Politica/')
+	test_tecnologia = read_texts('./Test_Tecnologia/')
+
+	dictionary, tfidf, index_sim = train(corpus, glossary)
+
+	result_folders = ["results"+SEP+"deportes", "results"+SEP+"politica", "results"+SEP+"Tecnologia"]
+	acc_dep = test(dictionary, tfidf, index_sim, test_deportes, 0, result_folders)
+	print("Precisión Deportes: ", acc_dep)
+
+	acc_pol = test(dictionary, tfidf, index_sim, test_politica, 1, result_folders)
+	print("Precisión Política: ", acc_pol)
+
+	acc_tec = test(dictionary, tfidf, index_sim, test_tecnologia, 2, result_folders)
+	print("Precisión Tecnología: ", acc_tec)
+
+	acc_total = (acc_dep + acc_pol + acc_tec) / 3
+	print("Precisión total: ", acc_total)
+
+if __name__ == '__main__':
+	main()
+	
