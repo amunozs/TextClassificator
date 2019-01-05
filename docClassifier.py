@@ -9,13 +9,11 @@ warnings.filterwarnings(action='ignore', category=FutureWarning, module='gensim'
 
 from gensim import corpora, models, similarities
 from operator import itemgetter
-from sklearn.metrics.pairwise import cosine_similarity
 import csv
 import glob
 
-SEP = "\\" # windows
-#SEP = "/" # unix
-
+#SEP = "\\" # windows
+SEP = "/" # unix
 
 # Crea el modelo TF-IDF a partir de un conjunto de documentos y su glosario
 def create_TF_IDF_model(corpus, glossary):
@@ -74,25 +72,53 @@ def train(corpus, glossary):
 	
 # Entrada: lo obtenido en el entrenamiento
 # Clasifica los textos de test y devuelve la accuracy
-def test(dictionary, tfidf, index_sim, test_docs, category, folders):
-	num_docs = 170
-	ok = 0
-	total = 0
-	cdocs = classify(dictionary, tfidf, index_sim, test_docs, num_docs,folders)
-	for cdoc in cdocs:
-		ranking = sorted(enumerate(cdoc), key=itemgetter(1), reverse=True)
-		if (ranking[0][0] == category):
-			ok += 1
-		total += 1
+# def test(dictionary, tfidf, index_sim, test_docs, category, folders):
+# 	num_docs = 170
+# 	ok = 0
+# 	total = 0
+# 	cdocs = classify(dictionary, tfidf, index_sim, test_docs, num_docs,folders)
+# 	for cdoc in cdocs:
+# 		ranking = sorted(enumerate(cdoc), key=itemgetter(1), reverse=True)
+# 		if (ranking[0][0] == category):
+# 			ok += 1
+# 		total += 1
 
-	return ok/total
+# 	return ok/total
+
+def test(dictionary, tfidf, index_sim, test_docs, folders):
+	categories = [0,1,2]
+	tp = [0,0,0]
+	fp = [0,0,0]
+	fn = [0,0,0]
+
+	for category in categories:
+		cdocs = classify(dictionary, tfidf, index_sim, test_docs[category],folders)
+		for cdoc in cdocs:
+			ranking = sorted(enumerate(cdoc), key=itemgetter(1), reverse=True)
+			if (ranking[0][0] == category):
+				tp[category]+=1
+			else:
+				fn[category]+=1
+				fp[ranking[0][0]]+=1
+
+	precision = 0
+	recall = 0
+
+	for category in categories:
+		prec = tp[category]/(tp[category]+fp[category])
+		rec = tp[category]/(tp[category]+fn[category])
+		print("Precision ", category, ": ", prec)
+		print("Recall ", category, ": ", rec)
+		precision += prec
+		recall += rec
+
+	return precision/3, recall/3
 
 # Clasifica los textos en las 3 categorías, introduciéndolos en sus carpetas correspondientes
-def classify(dictionary, tfidf, index_sim, test_docs, num_docs, folders):
+def classify(dictionary, tfidf, index_sim, test_docs, folders):
 	cdocs = []
-
 	for doc in test_docs:
-		cdoc = classifyDoc(doc,dictionary, tfidf, index_sim, num_docs)
+		cdoc = classifyDoc(doc,dictionary, tfidf, index_sim)
 		cdocs.append(cdoc)
 		ranking = sorted(enumerate(cdoc), key=itemgetter(1), reverse=True)
 		category = ranking[0][0]
@@ -108,7 +134,8 @@ def classify(dictionary, tfidf, index_sim, test_docs, num_docs, folders):
 # Deportes: 0
 # Política: 1
 # Tecnología: 2
-def classifyDoc(doc, dictionary, tfidf, index_sim, num_docs):
+def classifyDoc(doc, dictionary, tfidf, index_sim):
+	num_docs = 170
 	pdoc = preprocess_document(doc)
 	vdoc = dictionary.doc2bow(pdoc)
 	doc_tfidf = tfidf[vdoc]
@@ -137,22 +164,32 @@ def main():
 	test_deportes = read_texts('./Test_Deportes/')
 	test_politica = read_texts('./Test_Politica/')
 	test_tecnologia = read_texts('./Test_Tecnologia/')
+	test_docs = [test_deportes, test_politica, test_tecnologia]
 
 	dictionary, tfidf, index_sim = train(corpus, glossary)
 
-	result_folders = ["results"+SEP+"deportes", "results"+SEP+"politica", "results"+SEP+"Tecnologia"]
-	acc_dep = test(dictionary, tfidf, index_sim, test_deportes, 0, result_folders)
-	print("Precisión Deportes: ", acc_dep)
+	result_folders = ["results"+SEP+"deportes", "results"+SEP+"politica", "results"+SEP+"tecnologia"]
 
-	acc_pol = test(dictionary, tfidf, index_sim, test_politica, 1, result_folders)
-	print("Precisión Política: ", acc_pol)
+	precision, recall = test(dictionary, tfidf, index_sim, test_docs, result_folders)
 
-	acc_tec = test(dictionary, tfidf, index_sim, test_tecnologia, 2, result_folders)
-	print("Precisión Tecnología: ", acc_tec)
+	print ("Total precision: ", precision)
+	print ("Total recall: ", recall)
+	
+	# acc_dep = test(dictionary, tfidf, index_sim, test_deportes, 0, result_folders)
+	# print("Precisión Deportes: ", acc_dep)
 
-	acc_total = (acc_dep + acc_pol + acc_tec) / 3
-	print("Precisión total: ", acc_total)
+	# acc_pol = test(dictionary, tfidf, index_sim, test_politica, 1, result_folders)
+	# print("Precisión Política: ", acc_pol)
+
+	# acc_tec = test(dictionary, tfidf, index_sim, test_tecnologia, 2, result_folders)
+	# print("Precisión Tecnología: ", acc_tec)
+
+	# acc_total = (acc_dep + acc_pol + acc_tec) / 3
+	# print("Precisión total: ", acc_total)
 
 if __name__ == '__main__':
 	main()
 	
+
+#precision = tp/(tp+fp)
+#recall = tp/(tp+fn)
