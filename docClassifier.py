@@ -154,21 +154,21 @@ def classifyDoc(doc, dictionary, tfidf, index_sim):
 
 
 def main():
-	glossary = read_glossary('./Glosario/')
+	glossary = read_glossary('./Glossary/')
 
-	corpus_deportes = read_texts('./Deportes/')
-	corpus_politica = read_texts('./Politica/')
-	corpus_tecnologia = read_texts('./Tecnologia/')
+	corpus_deportes = read_texts('./Train/Deportes/')
+	corpus_politica = read_texts('./Train/Politica/')
+	corpus_tecnologia = read_texts('./Train/Tecnologia/')
 	corpus = corpus_deportes + corpus_politica + corpus_tecnologia
 
-	test_deportes = read_texts('./Test_Deportes/')
-	test_politica = read_texts('./Test_Politica/')
-	test_tecnologia = read_texts('./Test_Tecnologia/')
+	test_deportes = read_texts('./Test/Deportes/')
+	test_politica = read_texts('./Test/Politica/')
+	test_tecnologia = read_texts('./Test/Tecnologia/')
 	test_docs = [test_deportes, test_politica, test_tecnologia]
 
 	dictionary, tfidf, index_sim = train(corpus, glossary)
 
-	result_folders = ["results"+SEP+"deportes", "results"+SEP+"politica", "results"+SEP+"tecnologia"]
+	result_folders = ["Results"+SEP+"Deportes", "Results"+SEP+"Politica", "Results"+SEP+"Tecnologia"]
 
 	precision, recall = test(dictionary, tfidf, index_sim, test_docs, result_folders)
 

@@ -1,0 +1,157 @@
+﻿
+De las smart city a las smart nation.
+La ciudad holandesa de Utrecht es un paraíso para ciclistas, que incluso pueden informarse en
+paneles electrónicos sobre el número de plazas libres en cada uno de los parkings para bicicletas.
+Singapur ya ha instalado una red de 500 sensores en las calles que monitorizan detalles como el
+consumo y los escapes de agua e incluso dispone de un sistema que detecta a los que se están
+ahogando en una piscina y avisa a los socorristas. La policía de Nueva York ya ha implementado un
+sistema para escuchar disparos en tiempo real. Y en Estocolmo ya circula, en un corto de recorrido de
+kilómetro y medio, el primer bus sin conductor, el Easy Mile EZ10, capaz de transportar a 11 pasajeros.
+Las ciudades inteligentes avanzan sin que, en muchos, casos, sus ciudadanos sean conscientes del
+todo de cómo la digitalización y el progreso tecnológico van aplicándose en pequeñas utilidades que
+van a determinar nuestras vidas en los próximos años. Esta semana Barcelona ha sido la capital
+mundial de las ciudades inteligentes con motivo del salón Smart City World Expo Congress, que ha
+certificado el viraje hacia las smart nation.
+Singapur guía el siguiente paso. Aprovechándose de su condición de ciudad-isla-estado, ha ampliado
+su foco al de smart nation, una nación inteligente. En el futuro el concepto de smart city quedará
+lastrado si no va acompañado de una smart nation en la que también tengan cabida la gestión a
+través de la Inteligencia Artificial, el Internet de las Cosas, la nube o la tecnología 5G de móvil.
+Una etiqueta única QR utilizable para los pagos de tasas y facturas de suministros, el pase SingPass
+Resumen de Prensa
+20/12/2018 18:32
+página 18/105
+Mobile para realizar los trámites administrativos de la ciudad o una red de transporte en las que las
+frecuencias de buses varían en función de los datos en tiempo real que se van procesando para saber
+en qué lugares hay que reforzar las rutas de autobuses. Son ejemplos de las ventajas que los
+ciudadanos de Singapur disfrutan ya, de un conjunto de soluciones urbanas que han influido en una
+mejora de los servicios públicos y que son un referente mundial, como atestigua el premio de Ciudad
+Inteligente 2018 que se le ha concedido en el Smart Ciy World Expo Congress de Barcelona.
+Las ventajas de las ciudades inteligentes a veces quedan enterradas entre el miedo a perder la
+privacidad de datos y el entramado de palabras de las tecnologías de la información, que apenas dejan
+ver el cambio que supone para los usuarios. Porque una smart city es simplemente una ciudad que
+utiliza la digitalización y las nuevas tecnologías para simplificar o mejorar la vida de sus residentes, de
+sus visitantes y de sus negocios.
+Por ejemplo, Singapur ya están ensayando una tecnología de ticket de transporte público sin manos
+que permite entrar y salir sin hacer colas ni pasar por taquilla y que carga los cargos pertinentes a una
+cuenta asociada. Parece un paso lógico y pequeño, pero que sería en España un gran avance en
+cercanías, donde Renfe aún dispone de un servicio de venta de billetes de tren que precisa de personal
+para explicar el funcionamiento a muchos usuarios que no consiguen adivinar cómo hacer la compra.
+De las muchas ideas que se han mostrado estos días en Barcelona hemos seleccionado las
+propuestas de seis ciudades que marcan el futuro en los ámbitos de la educación, la energía, el
+transporte, la movilidad, salud o vivienda.
+Del Hyperloop a Rashid.
+Dubai es un alumno aventajado de Singapur. “Lo que intentamos es que nuestra ciudad esté más
+orientada al ciudadano, hacer más feliz a la gente utilizando la tecnología”, dice Aisha Bin Bishr,
+directora general de Smart Dubai. Por eso, los residentes del emirato árabe ya pagan sus facturas e
+impuestos -desde las tasas municipales a las facturas telefónicas- con la tarjeta Dubai Now.
+Las propuestas para asentar Dubai como una smart city van desde el uso de una plataforma de
+negocios con todos los datos que precisen los inversores para decidir por qué barrio deben
+decantarse, a un asistente de inteligencia artificial, llamado Rashid en honor al fundador de Dubai, que
+es capaz de resolver cualquier duda que se tenga sobre la ciudad, o un programa de salud que
+informa del tiempo de espera en cualquier consulta médica.
+El caluroso emirato árabe está buscando soluciones inteligentes para solventar el gran problema de
+los atascos. Al contrario que en las ciudades europeas, donde la movilidad inteligente pasa también
+por la economía compartida y el uso de alternativas a los vehículos como las bicicletas o los patinetes
+eléctricos, Dubai centra su estrategia en el big data para recomendar las mejores rutas a los
+conductores, la electrificación de los vehículos y el experimento del Hyperloop.
+“Para el 2020, que organizaremos la feria mundial, queremos que el transporte sea con vehículos
+autónomos sin conductor”, asegura Aisha Bin Bishr, quien, sin embargo, no se atreve a dar una fecha
+de lanzamiento para el Hyperloop, el transporte de pasajeros en un tubo al vacío, que se está
+probando, como concepto y como tecnología aplicable.
+Las notas llegan a los padres en tiempo real.
+“¡Vaya!”, exclama Andrey Belozerov, consejero de Estrategia e Innovaciones de la alcaldía de Moscú
+mientras muestra la aplicación que conecta al millón de alumnos de enseñanza primaria y secundaria
+que hay en la capital rusa. Le acaba de llegar en ese instante el suspenso de su hijo en un examen de
+lengua rusa. “Si no sabe eso es culpa mía”, se lamenta. El envío de notas al instante a los padres es
+uno de los avances del programa de educación (e-learning) creado por Moscú para ser una ciudad
+Resumen de Prensa
+20/12/2018 18:32
+página 19/105
+inteligente.
+El programa educativo inteligente conecta a 2 millones de padres, 1,2 millones de alumnos y 70.000
+profesores de Moscú. “Lo que hace única a Moscú es su solución a gran escala, todo muy centralizado,
+desde el principio pensamos en proyectos que abarquen a toda la ciudad”, insiste Belozerov, quien
+afirma que un 77% de la población ya tiene acceso a los smartphones, lo que supone nueve millones
+de personas. Ciudades como Moscú ya han adoptado el voto electrónico. En el futuro, quienes no
+tengan un móvil inteligente, no solo en Moscú, sino en todo el mundo, deberán seguir ejerciendo el
+derecho a voto a la manera tradicional, si es que se mantiene esa posibilidad.
+El programa de e-learning es solo uno de los muchos de los que presume Moscú como smart city. La
+capital rusa presume de tener 30.000 puestos de wifi públicos, de ser la única ciudad del mundo con
+cobertura wifi en todos los túneles de la red de metro, y de haber puesto en marcha proyectos
+inteligentes de salud para la detección precoz del cáncer de pulmón.
+La salud vista por los adultos mayores.
+Nell son las siglas del programa de salud inteligente de La Haya, que ha recibido el premio de
+“Ciudades inclusivas y compartidas” del Smart City World Expo Congress por su intento de buscar
+soluciones para ciudadanos de la tercera edad a partir de un intercambio de experiencias y resultados.
+El eHealth Living Lab, como se llama la plataforma holandesa premiada, ha empezado su programa
+con 150 adultos mayores y los resultados deberían servir para ser aplicables como políticas nacionales
+y nuevos modelos de negocio.
+De momento la iniciativa holandesa se ha centrado en las interacciones sobre enfermedades crónicas,
+la baja alfabetización digital y las necesidades en la tercera edad. Uno de los propósitos de esta línea
+de investigación consiste en cómo lograr que los adultos mayores puedan pasar más años en sus
+domicilios gozando de más salud, ya que el sistema sanitario no puede absorber la demanda de
+residencias y personal de atención médica. Pasa en Holanda y en el resto de Europa. En La Haya están
+escuchando las experiencias de los implicados para ver cómo se puede llevar una vida activa y
+encontrar soluciones para la soledad de los adultos mayores.
+Los programas de salud inteligente, con capacidad para interconectar a los pacientes, los hospitales y
+las ambulancias, están llamados a revolucionar los sistema de salud pública en la próxima década más
+allás de los intercambios de diagnóstico. Sin ir más lejos, en Catalunya, esta semana se ha anunciado
+que el SEM se ha dotado de un software que permite enviar la información del paciente antes de que
+llegue al hospital y que los médicos preparen la atención necesaria.
+La Haya forma parte de la Alianza de Ciudades Compartidas a la que también pertenecen Barcelona,
+Dallas, Gante, Gotebor, Copenhague, Nueva York, Seúl, Singapur, Tel Aviv, Toronto, Amsterdam,
+Maribor, Malmoe o Washington DC.
+La vivienda asequible de las comunidades.
+Muhammad Yunus, el premio Nobel de la Paz del año 2006, dijo durante su conferencia magistral en el
+Smart City World Expo de esta semana en la Fira de Barcelona que “las ciudades inteligentes deben ser
+proveedoras de cuidados”. No fue solamente Yunus. Andrew Keen, el empresario y escritor británicoestadounidense
+crítico con las deshumanización que conlleva la tecnología, incidió en que las
+ciudades inteligentes deben estar “libres de algoritmos” para evitar que se conviertan en San
+Francisco, la ciudad de referencia del Silicon Valley donde conviven los multimillonarios magnates de
+las empresas tecnológicas -Apple, Google, Yahoo, Facebook...- junto a una creciente población de
+indigentes callejeros.
+Los sudafricanos de Delft Link colaboran en esta idea socializadora de smart city que defienden Yunus
+Resumen de Prensa
+20/12/2018 18:32
+página 20/105
+y Keen. Su proyecto, encabezado por dos estudiantes, Jonathan Wilson y Anees Arnold, se ha llevado el
+premio a la idea innovadora de la exposición celebrada en Barcelona por su programa de vivienda
+asequible auspiciada por la comunidad. Se trata de una aplicación que facilita que trabajadores de
+renta baja del asentamietno de Delft South de Ciudad del Cabo se conviertan en micro-desarrolladores
+de sus nuevas viviendas poniéndolos en contacto con promotores, inversionistas y colectivos de la
+comunidad.
+Energía de las aguas residuales.
+Dos capitales nórdicas, Estocolmo y Oslo, están en la delantera de la planificación pública hacia una
+ciudad inteligente. La capital sueca cuenta con un programa ambicioso de mejorar la eficiencia de los
+servicios públicos, como la mejora del sistema de residuos urbanos, y Oslo ha apostado por ser la
+capital europea de los vehículos eléctricos con el horizonte de tener una flota exclusivamente eléctrica
+para el 2030.
+Los países nórdicos no limitan sus proyectos de smart city a las grandes capitales sino que lo hacen
+extensible a ciudades pequeñas o de tamaño medio. Stavanger, con 130.000 habitantes, también
+ambiciona el futuro. Socia del Triangulum tecnológico formado junto a Manchester (Inglaterra) y
+Eindhoven (Holanda), la ciudad noruega protagoniza una programa pionero de energía sostenible con
+la Planta Central de Energía (CEP), donde se genera electricidad aprovechando las aguas residuales y
+pluviales. “El concepto es que todas aguas de desecho de una casa, sean de la ducha, del retrete o del
+lavaplatos, acaben transformándose en energía”, resume Inge Vikshäland, directora de
+comunicaciones del proyecto Smart City de Stavanger .
+Las ciuades de Lepizig, Praga y Sabadell son ‘followers’ del Triangulum y están a la expectativa para
+replicar iniciativas como la CEP.
+El paso de cebra inteligente.
+Andrew Keen, en su charla en el Auditorium de la Fira de Barcelona, citó explícitamente a Estonia como
+modelo de país que está desarrollando el concepto de smart city sin olvidar la dimensión humana.
+“Estamos todos comprometidos, es la ventaja de ser un país de 1,3 millones de habitantes, en el que
+vamos juntos si nos proponemos una meta”, dice Kairit Sikkal, directora del proyecto Trade Estonia.
+El país báltico ha logrado que las entidades públicas y las empresas se asocien para que la capital
+Tallín y el resto del país sean pronto otra smart nation. En la capital estonia, por ejemplo, se podrá ver
+pasos de cebra inteligentes que estarán conectados a la red de tránsito y a los vehículos que circulan.
+Una empresa estonia, Bercman, está preparando un modelo en el que una voz avisará al conductor
+imprudente de los daños que puede ocasionar y cuánto tiempo le resta para atropellar al algún
+transeúnte si no aminora su velocidad o cambia su trayectoria.
+Toda esta tecnología requerirá de una conectividad mejorada para que no haya desconexiones letales
+en la red viaria, por eso la necesidad de pensar en unidades territoriales que van más allá de las
+ciudades. Los tiempos en los que habrá un control dinámico de los semáforos -que se pongan en
+verde o rojo en función del tráfico y de los coches, bicicletas, o buses que detecten los sensores y las
+cámaras- ya están más cerca.
+Medio: EL REFERENTE Fecha: 17/11/2018 (10:13:20)
+Términos: tecnología
+

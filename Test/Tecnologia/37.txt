@@ -1,0 +1,57 @@
+﻿
+La tecnología que va evitar choques entre drones.
+Evitar colisiones entre drones que hacen misiones planificadas de emergencias, extinción de incendios
+o vigilancia es el reto que se plantea el primer protocolo creado por investigadores de la Universidad
+Politécnica de Valencia (UPV) ante la proliferación de los vehículos aéreos no tripulados.
+El protocolo se basa en la actualización continua de la ubicación del dron y en estimaciones de
+localizaciones futuras: eso permite detectar los riesgos de colisión de manera temprana y, en último
+término, reprogramar los vuelos para evitar el choque. En los últimos años, los drones se han
+popularizado en todo el mundo y son cada vez más utilizados para misiones concretas como la
+asistencia en emergencias, la extinción de incendios, la entrega de paquetes en áreas rurales o la
+supervisión y vigilancia de cultivos.
+Ese escenario aumenta considerablemente el riesgo de colisión y hace imprescindible el desarrollo de
+protocolos, señalan fuentes de la UPV. El más novedoso se llama MBCAP y lleva el sello de la
+Universidad Politécnica de Valencia porque ha sido desarrollado por investigadores del Grupo de
+Redes de Computadores-DISCA, quienes han creado además un software que permite la simulación
+avanzada de vuelos planificados y simultáneos de hasta un total de 256 drones.
+La principal novedad de la propuesta de los investigadores valencianos, según explica en
+declaraciones a Efe el investigador Carlos Tavares, radica en la posibilidad de hacer pruebas simuladas
+con total realismo utilizando el simulador y que, una vez validadas, pueden ser transferidas
+directamente a drones reales. «Esto es posible debido a que nuestro desarrollo hace totalmente
+compatible el código simulado con el código que utiliza un dron real, algo que es completamente
+novedoso a nivel internacional», apunta.
+El sistema se basa en la actualización continua de la ubicación del dron y en estimaciones de
+localizaciones futuras, lo que permite detectar los riesgos de colisión de manera temprana y
+reprogramar los vuelos. El software forzaría a los drones a detenerse cuando están volando
+críticamente uno cerca del otro, estableciendo una prioridad para determinar qué vehículo pasará
+primero por el área crítica.
+Resumen de Prensa
+20/12/2018 18:32
+página 43/105
+«Con este programa, los drones pueden comunicarse entre sí, de forma distribuida. Si detecta que las
+rutas coinciden en espacio y tiempo, se paran», explica Tavares. El investigador hace hincapié en que
+estos aviones no tripulados «lo que hacen es anunciar sus posiciones futuras; se escuchan entre ellos
+y llegan a un acuerdo, tomando decisiones inteligentes de forma colaborativa para que uno se espere
+y el otro siga».
+«Es como un 'Ceda el paso', pero en vuelo y de forma distribuida. Los drones comerciales no tienen
+integrado el sistema de comunicación que permite hablar directamente entre ellos para hacer este
+tipo de cosas y por eso ningún dron comercial incluye un protocolo» «Es como un 'Ceda el paso', pero
+en vuelo y de forma distribuida», detalla. Tavares explica que «los drones comerciales no tienen
+integrado el sistema de comunicación que permite hablar directamente entre ellos para hacer este
+tipo de cosas y por eso ningún dron comercial incluye un protocolo». «Lo incluyen nuestros drones
+que gastamos en investigación porque los montamos con un sistema de comunicaciones adicional
+para poder diseñar este protocolo anticolisiones», añade.
+El investigador asegura que los drones actuales ya tienen algún sistema de comunicación pero si en un
+futuro quieren utilizar este protocolo «tendrán que ampliar las comunicaciones para poder hablar
+directamente entre ellos»; eso es algo, a su juicio, «fácil» de modificar y «no es un requisito tan difícil
+de conseguir». «Simplemente no está pensado y como no está pensado de momento, (sus fabricantes)
+no lo incluyen», aclara.
+En su trabajo, los investigadores de la UPV han incluido un nuevo modelo de comunicación más
+eficiente entre los drones y con pruebas reales, midieron la comunicación entre dos aeronaves a
+distancias de hasta tres kilómetros. Además, la simulación de los vuelos tiene en cuenta todos los
+parámetros, desde la física que regula su vuelo hasta los motores o velocidad del viento, lo cual
+permite validar la propuesta en diferentes condiciones. Este trabajo ha sido presentado en la trigésima
+segunda International Conference on Advanced Information Networking and Applications.
+Medio: ABC - Conocer Tecnología Fecha: 13/11/2018 (03:46:12)
+Términos: tecnología
+

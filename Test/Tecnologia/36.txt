@@ -1,0 +1,47 @@
+﻿
+Cómo usar 2 SIM con tu iPhone.
+Los nuevos iPhone XS y iPhone XR tienen una función nueva para los productos de Apple, que es el
+soporte para mantener dos conexiones con dos tarjetas SIM diferentes. Algo común en teléfonos de
+otras marcas. Apple ha optado por un método singular, que es mantener una tarjeta SIM física y una
+exclusivamente digital o electrónica denominada “eSIM”.
+La SIM física funciona de forma tradicional, introduciéndola en la bandeja y activándola a través del
+código PIN. La segunda SIM requiere que el operador soporte este sistema, en España los tres
+principales operadores: Movistar, Orange y Vodafone ya soportan esta tecnología, aunque algunos
+operadores menores o virtuales tengan aún que ofrecer este servicio. Asegúrate consultando a sus
+respectivos teléfonos de atención telefónica.
+El sistema de doble-SIM momento no funciona con WhatsApp o apps similares, solo con las llamadas.
+Para instalar una eSIM en el iPhone, el operador te ofrecerá un código QR bien por carta o de forma
+digital desde su web o por email. En este código de identificación van todos los datos suficientes para
+que el iPhone detecte y configure todo. Los pasos son sencillos:
+1. Abrir la aplicación de Ajustes y seleccionar Datos móviles.
+2. Seleccionar “Añadir plan de datos móviles”.
+3. Apunta con la cámara del iPhone al código QR que te ha dado el teleoperador.
+Es probable que necesites introducir un código de verificación la primera vez que añades esta eSIM.
+Normalmente estará ubicado cerca del código QR en la carta de papel, web o email recibido.
+Otros operadoras te permiten añadir y modificar tus contratos y números de teléfono a través de sus
+propias aplicaciones oficiales, disponibles en la App Store. Para ello simplemente busca la aplicación
+oficial, identifícate y sigue los pasos que te indique. El sistema operativo utilizará los datos recibidos de
+la app para configurar la conexión.
+Gestionar las conexiones.
+Las llamadas y mensajes entrantes a través de las conexiones de ambas tarjetas llegarán de la misma
+forma, sin intervención del usuario. Estarán automáticamente asignados a la tarjeta para responder,
+de tal forma que si alguien nos deja una llamada perdida a la SIM 1 el sistema responda desde esa
+misma conexión si no le especificamos más. También podemos especificar qué SIM usar para llamar a
+cada contacto en la agenda.
+Al iniciar una llamada nueva, el sistema elegirá por defecto la tarjeta SIM principal, pero mostrará un
+Resumen de Prensa
+20/12/2018 18:32
+página 42/105
+pequeño menú donde podemos cambiarlo con un toque. Lo mismo ocurre con los SMS, pero no con el
+sistema de mensajería de Apple: iMessage solo funciona con la tarjeta SIM establecida como principal.
+iMessage, FaceTime y la conexión de datos solo funciona con la tarjeta SIM establecida como principal.
+Debemos elegir qué SIM es la que establece la conexión de datos, porque solo una puede estar activa
+en todo momento. Si queremos cambiarlo, entramos en la aplicación de Ajustes y seleccionamos
+“Datos móviles”, y luego seleccionamos la tarjeta que queremos utilizar o si queremos desactivarlo.
+El sistema de momento no funciona con WhatsApp u otras aplicaciones que no sean de Apple. La
+empresa creadora del iPhone ha hecho los deberes y ha creado las herramientas para que WhatsApp
+tenga soporte para doble SIM en el iPhone en el futuro, pero de momento desde WhatsApp no han
+indicado fecha para la llegada de esta función.
+Medio: ABC - Conocer Tecnología Fecha: 13/11/2018 (03:46:38)
+Términos: tecnología
+
