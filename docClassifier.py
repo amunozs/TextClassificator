@@ -79,8 +79,6 @@ def testKNN(dictionary, tfidf, index_sim, test_docs):
 	tp = [0,0,0]
 	fp = [0,0,0]
 	fn = [0,0,0]
-
-
 	for cat in categories:
 		for doc in test_docs[cat]:
 			pdoc = preprocess_document(doc)
@@ -100,21 +98,18 @@ def testKNN(dictionary, tfidf, index_sim, test_docs):
 
 	return evaluate(tp, fp, fn)
 
-
 def test(dictionary, tfidf, index_sim, test_docs, folders):
 	tp = [0,0,0]
 	fp = [0,0,0]
 	fn = [0,0,0]
-
 	for category in categories:
 		cdocs = classify(dictionary, tfidf, index_sim, test_docs[category],folders)
 		for cdoc in cdocs:
-			ranking = sorted(enumerate(cdoc), key=itemgetter(1), reverse=True)
-			if (ranking[0][0] == category):
+			if (cdoc == category):
 				tp[category]+=1
 			else:
 				fn[category]+=1
-				fp[ranking[0][0]]+=1
+				fp[cdoc]+=1
 
 	return evaluate(tp, fp, fn)
 
@@ -122,11 +117,10 @@ def test(dictionary, tfidf, index_sim, test_docs, folders):
 def classify(dictionary, tfidf, index_sim, test_docs, folders):
 	cdocs = []
 	for doc in test_docs:
-		cdoc = classifyDoc(doc,dictionary, tfidf, index_sim)
-		cdocs.append(cdoc)
-		ranking = sorted(enumerate(cdoc), key=itemgetter(1), reverse=True)
-		category = ranking[0][0]
-		filename = folders[category] + SEP + str(ranking[0][1]) + ".txt" 
+		rankdoc = classifyDoc(doc,dictionary, tfidf, index_sim)
+		category = rankdoc[0]
+		cdocs.append(category)
+		filename = folders[category] + SEP + str(rankdoc[1]) + ".txt" 
 		if not os.path.exists(folders[category]):
 			os.makedirs(folders[category])
 		f = open(filename,"wb+") 
@@ -134,7 +128,8 @@ def classify(dictionary, tfidf, index_sim, test_docs, folders):
 		f.close()
 	return cdocs
 
-# Clasifica un texto a una categoría
+# Clasifica un texto a una categoría según las similaridad a la media de la categoría
+# Y devuelve dicha similaridad
 # Deportes: 0
 # Política: 1
 # Tecnología: 2
@@ -153,8 +148,9 @@ def classifyDoc(doc, dictionary, tfidf, index_sim):
 			category += 1
 			cdoc.append(0)
 		cdoc[category] += score/cat_train_size
-		
-	return cdoc
+
+	ranking = sorted(enumerate(cdoc), key=itemgetter(1), reverse=True)
+	return ranking[0]	
 
 # Calcula Precisión y Exhaustividad
 def evaluate(tp, fp, fn):
@@ -198,19 +194,6 @@ def main():
 	print ("Total precision: ", precision)
 	print ("Total recall: ", recall)
 
-	
-	
-	# acc_dep = test(dictionary, tfidf, index_sim, test_deportes, 0, result_folders)
-	# print("Precisión Deportes: ", acc_dep)
-
-	# acc_pol = test(dictionary, tfidf, index_sim, test_politica, 1, result_folders)
-	# print("Precisión Política: ", acc_pol)
-
-	# acc_tec = test(dictionary, tfidf, index_sim, test_tecnologia, 2, result_folders)
-	# print("Precisión Tecnología: ", acc_tec)
-
-	# acc_total = (acc_dep + acc_pol + acc_tec) / 3
-	# print("Precisión total: ", acc_total)
 
 if __name__ == '__main__':
 	main()

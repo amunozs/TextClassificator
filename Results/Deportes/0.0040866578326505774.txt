@@ -1,0 +1,36 @@
+﻿
+Resumen de Prensa
+20/12/2018 18:32
+página 27/105
+Google lanza el modo nocturno Night Sight para todos los teléfonos
+Pixel.
+Los teléfonos Pixel de Google cuentan con una de las mejores -para algunos la mejor- cámaras del
+mercado. Pero al terminal le quedaba algo por mejorar: el modo noche. La característica que
+permitiría cazar fotos nocturnas de gran calidad fue presentada hace un mes junto al Pixel 3. Sin
+embagro, Google dijo que habría que esperar. Al fin hoy, la compañía lanza Night Sight para todos los
+modelos de la familia Pixel.
+«Pixel 3 utiliza fotografía computacional y tecnología de machine learning para ayudarte a capturar
+unas fotos asombrosas, creativas e incluso profesionales», asegura Alexander Schiffhauer, Product
+Manager de Fotografía Computacional en el blog de Google. «Hemos creado el modo Night Sight, una
+nueva prestación de la cámara Pixel para ayudarte a capturar unas fotos radiantes y con todo detalle
+en condiciones de poca luz, sin necesidad de flash o trípode. A lo largo de los próximos días, el modo
+Night Sight se va a encontrar disponible en las cámaras frontales y traseras de las tres generaciones
+de teléfonos Pixel», asegura.
+La luz es el elemento clave a la hora de hacer una buena fotografía. Por esta razón, para facilitar el
+trabajo a los usuarios, Pixel recomendará automáticamente el uso de este modo cuando haya poca
+luz. «Para acceder a él, solo necesitas dar un ligero toque sobre el mensaje de recomendación o
+puedes acceder de forma manual accediendo directamente a dicha prestación. Después de presionar
+el botón del obturador, mantenlo presionado hasta que el modo Night Sight finaliza la captura de la
+instantánea», explica el responsable, que reseña que no funciona en condiciones de total oscuridad.
+El modo Night Sight valora el temblor natural de la mano y el movimiento que tiene lugar en la escena
+a la hora de hacer la foto. «Si Pixel y la escena están inmóviles, el modo Night Sight dedica más tiempo
+a capturar la luz para minimizar el ruido; si Pixel se mueve o si hay mucho movimiento en la escena,
+Night Sight utiliza un menor tiempo de exposición, capturando menos luz para minimizar el
+desenfoque por movimiento», apunta Alexander Schiffhauer.
+Y si el objeto se mueve en la escena, el modo captura la misma cantidad de luz en una ráfaga de
+numerosas fotos oscuras pero nítidas. «Con la combinación de esta ráfaga de imágenes, Night Sight
+evita el desenfoque por movimiento y proporciona más luz a la imagen, ofreciendo como resultado
+unas instantáneas nítidas y radiantes», concluye.
+Medio: ABC - Conocer Tecnología Fecha: 14/11/2018 (19:51:13)
+Términos: tecnología
+

@@ -1,0 +1,113 @@
+﻿
+¿Qué son y cómo funcionan las nuevas tarjetas eSIM?.
+Resumen de Prensa
+20/12/2018 18:32
+página 93/105
+Los nuevos modelos de iPhone ya empiezan a estar en los bolsillos de millones de personas en todo el
+mundo. Unos dispositivos móviles tan venerados como caros. A la pantalla prácticamente sin marcos,
+a los megapíxeles de sus cámaras, al reconocimiento facial, a la potencia de su procesador… hay que
+sumar algo que hará que este terminal pase a la historia y merezca un reconocimiento especial: el uso
+de la eSIM. Aunque es cierto que Apple no ha sido la primera empresa en usar esto.
+Se trata de una tecnología con la que nuestros proveedores de telefonía móvil nos ofrecerán el servicio
+de voz y datos contratado, sin la necesidad de tener en el interior del terminal una tarjeta SIM física.
+Algo de lo que también se beneficiarán infinidad de dispositivos electrónicos, como los relojes
+inteligentes, con lo que además podrán reducir su tamaño. Los nuevos iPhone combinarán ambos
+protocolos, pero el mercado tecnológico ya augura que estamos en la antesala de un nuevo escenario
+y del novedoso rumbo que tomarán a partir de ahora todos los fabricantes móviles.
+En el pasado, Apple lideró la adaptación de sus iPhone a los nuevos tamaños de tarjetas SIM, pasando
+de la antigua SIM a la microSIM y posteriormente a la nanoSIM, lo que llevó al resto de fabricantes
+móviles a asumir como válida la tendencia. Con las tarjetas virtuales, el sector espera que suceda lo
+mismo y poco a poco el catálogo de terminales con esta opción vaya aumentando durante los
+próximos meses.
+Por ahora todos sabemos que las eSIM no son tarjetas físicas, pero poco más sabemos de ellas.
+Desconocemos cómo funcionan, qué ventajas nos proporcionarán como usuarios y desconocemos
+qué deberemos hacer para “insertarlas” en nuestros terminales. Para averiguar éstas y otras dudas
+sobre las también llamadas tarjetas virtuales, recurrimos a Rubén Martínez, responsable de
+mercadotecnia de la empresa Valid, el quinto proveedor del mundo en la producción de tarjetas
+inteligentes para móviles.
+¿Qué es una eSIM?.
+Desde el punto de vista técnico, una eSIM es un componente electrónico que permite la recepción de
+forma segura de toda la información que contienen las tarjetas SIM clásicas. Hasta que no se desplegó
+al tecnología eSIM, esa información sólo podía ser cargada en industrias con altos niveles de
+seguridad, similares a las fábricas de tarjetas de crédito, ya que dicha información es la que permite
+identificar al usuario para que pueda hacer uso de la conectividad móvil. También podemos ver la
+eSIM como un avance más en la digitalización de los servicios que ofrecen las operadoras móviles, de
+forma que aumenta la comodidad y la rapidez de esos servicios.
+¿Cuáles serán los beneficios o inconvenientes que tendrá el usuario respecto las tarjetas SIM
+convencionales?.
+Uno de los principales beneficios será que el usuario podrá recibir los servicios de su operador (lo que
+se llama suscripción) de forma más rápida, sin necesidad de visitar la tienda física o esperar la llegada
+de la tarjeta a través de un transportista. Para aquellos usuarios que manejan varias tarjetas SIM,
+como por ejemplo aquellos que viajan frecuentemente y utilizan una compañía distinta en función del
+país, podrán continuar usando varias suscripciones sin necesidad de abrir sus teléfonos para insertar
+una tarjeta SIM clásica. También veremos cómo se reduce la robustez de los terminales, ya que
+eliminarán la necesidad de un compartimento para introducir la tarjeta SIM.
+¿Cómo se instalará la eSIM en nuestros terminales?.
+Aunque la especificación técnica acordada por la industria móvil contempla varios mecanismos,
+probablemente la forma más extendida para la obtención de una suscripción de un operador será el
+código de activación. Los usuarios podrán introducir este código de activación en sus terminales
+pulsando en un enlace o escaneando un código bidimensional con la cámara de su terminal.
+Resumen de Prensa
+20/12/2018 18:32
+página 94/105
+¿Podremos cambiar de número de teléfono con la misma facilidad que hasta ahora?.
+La libertad de elección de operador y de cambio de número de teléfono será la misma que en la
+actualidad para aquellos dispositivos que, como los nuevos iPhone, sean dual SIM con una eSIM y una
+SIM clásica.
+Por otro lado, aquellos dispositivos que sólo ofrezcan la posibilidad de tarjeta eSIM, estarán limitados
+por el hecho de que actualmente no todos los operadores están en disposición de poder ofrecer los
+servicios asociados a esta tecnología. Sin embargo, esperamos que esta situación sea transitoria ya
+que una vez que todos los operadores incluyan estos servicios en su oferta, la capacidad de elección
+será total también para estos dispositivos con sólo eSIM. Con la ventaja que para cambiar de tarjeta
+virtual no será necesario abrir ningún compartimento del terminal como hasta ahora.
+Por lo tanto, cuando vayamos al extranjero, ¿podremos “insertar” una numeración local con la misma
+facilidad?.
+Sí, en el extranjero serían aplicables las mismas condiciones. Dentro del país en cuestión podremos
+escoger cualquiera de los operadores que ofrecen los servicios eSIM para usar su suscripción en
+nuestro dispositivo.
+¿Las eSIM cuentan con sistemas de seguridad como PIN y PUK?.
+Efectivamente, dentro de la información que contiene la eSIM se puede incluir cualquiera de los
+mecanismos de protección que incluye actualmente una tarjeta SIM clásica como el código PIN, el
+ICCID o el código PUK.
+¿Las eSIM influirán en los procesos de portabilidad? ¿Cambiarán? ¿Serán distintos?.
+Los procesos de potabilidad entre operadoras están normalmente definidos por un regulador
+nacional que vigila que la libertad de elección de los usuarios no se vea limitada. Por otro lado, es
+importante remarcar que cada uno de los números de teléfonos que tenemos es fruto de una relación
+comercial con una operadora específica. En ese sentido, la tecnología eSIM aumenta la rapidez y la
+comodidad del proceso en el que una operadora entrega una nueva tarjeta SIM al cliente, pero no
+afecta de ninguna otra forma cómo se gestionan esos cambios de relaciones comerciales entre el
+usuario y las operadoras.
+¿Existirán móviles dual SIM como hasta ahora? Es decir, teléfonos con dos líneas operativas al mismo
+tiempo?.
+La tecnología eSIM no reduce las posibilidades que pueden ofrecer los terminales, más bien al
+contrario. Una vez que la tecnología esté suficientemente extendida, veremos más dispositivos
+móviles con sólo eSIM e incluso dispositivos móviles con dos eSIM de forma que podremos tener dos
+líneas activas a la vez, cada una de ellas con una eSIM distinta.
+Al usar Apple las eSim ¿se prevé que en un futuro inmediato otros fabricantes de móviles opten por la
+misma tecnología?.
+A partir del lanzamiento de Google Pixel 2 en 2017 el resto de fabricantes de dispositivos pudieron ver
+de forma real que esa aproximación híbrida, dual SIM con eSIM, permite a los usuarios disfrutar de
+tecnología eSIM sin restringir el número de operadores a los que se puede contratar la conectividad.
+Apple ha seguido esa aproximación para los nuevos iPhone y parece bastante probable que otros
+fabricantes, tanto globales como nacionales, también lancen algunos de sus modelos de esta forma a
+lo largo de los próximos dos años.
+En vuestra empresa, como fabricantes de tarjetas SIM, ¿qué tiempos prevéis para que la eSIM acabe
+Resumen de Prensa
+20/12/2018 18:32
+página 95/105
+sustituyendo a las SIM Card?.
+En primer lugar, es importante destacar que tanto el uso de la tarjeta SIM clásica como la penetración
+de dispositivos de tipo smartphone es muy heterogéneo, dependiendo del país que estemos
+analizando. Incluso si nos centráramos en alguno de los mercados más avanzados en la adopción de
+nuevas tecnologías móviles, una previsión bastante aceptada entre los expertos de nuestro sector es
+que el uso de la tarjeta eSIM no superará al de la tarjeta SIM clásica antes de 2025.
+Ahora mismo, un móvil sólo con tecnología eSIM, ¿funcionaría en China?.
+En China, al igual que en otros países como India, el regulador nacional ha decidido establecer una
+reglamentación específica para autorizar el uso de la tecnología eSIM. En el caso de China, esa
+reglamentación está todavía bajo definición. Por ello, Apple y otros fabricantes no han lanzado sus
+dispositivos de forma masiva en el mercado chino, ya que podrían verse obligados a retirarlos cuando
+la nueva normativa esté finalizada y entre en vigor.
+La eSim facilita procesos como el de usar varias líneas de teléfono en un mismo dispositivo.
+Medio: La Vanguardia - Tecnología Fecha: 27/10/2018 (06:00:00)
+Términos: tecnología
+

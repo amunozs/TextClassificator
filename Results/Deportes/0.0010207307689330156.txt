@@ -1,0 +1,41 @@
+﻿
+Resumen de Prensa
+20/12/2018 18:32
+página 21/105
+Nace una tecnología para reducir el desperdicio de alimentos de la
+mano de Ladorian.
+En España se desperdician cada año 7’7 millones de toneladas de alimentos, según el Ministerio de
+Agricultura. Uno de los principales motivos es la caducidad de los productos. Ante estos datos,
+Ladorian acaba de lanzar una tecnología que permite a los restaurantes reducir el excedente de
+alimentos.
+Esta startup española instala su software en las pantallas de televisión en los restaurantes y produce el
+contenido que se difunde a través de ellas. El punto diferencial de su tecnología es que no lo difunde
+de un modo aleatorio, sino que lleva a cabo una 'distribución inteligente'. .
+Ladorian aplica un algoritmo mediante el cual se emite el contenido de forma personalizada según el
+stock de alimentos del restaurante. "Si a una cadena de restauración se le han terminado un
+producto, no tiene sentido que en las pantallas de ese establecimiento se anuncie en bucle una
+promoción del mismo. Nuestra tecnología permite que se emitan ofertas de los platos a los que hay
+que dar salida en ese mismo instante para que no caduquen y reducir de esa manera los desperdicios
+de ese restaurante", asegura Miguel Ferrández, Responsable del Área de Restauración de Ladorian. De
+esta manera, se benefician tanto los consumidores, que obtienen descuentos, como los restaurantes,
+que optimizan los recursos.
+Además, las campañas son medibles, ya que Ladorian audita los contenidos digitales emitidos a través
+de Google Analytics, por lo que las cadenas de restauración tienen acceso a estos datos y pueden
+saber el porcentaje de alimentos que se han desperdiciado antes y después de instalar la herramienta.
+.
+CONTENIDO INTELIGENTE.
+Ladorian es una startup española que hace distribución inteligente de contenido en los puntos de
+venta. Esta empresa de base tecnológica digitaliza los establecimientos en los que se encuentran los
+clientes y transforma la tradicional cartelería publicitaria en contenido audiovisual que llama la
+atención de los consumidores y consigue aumentar y orientar las ventas.
+Ladorian instala software en pantallas de televisión en los establecimientos (farmacias, restauración,
+gimnasios, clínicas, etc) y produce el contenido que se difunde a través de ellas, ya sea informativo o
+publicitario. El punto diferencial de su tecnología es que no lo difunde de un modo aleatorio, sino que
+lleva a cabo una 'distribución inteligente'.
+La organización que lidera el movimiento de emprendedores de alto impacto en todo el mundo,
+Endeavor, ha seleccionado al CEO de Ladorian, Alejandro Gutierrez-Bolívar, entre los emprendedores
+de más de 300 startups españolas en un riguroso proceso de selección que valora los negocios, su
+potencial de crecimiento e innovación y su compromiso con el avance del ecosistema emprendedor.
+Medio: Europa Press - PortalTic Fecha: 16/11/2018 (16:11:37)
+Términos: tecnología
+
